@@ -20,43 +20,43 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Nationwide
+  - title: 全国
     output: web, pdf
     folderitems:
 
-    - title: Latest
+    - title: 直近
       url: /20210120.html
       output: web, pdf
       type: homepage
 
-    - title: Last week
+    - title: 先週
       url: /20210113.html
       output: web, pdf
 
-  - title: Tokyo
+  - title: 東京
     output: web, pdf
     folderitems:
 
-    - title: Latest
+    - title: 直近
       url: /latest_tokyo.html
       output: web, pdf
 
-    - title: Last week
+    - title: 先週
       url: /last_tokyo.html
       output: web, pdf
 
-  - title: Others
+  - title: その他
     output: web, pdf
     folderitems:
 
-    - title: History
+    - title: 改定履歴
       url: /history.html
       output: web, pdf
 
-    - title: Resource
+    - title: 参考資料
       url: /resource.html
       output: web, pdf
 
-    - title: Disclaimer
+    - title: 免責事項
       url: /disclaimer.html
       output: web, pdf

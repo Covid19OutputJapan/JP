@@ -3,5 +3,5 @@
 topnav:
 - title: Topnav
   items:
-    - title: 日本語
-      external_url: https://covid19outputjapan.github.io/JP/
+    - title: English
+      external_url: https://covid19outputjapan.github.io/

@@ -1,5 +1,5 @@
 ---
-title: "Disclaimer"
+title: "免責事項"
 keywords: sample homepage
 tags: [others]
 sidebar: home_sidebar
