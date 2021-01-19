@@ -41,7 +41,7 @@
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
-<link rel="alternate" type="application/rss+xml" title="Covid19OutputJapan.github.io" href="http://localhost:4000/feed.xml">
+<link rel="alternate" type="application/rss+xml" title="JP" href="http://localhost:4000/feed.xml">
 
     <script>
         $(document).ready(function() {
@@ -205,19 +205,19 @@
       
   
   <li>
-      <a title="東京" href="#">東京</a>
+      <a title="都道府県" href="#">都道府県</a>
       <ul>
           
           
           
-          <li><a title="直近" href="latest_tokyo.html">直近</a></li>
+          <li><a title="東京" href="">東京</a></li>
           
           
           
           
           
           
-          <li><a title="先週" href="last_tokyo.html">先週</a></li>
+          <li><a title="大阪" href="">大阪</a></li>
           
           
           
@@ -228,7 +228,7 @@
       
   
   <li>
-      <a title="その他" href="#">その他</a>
+      <a title="その他の情報" href="#">その他の情報</a>
       <ul>
           
           
@@ -292,7 +292,7 @@
 
 <p>図表の作成に用いたコードやデータファイルは<a href="https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/_archives/">ここ</a>.</p>
 
-<h3 id="1-covid-19の感染状況とgdpの条件付き予測">1. Covid-19の感染状況とGDPの条件付き予測</h3>
+<h3 id="1-covid-19の感染状況の条件付き予測">1. Covid-19の感染状況の条件付き予測</h3>
 
 <table align="center">
   <tbody>
@@ -302,9 +302,9 @@
   </tbody>
 </table>
 
-<p>出所: 著者達の計算による.</p>
+<p>出所: 著者達の計算による。</p>
 
-<h3 id="2-covid-19とgdpの予測されるトレードオフ">2. Covid-19とGDPの予測されるトレードオフ</h3>
+<h3 id="2-covid-19とgdpの予測される関係">2. Covid-19とGDPの予測される関係</h3>
 
 <table align="center">
   <tbody>
@@ -314,7 +314,7 @@
   </tbody>
 </table>
 
-<p>出所: 著者達の計算による.<br /> 注: 縦軸は12か月後までに予測される総死亡者数、横軸の破線は2020年における実際のCovid-19による総死亡者数をそれぞれ示す.</p>
+<p>出所: 著者達の計算による。<br /> 注: 縦軸は12か月後までに予測される総死亡者数、横軸はこれから12か月間の総生産量のトレンドからの乖離。上のパネルでは、最も濃い、次に濃いグレイのエリアはそれぞれ総死者数の20パーセント、40パーセントの信頼区間を示す。また、最も薄い、次に薄いグレイのエリアはそれぞれ総死者数の80パーセント、60パーセントの信頼区間を示す。</p>
 
 <h3 id="3-条件付き予測における誤差">3. 条件付き予測における誤差</h3>
 
@@ -334,15 +334,15 @@
       <th> </th>
       <th>実現値</th>
       <th>1週前の<br /> 予測値</th>
-      <th>予測誤差</th>
+      <th>（条件付き）予測誤差</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>新規陽性者数</strong></td>
-      <td>42882</td>
-      <td>24646</td>
-      <td><span style="color: red; ">-18236</span></td>
+      <td>42,882</td>
+      <td>24,646</td>
+      <td><span style="color: red; ">-18,236</span></td>
     </tr>
     <tr>
       <td><strong>新規死亡者数</strong></td>
@@ -361,26 +361,26 @@
       <th> </th>
       <th>実現値</th>
       <th>4週前の<br /> 予測値</th>
-      <th>予測誤差</th>
+      <th>（条件付き）予測誤差</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>新規陽性者数</strong></td>
-      <td>106619</td>
-      <td>82444</td>
-      <td><span style="color: red; ">-24175</span></td>
+      <td>106,619</td>
+      <td>82,444</td>
+      <td><span style="color: red; ">-24,175</span></td>
     </tr>
     <tr>
       <td><strong>新規死亡者数</strong></td>
-      <td>1264</td>
+      <td>1,264</td>
       <td>998</td>
       <td><span style="color: red; ">-266</span></td>
     </tr>
   </tbody>
 </table>
 
-<p>出所: 著者達の計算による.</p>
+<p>出所: 著者達の計算による。</p>
 
 
 
@@ -394,7 +394,7 @@
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2021 Daisuke Fujii and Taisuke Nakata. All rights reserved. <br />
- Site last generated: Jan 18, 2021 <br />
+ Site last generated: Jan 19, 2021 <br />
                 </div>
             </div>
 </footer>
@@ -414,7 +414,7 @@
 
 
 
-<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-187486534-1','auto');ga('require','displayfeatures');ga('send','pageview');</script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-187585158-2','auto');ga('require','displayfeatures');ga('send','pageview');</script>
 
 
 </html>
