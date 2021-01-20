@@ -7,7 +7,7 @@ permalink: index.html
 summary:
 ---
 
-## 毎週アップデート (最終アップデート：2021年1月20日)
+## 最終アップデート：2021年1月2１日
 
 図表の作成に用いたコードやデータファイルは[ここ](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/_archives/).
 

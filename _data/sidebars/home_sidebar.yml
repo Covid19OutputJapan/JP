@@ -39,11 +39,14 @@ entries:
   - title: その他の情報
     output: web, pdf
     folderitems:
-    - title: 改定履歴
-      url: /history.html
+    - title: チーム
+      url: /team.html
       output: web, pdf
     - title: 参考資料
       url: /resource.html
+      output: web, pdf
+    - title: 改定履歴
+      url: /history.html
       output: web, pdf
     - title: 免責事項
       url: /disclaimer.html
