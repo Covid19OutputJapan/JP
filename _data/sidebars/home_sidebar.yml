@@ -24,7 +24,7 @@ entries:
     output: web, pdf
     folderitems:
     - title: 直近
-      url: /20210120.html
+      url: /index.html
       output: web, pdf
       type: homepage
 
