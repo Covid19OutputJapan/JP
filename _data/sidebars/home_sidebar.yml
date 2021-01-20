@@ -27,25 +27,14 @@ entries:
       url: /20210120.html
       output: web, pdf
       type: homepage
-    - title: 先週
-      url: /20210113.html
-      output: web, pdf
 
   - title: 都道府県
     output: web, pdf
     folderitems:
     - title: 東京
       output: web, pdf
-      folderitems:
-      - title: 直近
-        url: /latest_tokyo.html
-        output: web, pdf
-      - title: 先週
-        url: /last_tokyo.html
-        output: web, pdf
-    - title: 大阪
-      output: web, pdf
-      folderitems:
+      url: /tokyo.html
+      type: homepage
 
   - title: その他の情報
     output: web, pdf
