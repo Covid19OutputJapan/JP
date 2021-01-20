@@ -43,7 +43,7 @@ entries:
       url: /team.html
       output: web, pdf
     - title: 参考資料
-      url: /resource.html
+      url: /resources.html
       output: web, pdf
     - title: 改定履歴
       url: /history.html

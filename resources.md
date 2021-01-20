@@ -3,7 +3,7 @@ title: "参考資料"
 keywords: sample homepage
 tags: [others]
 sidebar: home_sidebar
-permalink: resource.html
+permalink: resources.html
 summary:
 ---
 
