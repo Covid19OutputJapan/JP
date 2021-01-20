@@ -1,5 +1,5 @@
 ---
-title: "Covid-19 and Output in Japan"
+title: "日本でのCovid-19と経済活動の関係"
 keywords: sample homepage
 tags: [nationwide]
 sidebar: home_sidebar
