@@ -30,12 +30,12 @@ summary:
 #### 新規死亡者数
 
 {: align="center"}
-|![ForecastErrorsD](./images/20210120/ForecastErrorsD_JP.png)|
+|![ForecastErrorsD](./images/20210120/ForecastErrorsD.png)|
 
 #### 新規陽性者数
 
 {: align="center"}
-|![ForecastErrorsN](./images/20210120/ForecastErrorsN_JP.png)|
+|![ForecastErrorsN](./images/20210120/ForecastErrorsN.png)|
 
 #### i. 1週先予測
 
