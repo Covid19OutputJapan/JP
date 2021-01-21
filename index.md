@@ -58,3 +58,11 @@ summary:
 | **新規死亡者数** |   1,004 | 1,459      | <span style="color: red; ">- 454</span> |
 
 出所: 著者達の計算による。
+
+### 5. 今週のチャート
+
+{: align="center"}
+|![TradeoffUB](./images/20210120/ChartOfTheWeek.png)|
+
+Source: 著者達の計算による。
+Note: 黒実線と灰色のファンチャートは図２と同じ。 赤実線はワクチン接種速度が基本シナリオの2倍の場合。
