@@ -76,5 +76,5 @@ summary:
 {: align="center"}
 |![TradeoffUB](./images/20210120/ChartOfTheWeek.png)|
 
-Source: 著者達の計算による。
+Source: 著者達の計算による。<br>
 Note: 黒実線と灰色のファンチャートは図２と同じ。 赤実線はワクチン接種速度が基本シナリオの2倍の場合。
