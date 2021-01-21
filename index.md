@@ -9,7 +9,7 @@ summary:
 
 ## 最終アップデート：2021年1月21日
 
-図表の作成に用いたコードやデータファイルは[ここ](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/_archives/).
+図表の作成に用いたコードやデータファイルは[ここ](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/_archives/)。
 
 ### 1. Covid-19の感染状況の条件付き予測
 
@@ -17,8 +17,8 @@ summary:
 |![Projection](./images/20210120/VariablesProjection.png)|
 
 出所: 著者達の計算による。<br> 
-注1: "New infections": 1週間の新規感染者数. "Output (deviation from reference level)": 総生産量（参照レベルからの乖離）. "Effective reproduction number": 実効再生産数. "Newly vaccinated persons": 1週間の新規免疫獲得者.<br> 
-注2: 　赤線: 1年平均総生産量ロスが1.5%. 黒線: 1年平均総生産量ロスが2%.青線: 1年平均総生産量ロスが3%.
+注1: "New infections": 1週間の新規感染者数。 "Output (deviation from reference level)": 総生産量（参照レベルからの乖離）。 "Effective reproduction number": 実効再生産数。 "Newly vaccinated persons": 1週間の新規免疫獲得者。<br> 
+注2: 赤線:1年平均総生産量ロスが1.5%。 黒線:1年平均総生産量ロスが2%。　青線:1年平均総生産量ロスが3%.
 
 ### 2. Covid-19とGDPの予測される関係
 
@@ -27,7 +27,7 @@ summary:
 
 出所: 著者達の計算による。<br>
 注1: 縦軸は12か月後までに予測されるコロナ感染による総死亡者数、横軸はこれから12か月間の総生産量のリファレンスからの平均乖離。上のパネルでは、最も濃い、次に濃いグレイのエリアはそれぞれ20パーセント、40パーセントの信頼区間を示す。また、最も薄い、次に薄いグレイのエリアはそれぞれ80パーセント、60パーセントの信頼区間を示す。<br>
-注2: 黒線: 直近の週. 赤線: 1週間前. 青線: 2週間前.
+注2: 黒線:直近の週。 赤線: 1週間前。 青線: 2週間前。
 
 ### 3. モデルの直近の予測精度
 
