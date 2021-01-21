@@ -45,6 +45,8 @@ summary:
 | **新規陽性者数** |  41,290  |  53,088  | <span style="color: red; ">11,7983</span> |
 | **新規死亡者数** |  445  |  723  | <span style="color: red; ">278</span> |
 
+テスト
+
 #### ii. 4週先予測
 
 {: align="center"}
