@@ -9,6 +9,6 @@ summary:
 
 ## モデルのスペックと予測に用いた仮定の時系列推移
 
-### January 20, 2021
+### January 21, 2021
 
 The first version is uploaded.
