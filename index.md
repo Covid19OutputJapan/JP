@@ -17,7 +17,7 @@ summary:
 |![Projection](./images/20210120/VariablesProjection.png)|
 
 出所: 著者達の計算による。<br> 
-注1: "New infections": 新規感染者数. "Output (deviation from reference level)": 総生産量（参照レベルからの乖離）. "Effective reproduction number": 実効再生産数. "Newly vaccinated persons": 新規免疫獲得者.
+注1: "New infections": 新規感染者数. "Output (deviation from reference level)": 総生産量（参照レベルからの乖離）. "Effective reproduction number": 実効再生産数. "Newly vaccinated persons": 新規免疫獲得者.<br> 
 注2: 　赤線: 1年平均総生産量ロスが1.5%. 黒線: 1年平均総生産量ロスが2%.青線: 1年平均総生産量ロスが3%.
 
 ### 2. Covid-19とGDPの予測される関係
