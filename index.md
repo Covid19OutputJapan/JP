@@ -7,7 +7,7 @@ permalink: index.html
 summary:
 ---
 
-fixed
+fix2
 
 ## 毎週アップデート (最終アップデート：2021年1月20日)
 
