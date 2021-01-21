@@ -7,6 +7,6 @@ permalink: team.html
 summary:
 ---
 
-- “¡ˆä‘å•ã: [link](https://sites.google.com/site/fujii0622/home)
+- Daisuke Fujii: [link](https://sites.google.com/site/fujii0622/home)
 
-- ’‡“c‘×—S: [link](https://sites.google.com/site/taisukenakata/)
+- Taisuke Nakata: [link](https://sites.google.com/site/taisukenakata/)
