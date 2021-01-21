@@ -59,7 +59,7 @@ summary:
 
 出所: 著者達の計算による。
 
-### 5. 今週のチャート
+### 4. 今週のチャート
 
 {: align="center"}
 |![TradeoffUB](./images/20210120/ChartOfTheWeek.png)|
