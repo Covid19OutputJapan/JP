@@ -7,6 +7,6 @@ permalink: team.html
 summary:
 ---
 
-- Daisuke Fujii: [link](https://sites.google.com/site/fujii0622/home)
+- 藤井大輔: [link](https://sites.google.com/site/fujii0622/home)
 
-- Taisuke Nakata: [link](https://sites.google.com/site/taisukenakata/)
+- 仲田泰祐: [link](https://sites.google.com/site/taisukenakata/)
