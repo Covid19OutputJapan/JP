@@ -17,14 +17,17 @@ summary:
 |![Projection](./images/20210120/VariablesProjection.png)|
 
 出所: 著者達の計算による。<br> 
-注: "New infections": 新規感染者数. "Output (deviation from reference level)": 総生産量（参照レベルからの乖離）. "Effective reproduction number": 実効再生産数. "Newly vaccinated persons": 新規免疫獲得者.
+注1: "New infections": 新規感染者数. "Output (deviation from reference level)": 総生産量（参照レベルからの乖離）. "Effective reproduction number": 実効再生産数. "Newly vaccinated persons": 新規免疫獲得者.
+注2: 　赤線: 1年平均総生産量ロスが1.5%. 黒線: 1年平均総生産量ロスが2%.青線: 1年平均総生産量ロスが3%.
 
 ### 2. Covid-19とGDPの予測される関係
 
 {: align="center"}
 |![TradeoffUB](./images/20210120/BaselineTradeoffUBp.png)|
 
-出所: 著者達の計算による。<br> 注: 縦軸は12か月後までに予測される総死亡者数、横軸はこれから12か月間の総生産量のリファレンスからの乖離。上のパネルでは、最も濃い、次に濃いグレイのエリアはそれぞれ総死者数の20パーセント、40パーセントの信頼区間を示す。また、最も薄い、次に薄いグレイのエリアはそれぞれ総死者数の80パーセント、60パーセントの信頼区間を示す。
+出所: 著者達の計算による。<br>
+注1: 縦軸は12か月後までに予測される総死亡者数、横軸はこれから12か月間の総生産量のリファレンスからの平均乖離。上のパネルでは、最も濃い、次に濃いグレイのエリアはそれぞれ総死者数の20パーセント、40パーセントの信頼区間を示す。また、最も薄い、次に薄いグレイのエリアはそれぞれ総死者数の80パーセント、60パーセントの信頼区間を示す。<br>
+注2: 黒線: 直近の週.　赤線: 1週間前. 青線: 2週間前.
 
 ### 3. 条件付き予測における誤差
 
