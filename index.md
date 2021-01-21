@@ -63,7 +63,7 @@ summary:
 |![ForecastErrorsN](./images/20210120/ForecastErrorsN.png)|
 
 出所: 著者達の計算による。<br>
-注1:　One-week horizonはそれぞれの時点から1週先までの新規陽性者のモデルの条件付き予測値とデータの実現値。Four-week horizonはそれぞれの時点から4週先までの新規陽性者のモデルの条件付き予測値とデータの実現値。詳細についてはFujii and Nakata (2021)を参照。
+注1:　One-week horizonはそれぞれの時点から1週先までの新規陽性者のモデルの条件付き予測値とデータの実現値。Four-week horizonはそれぞれの時点から4週先までの新規陽性者のモデルの条件付き予測値とデータの実現値。詳細についてはFujii and Nakata (2021)を参照。<br>
 注2: "3. モデルの直近の予測精度"の注２を参照。
 
 #### 新規死亡者数
@@ -72,7 +72,7 @@ summary:
 |![ForecastErrorsD](./images/20210120/ForecastErrorsD.png)|
 
 出所: 著者達の計算による。<br>
-注1:　One-week horizonはそれぞれの時点から1週先までの新規死亡者のモデルの条件付き予測値とデータの実現値。Four-week horizonはそれぞれの時点から4週先までの新規死亡者のモデルの条件付き予測値とデータの実現値。詳細についてはFujii and Nakata (2021)を参照。
+注1:　One-week horizonはそれぞれの時点から1週先までの新規死亡者のモデルの条件付き予測値とデータの実現値。Four-week horizonはそれぞれの時点から4週先までの新規死亡者のモデルの条件付き予測値とデータの実現値。詳細についてはFujii and Nakata (2021)を参照。<br>
 注2: "3. モデルの直近の予測精度"の注２を参照。
 
 ### 5. 今週のチャート
