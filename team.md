@@ -11,4 +11,4 @@ summary:
 
 - 仲田泰祐: [link](https://sites.google.com/site/taisukenakata/)
 
-- 砂川武貴 (ウェブサイトの技術的サポート): [link](https://tkksnk.github.io/)
+- 砂川武貴 (プロジェクトの技術的サポート): [link](https://tkksnk.github.io/)
