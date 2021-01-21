@@ -16,7 +16,8 @@ summary:
 {: align="center"}
 |![Projection](./images/20210120/VariablesProjection.png)|
 
-出所: 著者達の計算による。
+出所: 著者達の計算による。<br> 
+注: "New infections": 新規感染者数. "Output (deviation from reference level)": 総生産量（参照レベルからの乖離）. "Effective reproduction number": 実効再生産数. "Newly vaccinated persons": 新規免疫獲得者.
 
 ### 2. Covid-19とGDPの予測される関係
 
@@ -27,32 +28,30 @@ summary:
 
 ### 3. 条件付き予測における誤差
 
-#### 新規死亡者数
-
-{: align="center"}
-|![ForecastErrorsD](./images/20210120/ForecastErrorsD.png)|
-
 #### 新規陽性者数
 
 {: align="center"}
 |![ForecastErrorsN](./images/20210120/ForecastErrorsN.png)|
 
+#### 新規死亡者数
+
+{: align="center"}
+|![ForecastErrorsD](./images/20210120/ForecastErrorsD.png)|
+
 #### i. 1週先予測
 
 {: align="center"}
-|    | 実現値 | 1週前の<br>条件付き予測値 | 条件付き<br>予測誤差 |
+|    | 1週前の<br>条件付き予測値 | 実現値 | 条件付き<br>予測誤差 |
 | ---- | ---- | ---- | ---- |
-| **新規陽性者数** |  41,290  |  53,088  | <span style="color: black; ">11,798</span> |
-| **新規死亡者数** |  445  |  723  | <span style="color: black; ">278</span> |
-
-テスト
+| **新規陽性者数** |  53,088  | 41,290   | <span style="color: black; ">11,798</span> |
+| **新規死亡者数** |  723 |  445   | <span style="color: black; ">278</span> |
 
 #### ii. 4週先予測
 
 {: align="center"}
-|    | 実現値 | 4週前の<br>条件付き予測値 | 条件付き<br>予測誤差 |
+|    | 4週前の<br>条件付き予測値 | 実現値 | 条件付き<br>予測誤差 |
 | ---- | ---- | ---- | ---- |
-| **新規陽性者数** |  129,454  |  83,138  | <span style="color: red; ">-46,315</span> |
-| **新規死亡者数** |   1,459  |    1.004  | <span style="color: red; ">- 454</span> |
+| **新規陽性者数** |  83,138  |  129,454  | <span style="color: red; ">-46,315</span> |
+| **新規死亡者数** |   1,004 | 1,459      | <span style="color: red; ">- 454</span> |
 
 出所: 著者達の計算による。
