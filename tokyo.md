@@ -11,8 +11,6 @@ summary:
 
 図表の作成に用いたコードやデータファイルは[ここ](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/_archives/).
 
-Test
-
 ### 1. 基本シナリオ
 
 {: align="center"}
