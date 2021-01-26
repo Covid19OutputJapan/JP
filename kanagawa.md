@@ -1,5 +1,5 @@
 ---
-title: "Covid-19 and Output in Japan: 神奈川"
+title: "Covid-19と経済活動の関係: 神奈川"
 keywords: sample homepage
 tags: [kanagawa]
 sidebar: home_sidebar
