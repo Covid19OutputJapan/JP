@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
 <meta name="keywords" content="nationwide,  sample homepage">
-<title>Covid-19 and Output in Japan | Covid-19 and Output in Japan</title>
+<title>日本でのCovid-19と経済活動の関係 | Covid-19 and Output in Japan</title>
 <link rel="stylesheet" href="css/syntax.css">
 
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -119,7 +119,7 @@
                 
                 
                 
-                <li><a href="https://covid19outputjapan.github.io/" target="_blank" rel="noopener">English</a></li>
+                <li><a href="https://covid19outputjapan.github.io/">English</a></li>
                 
                 
                 
@@ -131,32 +131,11 @@
 
 
 
-  <a class="email" title="Submit feedback" href="#" onclick="javascript:window.location='mailto:Covid19OutputJapan@gmail.com?subject=Covid-19 and Output in Japan feedback&body=I have some feedback about the Covid-19 and Output in Japan page: ' + window.location.href;"><i class="fa fa-envelope-o"></i> Feedback</a>
+  <a class="email" title="Submit feedback" href="#" onclick="javascript:window.location='mailto:Covid19OutputJapan@gmail.com?subject=Covid-19 and Output in Japan feedback&body=I have some feedback about the 日本でのCovid-19と経済活動の関係 page: ' + window.location.href;"><i class="fa fa-envelope-o"></i> Feedback</a>
 
 </li>
 
 		
-                <!--comment out this block if you want to hide search-->
-                <li>
-                    <!--start search-->
-                    <div id="search-demo-container">
-                        <input type="text" id="search-input" placeholder="search...">
-                        <ul id="results-container"></ul>
-                    </div>
-                    <script src="js/jekyll-search.js" type="text/javascript"></script>
-                    <script type="text/javascript">
-                            SimpleJekyllSearch.init({
-                                searchInput: document.getElementById('search-input'),
-                                resultsContainer: document.getElementById('results-container'),
-                                dataSource: 'search.json',
-                                searchResultTemplate: '<li><a href="{url}" title="Covid-19 and Output in Japan">{title}</a></li>',
-                    noResultsText: 'No results found.',
-                            limit: 10,
-                            fuzzy: true,
-                    })
-                    </script>
-                    <!--end search-->
-                </li>
             </ul>
         </div>
         </div>
@@ -187,14 +166,14 @@
           
           
           
-          <li><a title="直近" href="20210120.html">直近</a></li>
+          <li class="active"><a title="直近" href="index.html">直近</a></li>
           
           
           
           
           
           
-          <li><a title="先週" href="20210113.html">先週</a></li>
+          <li><a title="先週" href="20210121.html">先週</a></li>
           
           
           
@@ -210,14 +189,35 @@
           
           
           
-          <li><a title="東京" href="">東京</a></li>
+          <li><a title="東京" href="tokyo.html">東京</a></li>
           
           
           
           
           
           
-          <li><a title="大阪" href="">大阪</a></li>
+          <li><a title="大阪" href="osaka.html">大阪</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="神奈川" href="kanagawa.html">神奈川</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="千葉" href="chiba.html">千葉</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="埼玉" href="saitama.html">埼玉</a></li>
           
           
           
@@ -233,14 +233,21 @@
           
           
           
+          <li><a title="チーム" href="team.html">チーム</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="参考資料" href="resources.html">参考資料</a></li>
+          
+          
+          
+          
+          
+          
           <li><a title="改定履歴" href="history.html">改定履歴</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="参考資料" href="resource.html">参考資料</a></li>
           
           
           
@@ -274,7 +281,7 @@
         <!-- Content Column -->
         <div class="col-md-9" id="tg-sb-content">
             <div class="post-header">
-   <h1 class="post-title-main">Covid-19 and Output in Japan</h1>
+   <h1 class="post-title-main">日本でのCovid-19と経済活動の関係</h1>
 </div>
 
 
@@ -288,111 +295,277 @@
 
     
 
-   <h2 id="毎週アップデート-最終アップデート2021年1月20日">毎週アップデート (最終アップデート：2021年1月20日)</h2>
+   
+<!-- csv files must be in the "_data" folder -->
 
-<p>図表の作成に用いたコードやデータファイルは<a href="https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/_archives/">ここ</a>.</p>
+<h2 id="最終アップデート2021年1月26日">最終アップデート：2021年1月26日</h2>
+
+<p>図表の作成に用いたコードやデータファイルは<a href="https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/_archives/">ここ</a>。</p>
+
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> 今週のトレードオフカーブは先週のトレードオフカーブと比べてかなり下がっています。理由は二つあります。一つは1月18日－24日での新規感染者がモデルの予測よりも大幅に少なかったこと。もう一つは、高齢者がワクチンを接種することによる平均致死率の減少を予測に反映させたことです。両方とも同じくらいトレードオフカーブのシフトダウンに貢献しています。</div>
 
 <h3 id="1-covid-19の感染状況の条件付き予測">1. Covid-19の感染状況の条件付き予測</h3>
 
 <table align="center">
   <tbody>
     <tr>
-      <td><img src="./images/20210113/VariablesProjection_JP.png" alt="Projection" /></td>
+      <td><img src="./archives/20210126/Figures/VariablesProjection_jp.png" alt="Projection" /></td>
     </tr>
   </tbody>
 </table>
 
-<p>出所: 著者達の計算による。</p>
+<p>出所: 著者達の計算による。<br />
+注1: “New infections”: 1週間の新規感染者数。 “Output (deviation from reference level)”: 総生産量（参照レベルからの乖離）。 “Effective reproduction number”: 実効再生産数。 “Newly vaccinated persons”: 1週間の新規免疫獲得者。<br />
+注2: 赤線:1年平均総生産量ロスが1.5%。 黒線:1年平均総生産量ロスが2%。　青線:1年平均総生産量ロスが3%.</p>
 
 <h3 id="2-covid-19とgdpの予測される関係">2. Covid-19とGDPの予測される関係</h3>
 
 <table align="center">
   <tbody>
     <tr>
-      <td><img src="./images/20210113/BaselineTradeoffUB_JP.png" alt="TradeoffUB" /><br /><img src="./images/20210113/LaggedTradeoff_JP.png" alt="Tradeoff" /></td>
+      <td><img src="./archives/20210126/Figures/BaselineTradeoffUBp_jp.png" alt="TradeoffUB" /></td>
     </tr>
   </tbody>
 </table>
 
-<p>出所: 著者達の計算による。<br /> 注: 縦軸は12か月後までに予測される総死亡者数、横軸はこれから12か月間の総生産量のトレンドからの乖離。上のパネルでは、最も濃い、次に濃いグレイのエリアはそれぞれ総死者数の20パーセント、40パーセントの信頼区間を示す。また、最も薄い、次に薄いグレイのエリアはそれぞれ総死者数の80パーセント、60パーセントの信頼区間を示す。</p>
+<p>出所: 著者達の計算による。<br />
+注1: 縦軸は12か月後までに予測されるコロナ感染による総死亡者数、横軸はこれから12か月間の総生産量のリファレンスからの平均乖離。上のパネルでは、最も濃い、次に濃いグレイのエリアはそれぞれ20パーセント、40パーセントの信頼区間を示す。また、最も薄い、次に薄いグレイのエリアはそれぞれ80パーセント、60パーセントの信頼区間を示す。<br />
+注2: 黒線:直近の週。 赤線:1週間前。 青線:2週間前。</p>
 
-<h3 id="3-条件付き予測における誤差">3. 条件付き予測における誤差</h3>
+<h3 id="3-モデルの直近の予測精度">3. モデルの直近の予測精度</h3>
 
-<h4 id="新規死亡者数">新規死亡者数</h4>
+<h4 id="i-1週間前に計算された現在までの予測">i. 1週間前に計算された現在までの予測</h4>
+
+<table align="center">
+  
+    
+      <tr><th></th>
+      <th> "Conditional"<br />forecast<br />from last week </th>
+      <th> <br /><br />Actual </th>
+      <th> <br />"Conditional"<br />forecast error </th>
+      </tr>
+    
+    <tr>
+      
+        <td>
+        
+          <b>New Cases</b>
+        
+        </td>
+      
+        <td>
+        
+          
+          
+            <span style="color: black; ">38,645</span>
+          
+        
+        </td>
+      
+        <td>
+        
+          
+          
+            <span style="color: black; ">34,897</span>
+          
+        
+        </td>
+      
+        <td>
+        
+          
+          
+            <span style="color: black; ">3,748</span>
+          
+        
+        </td>
+      
+    </tr>
+  
+    
+    <tr>
+      
+        <td>
+        
+          <b>New Deaths</b>
+        
+        </td>
+      
+        <td>
+        
+          
+          
+            <span style="color: black; ">502</span>
+          
+        
+        </td>
+      
+        <td>
+        
+          
+          
+            <span style="color: black; ">457</span>
+          
+        
+        </td>
+      
+        <td>
+        
+          
+          
+            <span style="color: black; ">45</span>
+          
+        
+        </td>
+      
+    </tr>
+  
+</table>
+<!--
+{: align="center"}
+|    | 1週前の<br>"条件付き"予測値 | <br>実現値 | "条件付き"<br>予測誤差 |
+| ---- | ---- | ---- | ---- |
+| **新規陽性者数** |  53,088  | 41,290   | <span style="color: black; ">11,798</span> |
+| **新規死亡者数** |  723 |  445   | <span style="color: black; ">278</span> |
+-->
+
+<p>出所: 著者達の計算による。<br />
+注1: (A)先週の時点でのモデルによる「1週先までの死亡者または陽性者の条件付き予測値」と(B)データの実現値の比較。詳細はFujii and Nakata (2021)を参照。<br />
+注2: モデルは総生産量を所与として新規感染者数・新規死亡者数を予測するが、総生産量そのものは予測しない。ここでは、実際の総生産量を知っていたという条件に基づいた予測（”条件付き予測”）と実現値を比較する。</p>
+
+<h4 id="ii-4週間前に計算された現在までの予測">ii. 4週間前に計算された現在までの予測</h4>
+
+<table align="center">
+  
+    
+    <tr><th></th>
+    <th> "Conditional"<br />forecast<br />from 4 weeks ago </th>
+    <th> <br /><br />Actual </th>
+    <th> <br />"Conditional"<br />forecast error </th>
+    </tr>
+    
+    <tr>
+      
+        <td>
+        
+          <b>New Cases</b>
+        
+        </td>
+      
+        <td>
+        
+          
+          
+            <span style="color: black; ">96,552</span>
+          
+        
+        </td>
+      
+        <td>
+        
+          
+          
+            <span style="color: black; ">142,492</span>
+          
+        
+        </td>
+      
+        <td>
+        
+          
+          
+            <span style="color: red; ">-45,940</span>
+          
+        
+        </td>
+      
+    </tr>
+  
+    
+    <tr>
+      
+        <td>
+        
+          <b>New Deaths</b>
+        
+        </td>
+      
+        <td>
+        
+          
+          
+            <span style="color: black; ">1,350</span>
+          
+        
+        </td>
+      
+        <td>
+        
+          
+          
+            <span style="color: black; ">1,601</span>
+          
+        
+        </td>
+      
+        <td>
+        
+          
+          
+            <span style="color: red; ">-251</span>
+          
+        
+        </td>
+      
+    </tr>
+  
+</table>
+<!--
+{: align="center"}
+|    | 4週前の<br>"条件付き"予測値 | <br>実現値 | "条件付き"<br>予測誤差 |
+| ---- | ---- | ---- | ---- |
+| **新規陽性者数** |  83,138  |  129,454  | <span style="color: red; ">-46,315</span> |
+| **新規死亡者数** |   1,004 | 1,459      | <span style="color: red; ">-454</span> |
+-->
+
+<p>出所: 著者達の計算による。<br />
+注1:　(A)4週間前の時点でのモデルによる「４週先までの死亡者または陽性者の条件付き予測値」と(B)データの実現値の比較。詳細はFujii and Nakata (2021)を参照。<br />
+注2: モデルは総生産量を所与として新規感染者数・新規死亡者数を予測するが、総生産量そのものは予測しない。ここでは、実際の総生産量を知っていたという条件に基づいた予測（”条件付き予測”）と実現値を比較する。</p>
+
+<!--
+### 4. 過去まで遡ったモデルの予測精度検証
+
+#### 新規陽性者数
+
+{: align="center"}
+|![ForecastErrorsN](./archives/20210126/Figures/ForecastErrorsN.png)|
+
+出所: 著者達の計算による。<br>
+注1:　One-week horizonはそれぞれの時点から1週先までの新規陽性者のモデルの条件付き予測値とデータの実現値。Four-week horizonはそれぞれの時点から4週先までの新規陽性者のモデルの条件付き予測値とデータの実現値。詳細についてはFujii and Nakata (2021)を参照。<br>
+注2: "3. モデルの直近の予測精度"の注２を参照。
+
+#### 新規死亡者数
+
+{: align="center"}
+|![ForecastErrorsD](./archives/20210126/Figures/ForecastErrorsD.png)|
+
+出所: 著者達の計算による。<br>
+注1:　One-week horizonはそれぞれの時点から1週先までの新規死亡者のモデルの条件付き予測値とデータの実現値。Four-week horizonはそれぞれの時点から4週先までの新規死亡者のモデルの条件付き予測値とデータの実現値。詳細についてはFujii and Nakata (2021)を参照。<br>
+注2: "3. モデルの直近の予測精度"の注２を参照。
+-->
+
+<h3 id="4-今週のチャート">4. 今週のチャート</h3>
 
 <table align="center">
   <tbody>
     <tr>
-      <td><img src="./images/20210113/ForecastErrorsD_JP.png" alt="ForecastErrorsD" /></td>
+      <td><img src="./archives/20210126/Figures/ChartOfTheWeek_jp.png" alt="TradeoffUB" /></td>
     </tr>
   </tbody>
 </table>
 
-<h4 id="新規陽性者数">新規陽性者数</h4>
-
-<table align="center">
-  <tbody>
-    <tr>
-      <td><img src="./images/20210113/ForecastErrorsN_JP.png" alt="ForecastErrorsN" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<h4 id="i-1週先予測">i. 1週先予測</h4>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th> </th>
-      <th>実現値</th>
-      <th>1週前の<br /> 予測値</th>
-      <th>（条件付き）<br /> 予測誤差</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>新規陽性者数</strong></td>
-      <td>42,882</td>
-      <td>24,646</td>
-      <td><span style="color: red; ">-18,236</span></td>
-    </tr>
-    <tr>
-      <td><strong>新規死亡者数</strong></td>
-      <td>347</td>
-      <td>314</td>
-      <td><span style="color: red; ">-33</span></td>
-    </tr>
-  </tbody>
-</table>
-
-<h4 id="ii-4週先予測">ii. 4週先予測</h4>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th> </th>
-      <th>実現値</th>
-      <th>4週前の<br /> 予測値</th>
-      <th>（条件付き）<br /> 予測誤差</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>新規陽性者数</strong></td>
-      <td>106,619</td>
-      <td>82,444</td>
-      <td><span style="color: red; ">-24,175</span></td>
-    </tr>
-    <tr>
-      <td><strong>新規死亡者数</strong></td>
-      <td>1,264</td>
-      <td>998</td>
-      <td><span style="color: red; ">-266</span></td>
-    </tr>
-  </tbody>
-</table>
-
-<p>出所: 著者達の計算による。</p>
+<p>出所: 著者達の計算による。<br />
+注: 黒実線と灰色のファンチャートは図２と同じ。 赤実線はワクチン接種速度が基本シナリオの2倍の場合。</p>
 
 
 
@@ -406,7 +579,7 @@
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2021 Daisuke Fujii and Taisuke Nakata. All rights reserved. <br />
- Site last generated: Jan 20, 2021 <br />
+ Site last generated: 2021-01-26 19:16 <br />
                 </div>
             </div>
 </footer>

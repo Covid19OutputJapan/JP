@@ -23,6 +23,28 @@
 
 
 
+{
+"title": "日本でのCovid-19と経済活動の関係",
+"tags": "nationwide",
+"keywords": "sample homepage",
+"url": "20210121.html",
+"summary": ""
+}
+,
+
+
+
+
+
+{
+"title": "Covid-19 and Output in Japan: 千葉",
+"tags": "chiba",
+"keywords": "sample homepage",
+"url": "chiba.html",
+"summary": ""
+}
+,
+
 
 
 {
@@ -50,10 +72,21 @@
 
 
 {
-"title": "Covid-19 and Output in Japan",
+"title": "日本でのCovid-19と経済活動の関係",
 "tags": "nationwide",
 "keywords": "sample homepage",
 "url": "index.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Covid-19 and Output in Japan: 神奈川",
+"tags": "kanagawa",
+"keywords": "sample homepage",
+"url": "kanagawa.html",
 "summary": ""
 }
 ,
@@ -76,6 +109,17 @@
 "tags": "",
 "keywords": "news, blog, updates, release notes, announcements",
 "url": "news_archive.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Covid-19 and Output in Japan: 大阪",
+"tags": "osaka",
+"keywords": "sample homepage",
+"url": "osaka.html",
 "summary": ""
 }
 ,
@@ -341,7 +385,18 @@
 "title": "参考資料",
 "tags": "others",
 "keywords": "sample homepage",
-"url": "resource.html",
+"url": "resources.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Covid-19 and Output in Japan: 埼玉",
+"tags": "saitama",
+"keywords": "sample homepage",
+"url": "saitama.html",
 "summary": ""
 }
 ,
@@ -374,7 +429,40 @@
 
 
 
+{
+"title": "Team",
+"tags": "others",
+"keywords": "sample homepage",
+"url": "team.html",
+"summary": ""
+}
+,
 
+
+
+
+
+
+
+{
+"title": "Covid-19 and Output in Japan: 東京",
+"tags": "tokyo",
+"keywords": "sample homepage",
+"url": "tokyo.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Covid-19 and Output in Japan: 東京",
+"tags": "tokyo",
+"keywords": "sample homepage",
+"url": "tokyo_20210121.html",
+"summary": ""
+}
+,
 
 
 
