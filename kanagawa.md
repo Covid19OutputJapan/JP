@@ -13,6 +13,7 @@ summary:
 
 図表の作成に用いたコードやデータファイルは[ここ](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/_archives/).
 
+<!--
 神奈川の他のページへのリンク:
 <table>
 <tr>
@@ -23,13 +24,16 @@ summary:
             <td><a href="{{page1.url | remove: "/" }}">{{page1.permalink}}</a></td>
             {% assign cnt = cnt | plus:1 %}
         {% endif %}
-<!--
-        {% if cnt == 1 %}
-            <td>here</td>
-            {% assign cnt = 0 %}
-        {% endif %}
--->
     {% endfor %}
 {% endfor %}
 </tr>
 </table>
+-->
+
+### 1. 基本シナリオ
+
+{: align="center"}
+|![Baseline]({{ fig_loc }}BaselineDecline_jp.png)|
+
+出所: 著者達の計算による。<br>
+注: 左のパネルは、基本シナリオ下での新規感染者数の推移。赤い実線は緊急事態宣言解除基準が500人だった場合、その他の細い点線は解除基準人数を変更した場合。右のパネルは、それぞれの解除基準人数によってどのように今後6ヶ月の総死者数と総生産量が影響を受けるかを示す。シナリオの詳細についてはFujii and Nakata (2021)を参照。

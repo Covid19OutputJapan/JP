@@ -8,7 +8,7 @@ close all
 home = '/Users/Daisuke/Desktop/Dropbox/Research/fujii_nakata/Website/Codes/';
 %home = pwd;
 %====================== Program parameter values ======================%
-figure_save = 0;    % 0 = figures won't be saved, 1 = they will be saved
+figure_save = 1;    % 0 = figures won't be saved, 1 = they will be saved
 iPC=0;              % 1 if PC, 0 if Mac (or "home=pwd" does not work)
 % in the "Figure" folder
 fs = 16;            % common font size for many figures
@@ -24,12 +24,12 @@ SimPeriod = 52;        % simulation period in weeks
 TargetAlpha = 0.1:0.1:8;      % values of alpha we simulate results
 AlphaVals = [1.5,0.85*(1.5+3)/2,3];   % benchmark alpha we plot time-series figures
 VacStartDate = "Apr-01";             % time until the start of vaccination process
-VacPace = 0.1*1.33*0.8*1500000;  % number of vaccinations per week
+VacPace = 0.07*1.33*0.8*1500000;  % number of vaccinations per week
 VacDuration = 12;       % time until vaccination pace reaches its steady pace
 RetroPeriod = 17;      % retroactive periods used to estimate gamma and delta
 alpha_on = 4.2;        %3.75 = 12 weeks, 4.2 = 8 weeks, 5.5 = 4 weeks
-th_on = 14000;         % threshold to place the state of emergency (daily new infected persons in Tokyo = 2000)
-th_off = 3500;         % threshold to remove the state of emergency (daily new infected persons in Tokyo = 500)
+th_on = 500*7;         % threshold to place the state of emergency (daily new infected persons in Tokyo = 2000)
+th_off = 200*7;         % threshold to remove the state of emergency (daily new infected persons in Tokyo = 500)
 target_duration = 8;
 wl = [1,2];            % Results as of these weeks ago
 %====================================================================%
@@ -543,8 +543,8 @@ V(VacStart-1:VacStart+3) = 0:VacPace/4:VacPace;
 V(VacStart+4:end) = VacPace;
 
 %--- Projection for different th_off values ---%
-TH = (100:50:1000)*7;
-TH_index = [500,250]*7;
+TH = (20:10:300)*7;
+TH_index = [300,50]*7;
 DM = zeros(1,length(TH));
 AlphaM = zeros(1,length(TH));
 AlphaPath = zeros(SimPeriod,length(TH));
@@ -552,7 +552,7 @@ NPath = zeros(SimPeriod,length(TH));
 
 %--- Plot three scenarios ---%
 %altA = [0.085,0.074,0.0695];
-altA = [0.089,0.07];
+altA = [0.135,0.105];
 for l = 1:2
     for y = 1:length(altA)
         alpha_on = altA(y);
@@ -813,10 +813,10 @@ if figure_save == 1
         saveas(figure(15),[home '\Figures\Tokyo\ThreeScenariosDecline.png']);
         %     saveas(figure(16),[home '\Figures\Tokyo\ThreeVaccinationsDecline.png']);
     else
-        saveas(figure(12),[home 'Figures/Tokyo/BaselineDecline.png']);
-        saveas(figure(121),[home 'Figures/Tokyo/BaselineDecline_jp.png']);
-        saveas(figure(13),[home 'Figures/Tokyo/GradualDecline.png']);
-        saveas(figure(131),[home 'Figures/Tokyo/GradualDecline_jp.png']);
+        saveas(figure(12),[home 'Figures/' pref '/BaselineDecline.png']);
+        saveas(figure(121),[home 'Figures/' pref '/BaselineDecline_jp.png']);
+        saveas(figure(13),[home 'Figures/' pref '/GradualDecline.png']);
+        saveas(figure(131),[home 'Figures/' pref '/GradualDecline_jp.png']);
 %         saveas(figure(14),[home 'Figures/Tokyo/GradualDecline.png']);
 %         saveas(figure(15),[home 'Figures/Tokyo/ThreeScenariosDecline.png']);
         %     saveas(figure(16),[home 'Figures/Tokyo/ThreeVaccinationsDecline.png']);
