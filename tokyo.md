@@ -13,7 +13,7 @@ summary:
 
 図表の作成に用いたコードやデータファイルは[ここ](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/).
 
-東京の他のページへのリンク:
+東京の過去のページへのリンク
 <table>
 <tr>
 {% assign cnt = 0 %}
