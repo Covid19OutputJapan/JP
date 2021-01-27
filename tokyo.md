@@ -1,5 +1,5 @@
 ---
-title: "Covid-19と経済活動の関係: 東京"
+title: "Covid-19と経済活動: 東京"
 keywords: sample homepage
 tags: [tokyo]
 sidebar: home_sidebar

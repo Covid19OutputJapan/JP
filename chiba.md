@@ -1,5 +1,5 @@
 ---
-title: "Covid-19と経済活動の関係: 千葉"
+title: "Covid-19と経済活動: 千葉"
 keywords: sample homepage
 tags: [chiba]
 sidebar: home_sidebar

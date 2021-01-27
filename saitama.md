@@ -1,5 +1,5 @@
 ---
-title: "Covid-19と経済活動の関係: 埼玉"
+title: "Covid-19と経済活動: 埼玉"
 keywords: sample homepage
 tags: [saitama]
 sidebar: home_sidebar

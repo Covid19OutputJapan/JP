@@ -1,5 +1,5 @@
 ---
-title: "Covid-19と経済活動の関係: 大阪"
+title: "Covid-19と経済活動: 大阪"
 keywords: sample homepage
 tags: [osaka]
 sidebar: home_sidebar
