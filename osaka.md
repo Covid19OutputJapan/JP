@@ -11,7 +11,7 @@ summary:
 
 ## 最終アップデート：2021年1月26日
 
-図表の作成に用いたコードやデータファイルは[ここ](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/).
+{% include link_to_code.html %}
 
 <!--
 大阪の他のページへのリンク:

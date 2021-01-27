@@ -14,7 +14,8 @@ summary:
 
 ## 最終アップデート：2021年1月26日
 
-図表の作成に用いたコードやデータファイルは[ここ](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/)。
+{% include link_to_code.html %}
+<!--図表の作成に用いたコードやデータファイルは[ここ](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/)。-->
 
 {% include note.html content="今週のトレードオフカーブは先週のトレードオフカーブと比べてかなり下がっています。理由は二つあります。一つは1月18日-24日での新規感染者がモデルの予測よりもやや少なかったこと。もう一つは、高齢者がワクチンを接種することによる平均致死率の減少を予測に反映させたことです。" %}
 {% include note.html content="「５．今週のチャート」では、河野太郎氏がワクチン接種担当大臣に就任されたことへの期待を込めて、ワクチン接種楽観シナリオを提示しています。" %}

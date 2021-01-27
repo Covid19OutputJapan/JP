@@ -11,8 +11,11 @@ summary:
 
 ## 最終アップデート：2021年1月26日
 
-図表の作成に用いたコードやデータファイルは[ここ](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/).
+{% include link_to_code.html %}
 
+{% include link_to_others.html text='東京の過去のページへのリンク' tag='tokyo' %}
+
+<!--
 東京の過去のページへのリンク
 <table>
 <tr>
@@ -23,16 +26,15 @@ summary:
             <td><a href="{{page1.url | remove: "/" }}">{{page1.permalink}}</a></td>
             {% assign cnt = cnt | plus:1 %}
         {% endif %}
-<!--
         {% if cnt == 1 %}
             <td>here</td>
             {% assign cnt = 0 %}
         {% endif %}
--->
     {% endfor %}
 {% endfor %}
 </tr>
 </table>
+-->
 
 ### 1. 基本シナリオ
 
