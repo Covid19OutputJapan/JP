@@ -15,27 +15,6 @@ summary:
 
 {% include link_to_others.html text='東京の過去のページへのリンク' tag='tokyo' %}
 
-<!--
-東京の過去のページへのリンク
-<table>
-<tr>
-{% assign cnt = 0 %}
-{% for page1 in site.pages %}
-    {% for tag1 in page1.tags %}
-        {% if tag1 == "tokyo" and page1.name != page.name %}
-            <td><a href="{{page1.url | remove: "/" }}">{{page1.permalink}}</a></td>
-            {% assign cnt = cnt | plus:1 %}
-        {% endif %}
-        {% if cnt == 1 %}
-            <td>here</td>
-            {% assign cnt = 0 %}
-        {% endif %}
-    {% endfor %}
-{% endfor %}
-</tr>
-</table>
--->
-
 ### 1. 基本シナリオ
 
 {: align="center"}
