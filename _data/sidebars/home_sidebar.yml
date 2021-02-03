@@ -79,3 +79,7 @@ entries:
       url: /disclaimer.html
       output: web, pdf
       type: homepage
+    - title: メディア紹介
+      url: /media.html
+      output: web, pdf
+      type: homepage
