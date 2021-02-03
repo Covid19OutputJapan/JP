@@ -41,7 +41,7 @@
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
-<link rel="alternate" type="application/rss+xml" title="JP" href="http://localhost:4000/feed.xml">
+<link rel="alternate" type="application/rss+xml" title="JP" href="http://0.0.0.0:4000/feed.xml">
 
     <script>
         $(document).ready(function() {
@@ -173,7 +173,14 @@
           
           
           
-          <li><a title="先週" href="20210121.html">先週</a></li>
+          <li><a title="先週" href="20210126.html">先週</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="2021年１月21日" href="20210121.html">2021年１月21日</a></li>
           
           
           
@@ -189,35 +196,35 @@
           
           
           
-          <li><a title="東京" href="tokyo.html">東京</a></li>
+          <li><a title="東京" href="tokyo_latest.html">東京</a></li>
           
           
           
           
           
           
-          <li><a title="大阪" href="osaka.html">大阪</a></li>
+          <li><a title="大阪" href="osaka_latest.html">大阪</a></li>
           
           
           
           
           
           
-          <li><a title="神奈川" href="kanagawa.html">神奈川</a></li>
+          <li><a title="神奈川" href="kanagawa_latest.html">神奈川</a></li>
           
           
           
           
           
           
-          <li><a title="千葉" href="chiba.html">千葉</a></li>
+          <li><a title="千葉" href="chiba_latest.html">千葉</a></li>
           
           
           
           
           
           
-          <li><a title="埼玉" href="saitama.html">埼玉</a></li>
+          <li><a title="埼玉" href="saitama_latest.html">埼玉</a></li>
           
           
           
@@ -298,22 +305,25 @@
    
 <!-- csv files must be in the "_data" folder -->
 
-<h2 id="最終アップデート2021年1月26日">最終アップデート：2021年1月26日</h2>
+<h2 id="最終アップデート2021年2月3日">最終アップデート：2021年2月3日</h2>
 
 <p>図表の作成に用いたコードやデータファイルは<a href="https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/">ここ</a>.</p>
 
 <!--図表の作成に用いたコードやデータファイルは[ここ](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/)。-->
 
-<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> 今週のトレードオフカーブは先週のトレードオフカーブと比べてかなり下がっています。理由は二つあります。一つは1月18日-24日での新規感染者がモデルの予測よりもやや少なかったこと。もう一つは、高齢者がワクチンを接種することによる平均致死率の減少を予測に反映させたことです。</div>
+<!--
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> 今週のトレードオフカーブは先週のトレードオフカーブと比べてかなり下がっています。理由は二つあります。一つは1月18日-24日での新規感染者がモデルの予測よりもやや少なかったこと。もう一つは、高齢者がワクチンを接種することによる平均致死率の減少を予測に反映させたことです。</div>
 
-<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> 「５．今週のチャート」では、河野太郎氏がワクチン接種担当大臣に就任されたことへの期待を込めて、ワクチン接種楽観シナリオを提示しています。</div>
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> 「５．今週のチャート」では、河野太郎氏がワクチン接種担当大臣に就任されたことへの期待を込めて、ワクチン接種楽観シナリオを提示しています。</div>
+
+-->
 
 <h3 id="1-covid-19の感染状況の条件付き予測">1. Covid-19の感染状況の条件付き予測</h3>
 
 <table align="center">
   <tbody>
     <tr>
-      <td><img src="./archives/20210126/Figures/VariablesProjection_jp.png" alt="Projection" /></td>
+      <td><img src="./archives/20210202/Figures/VariablesProjection_jp.png" alt="Projection" /></td>
     </tr>
   </tbody>
 </table>
@@ -321,14 +331,14 @@
 <p>出所: 著者達の計算による。<br />
 <!--注1: "New infections": 1週間の新規感染者数。 "Output (deviation from reference level)": 総生産量（参照レベルからの乖離）。 "Effective reproduction number": 実効再生産数。 "Newly vaccinated persons": 1週間の新規免疫獲得者。<br>-->
 注1: “新規感染者数”: 1週間の新規感染者数。“経済活動”: 総生産量（参照レベルからの乖離）。“ワクチン接種”: ワクチンによる1週間の新規免疫獲得者。2本目の接種を受けた後に8割の確率で免疫が獲得できると仮定しています。その仮定では、ワクチンを週に400万本打つと週に160万人の人がワクチンによる免疫獲得をするという計算になります。詳しくは論文を参照して下さい。<br />
-注2: 赤線:1年平均総生産量ロスが1.5%。黒線:1年平均総生産量ロスが2%。青線:1年平均総生産量ロスが3%。</p>
+注2: 赤線:1年平均総生産量ロスが1.35%。黒線:1年平均総生産量ロスが1.65%。青線:1年平均総生産量ロスが2.5%。</p>
 
 <h3 id="2-covid-19とgdpの予測される関係">2. Covid-19とGDPの予測される関係</h3>
 
 <table align="center">
   <tbody>
     <tr>
-      <td><img src="./archives/20210126/Figures/BaselineTradeoffUBp_jp.png" alt="TradeoffUB" /></td>
+      <td><img src="./archives/20210202/Figures/BaselineTradeoffUBp_jp.png" alt="TradeoffUB" /></td>
     </tr>
   </tbody>
 </table>
@@ -442,15 +452,15 @@
   <tbody>
     <tr>
       <td><strong>新規陽性者数</strong></td>
-      <td>37,437</td>
-      <td>34,897</td>
-      <td><span style="color: black; ">2,640</span></td>
+      <td>34,281</td>
+      <td>24,238</td>
+      <td><span style="color: black; ">10,043</span></td>
     </tr>
     <tr>
       <td><strong>新規死亡者数</strong></td>
-      <td>527</td>
-      <td>583</td>
-      <td><span style="color: red; ">-56</span></td>
+      <td>449</td>
+      <td>637</td>
+      <td><span style="color: red; ">-190</span></td>
     </tr>
   </tbody>
 </table>
@@ -567,7 +577,7 @@
 <table align="center">
   <tbody>
     <tr>
-      <td><img src="./archives/20210126/Figures/ForecaseErrors_jp.png" alt="ForecaseErrors" /></td>
+      <td><img src="./archives/20210202/Figures/ForecastErrors_jp.png" alt="ForecaseErrors" /></td>
     </tr>
   </tbody>
 </table>
@@ -580,7 +590,7 @@
 #### 新規陽性者数
 
 {: align="center"}
-|![ForecastErrorsN](./archives/20210126/Figures/ForecastErrorsN.png)|
+|![ForecastErrorsN](./archives/20210202/Figures/ForecastErrorsN.png)|
 
 出所: 著者達の計算による。<br>
 注1:　One-week horizonはそれぞれの時点から1週先までの新規陽性者のモデルの条件付き予測値とデータの実現値。Four-week horizonはそれぞれの時点から4週先までの新規陽性者のモデルの条件付き予測値とデータの実現値。詳細についてはFujii and Nakata (2021)を参照。<br>
@@ -589,29 +599,24 @@
 #### 新規死亡者数
 
 {: align="center"}
-|![ForecastErrorsD](./archives/20210126/Figures/ForecastErrorsD.png)|
+|![ForecastErrorsD](./archives/20210202/Figures/ForecastErrorsD.png)|
 
 出所: 著者達の計算による。<br>
 注1:　One-week horizonはそれぞれの時点から1週先までの新規死亡者のモデルの条件付き予測値とデータの実現値。Four-week horizonはそれぞれの時点から4週先までの新規死亡者のモデルの条件付き予測値とデータの実現値。詳細についてはFujii and Nakata (2021)を参照。<br>
 注2: "3. モデルの直近の予測精度"の注２を参照。
 -->
 
-<h3 id="5-今週のチャート">5. 今週のチャート</h3>
+<!--
+### 5. 今週のチャート
 
-<ul>
-  <li>河野太郎氏がワクチン接種担当大臣に就任されたことへの期待を込めて、ワクチン接種楽観シナリオを提示しています。</li>
-</ul>
+- 河野太郎氏がワクチン接種担当大臣に就任されたことへの期待を込めて、ワクチン接種楽観シナリオを提示しています。
 
-<table align="center">
-  <tbody>
-    <tr>
-      <td><img src="./archives/20210126/Figures/ChartOfTheWeek_jp.png" alt="TradeoffUB" /></td>
-    </tr>
-  </tbody>
-</table>
+{: align="center"}
+|![TradeoffUB](./archives/20210202/Figures/ChartOfTheWeek_jp.png)|
 
-<p>出所: 著者達の計算による。<br />
-注: 黒実線と灰色のファンチャートは図２と同じ。赤実線はワクチン接種速度が基本シナリオの2倍の場合。</p>
+出所: 著者達の計算による。<br>
+注: 黒実線と灰色のファンチャートは図２と同じ。赤実線はワクチン接種速度が基本シナリオの2倍の場合。
+-->
 
 
 
@@ -625,7 +630,7 @@
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2021 Daisuke Fujii and Taisuke Nakata. All rights reserved. <br />
- Site last generated: 2021-01-30 13:32 <br />
+ Site last generated: 2021-02-03 16:37 <br />
                 </div>
             </div>
 </footer>

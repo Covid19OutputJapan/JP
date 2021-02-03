@@ -24,10 +24,21 @@
 
 
 {
-"title": "日本でのCovid-19と経済活動の関係",
+"title": "日本でのCovid-19と経済活動",
 "tags": "nationwide",
 "keywords": "sample homepage",
 "url": "20210121.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "日本でのCovid-19と経済活動",
+"tags": "nationwide",
+"keywords": "sample homepage",
+"url": "20210126.html",
 "summary": ""
 }
 ,
@@ -40,7 +51,18 @@
 "title": "Covid-19と経済活動: 千葉",
 "tags": "chiba",
 "keywords": "sample homepage",
-"url": "chiba.html",
+"url": "chiba_20210126.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Covid-19と経済活動: 千葉",
+"tags": "chiba",
+"keywords": "sample homepage",
+"url": "chiba_latest.html",
 "summary": ""
 }
 ,
@@ -86,7 +108,18 @@
 "title": "Covid-19と経済活動: 神奈川",
 "tags": "kanagawa",
 "keywords": "sample homepage",
-"url": "kanagawa.html",
+"url": "kanagawa_20210126.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Covid-19と経済活動: 神奈川",
+"tags": "kanagawa",
+"keywords": "sample homepage",
+"url": "kanagawa_latest.html",
 "summary": ""
 }
 ,
@@ -119,7 +152,18 @@
 "title": "Covid-19と経済活動: 大阪",
 "tags": "osaka",
 "keywords": "sample homepage",
-"url": "osaka.html",
+"url": "osaka_20210126.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Covid-19と経済活動: 大阪",
+"tags": "osaka",
+"keywords": "sample homepage",
+"url": "osaka_latest.html",
 "summary": ""
 }
 ,
@@ -396,7 +440,18 @@
 "title": "Covid-19と経済活動: 埼玉",
 "tags": "saitama",
 "keywords": "sample homepage",
-"url": "saitama.html",
+"url": "saitama_20210126.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Covid-19と経済活動: 埼玉",
+"tags": "saitama",
+"keywords": "sample homepage",
+"url": "saitama_latest.html",
 "summary": ""
 }
 ,
@@ -445,10 +500,10 @@
 
 
 {
-"title": "Covid-19と経済活動: 東京",
+"title": "Covid-19と経済活動の関係: 東京",
 "tags": "tokyo",
 "keywords": "sample homepage",
-"url": "tokyo.html",
+"url": "tokyo_20210121.html",
 "summary": ""
 }
 ,
@@ -456,10 +511,21 @@
 
 
 {
-"title": "Covid-19と経済活動の関係: 東京",
+"title": "Covid-19と経済活動: 東京",
 "tags": "tokyo",
 "keywords": "sample homepage",
-"url": "tokyo_20210121.html",
+"url": "tokyo_20210126.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Covid-19と経済活動: 東京",
+"tags": "tokyo",
+"keywords": "sample homepage",
+"url": "tokyo_latest.html",
 "summary": ""
 }
 ,

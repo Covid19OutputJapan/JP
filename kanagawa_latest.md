@@ -1,0 +1,24 @@
+---
+title: "Covid-19と経済活動: 神奈川"
+keywords: sample homepage
+tags: [kanagawa]
+sidebar: home_sidebar
+permalink: kanagawa_latest.html
+summary:
+---
+
+{% assign fig_loc = "./archives/20210202/Figures/Kanagawa/" %}
+
+## 最終アップデート：2021年2月3日
+
+{% include link_to_code.html %}
+
+{% include link_to_others.html text='神奈川の過去のページへのリンク' tag='kanagawa' %}
+
+### 1. 基本シナリオ
+
+{: align="center"}
+|![Baseline]({{ fig_loc }}BaselineDecline_jp.png)|
+
+出所: 著者達の計算による。<br>
+注: 左のパネルは、基本シナリオ下での新規感染者数の推移。赤（青）い実線は緊急事態宣言解除基準が150（50）人だった場合、その他の細い点線は解除基準人数を変更した場合。右のパネルは、それぞれの解除基準人数によってどのように今後6か月の総死者数と総生産量が影響を受けるかを示す。シナリオの詳細についてはFujii and Nakata (2021)を参照。

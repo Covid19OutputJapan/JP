@@ -7,18 +7,20 @@ permalink: index.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210126/Figures/" %}
+{% assign fig_loc = "./archives/20210202/Figures/" %}
 <!-- csv files must be in the "_data" folder -->
 {% assign datafile_oneweek = site.data.oneweek20210126 %}
 {% assign datafile_fourweek = site.data.fourweek20210126 %}
 
-## 最終アップデート：2021年1月26日
+## 最終アップデート：2021年2月3日
 
 {% include link_to_code.html %}
 <!--図表の作成に用いたコードやデータファイルは[ここ](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/)。-->
 
+<!--
 {% include note.html content="今週のトレードオフカーブは先週のトレードオフカーブと比べてかなり下がっています。理由は二つあります。一つは1月18日-24日での新規感染者がモデルの予測よりもやや少なかったこと。もう一つは、高齢者がワクチンを接種することによる平均致死率の減少を予測に反映させたことです。" %}
 {% include note.html content="「５．今週のチャート」では、河野太郎氏がワクチン接種担当大臣に就任されたことへの期待を込めて、ワクチン接種楽観シナリオを提示しています。" %}
+-->
 
 ### 1. Covid-19の感染状況の条件付き予測
 
@@ -28,7 +30,7 @@ summary:
 出所: 著者達の計算による。<br>
 <!--注1: "New infections": 1週間の新規感染者数。 "Output (deviation from reference level)": 総生産量（参照レベルからの乖離）。 "Effective reproduction number": 実効再生産数。 "Newly vaccinated persons": 1週間の新規免疫獲得者。<br>-->
 注1: “新規感染者数”: 1週間の新規感染者数。“経済活動”: 総生産量（参照レベルからの乖離）。“ワクチン接種”: ワクチンによる1週間の新規免疫獲得者。2本目の接種を受けた後に8割の確率で免疫が獲得できると仮定しています。その仮定では、ワクチンを週に400万本打つと週に160万人の人がワクチンによる免疫獲得をするという計算になります。詳しくは論文を参照して下さい。<br>
-注2: 赤線:1年平均総生産量ロスが1.5%。黒線:1年平均総生産量ロスが2%。青線:1年平均総生産量ロスが3%。
+注2: 赤線:1年平均総生産量ロスが1.35%。黒線:1年平均総生産量ロスが1.65%。青線:1年平均総生産量ロスが2.5%。
 
 ### 2. Covid-19とGDPの予測される関係
 
@@ -77,8 +79,8 @@ summary:
 {: align="center"}
 |    | 1週前の<br>"条件付き"予測値 | <br>実現値 | "条件付き"<br>予測誤差 |
 | ---- | ---- | ---- | ---- |
-| **新規陽性者数** | 37,437   |  34,897  | <span style="color: black; ">2,640</span> |
-| **新規死亡者数** |   527  | 583  | <span style="color: red; ">-56</span> |
+| **新規陽性者数** | 34,281   |  24,238  | <span style="color: black; ">10,043</span> |
+| **新規死亡者数** |   449  | 637  | <span style="color: red; ">-190</span> |
 
 出所: 著者達の計算による。<br>
 注1: (A)先週の時点でのモデルによる「1週先までの死亡者または陽性者の条件付き予測値」と(B)データの実現値の比較。詳細はFujii and Nakata (2021)を参照。<br>
@@ -132,7 +134,7 @@ summary:
 #### i. 1週間前に計算された現在までの予測
 
 {: align="center"}
-|![ForecaseErrors]({{ fig_loc }}ForecaseErrors_jp.png)|
+|![ForecaseErrors]({{ fig_loc }}ForecastErrors_jp.png)|
 
 出所: 著者達の計算による。<br>
 注1:　それぞれの時点から1週先までの新規陽性者のモデルの条件付き予測値とデータの実現値。詳細についてはFujii and Nakata (2021)を参照。<br>
@@ -158,6 +160,7 @@ summary:
 注2: "3. モデルの直近の予測精度"の注２を参照。
 -->
 
+<!--
 ### 5. 今週のチャート
 
 - 河野太郎氏がワクチン接種担当大臣に就任されたことへの期待を込めて、ワクチン接種楽観シナリオを提示しています。
@@ -167,3 +170,4 @@ summary:
 
 出所: 著者達の計算による。<br>
 注: 黒実線と灰色のファンチャートは図２と同じ。赤実線はワクチン接種速度が基本シナリオの2倍の場合。
+-->

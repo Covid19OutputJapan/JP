@@ -28,6 +28,10 @@ entries:
       output: web, pdf
       type: homepage
     - title: 先週
+      url: /20210126.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年１月21日
       url: /20210121.html
       output: web, pdf
       type: homepage
@@ -37,23 +41,23 @@ entries:
     folderitems:
     - title: 東京
       output: web, pdf
-      url: /tokyo.html
+      url: /tokyo_latest.html
       type: homepage
     - title: 大阪
       output: web, pdf
-      url: /osaka.html
+      url: /osaka_latest.html
       type: homepage
     - title: 神奈川
       output: web, pdf
-      url: /kanagawa.html
+      url: /kanagawa_latest.html
       type: homepage
     - title: 千葉
       output: web, pdf
-      url: /chiba.html
+      url: /chiba_latest.html
       type: homepage
     - title: 埼玉
       output: web, pdf
-      url: /saitama.html
+      url: /saitama_latest.html
       type: homepage
 
   - title: その他の情報
