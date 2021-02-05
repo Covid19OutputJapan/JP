@@ -7,7 +7,7 @@ permalink: tokyo_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210202/Figures/Tokyo/" %}
+{% assign fig_loc = "./archives/20210205/Figures/Tokyo/" %}
 
 ## 最終アップデート：2021年2月3日
 

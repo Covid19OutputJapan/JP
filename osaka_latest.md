@@ -7,7 +7,7 @@ permalink: osaka_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210202/Figures/Osaka/" %}
+{% assign fig_loc = "./archives/20210205/Figures/Osaka/" %}
 
 ## 最終アップデート：2021年2月3日
 
