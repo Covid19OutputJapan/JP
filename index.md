@@ -12,7 +12,7 @@ summary:
 {% assign datafile_oneweek = site.data.oneweek20210126 %}
 {% assign datafile_fourweek = site.data.fourweek20210126 %}
 
-## 最終アップデート：2021年2月3日
+## 最終アップデート：2021年2月5日
 
 {% include link_to_code.html %}
 <!--図表の作成に用いたコードやデータファイルは[ここ](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/)。-->
@@ -28,7 +28,7 @@ summary:
 |![Baseline]({{ fig_loc }}Tokyo/BaselineDecline_jp.png)|
 
 出所: 著者達の計算による。<br>
-注: 左のパネルは、基本シナリオ下での新規感染者数の推移。赤（青）い実線は緊急事態宣言解除基準が500（250）人だった場合、その他の細い点線は解除基準人数を変更した場合。右のパネルは、それぞれの解除基準人数によってどのように今後6か月の総死者数と総生産量が影響を受けるかを示す。シナリオの詳細についてはFujii and Nakata (2021)を参照。
+注: 左のパネルは、基本シナリオ下での新規感染者数の推移。黒の縦実線が現在時点、点線が緊急事態宣言解除が想定されている3月第1週。赤（青）い実線は緊急事態宣言解除基準が500（250）人だった場合、その他の細い点線は解除基準人数を変更した場合。右のパネルは、それぞれの解除基準人数によってどのように今後6か月の総死者数と総生産量が影響を受けるかを示す。シナリオの詳細についてはFujii and Nakata (2021)を参照。
 
 ### 2. Covid-19の感染状況の条件付き予測
 
