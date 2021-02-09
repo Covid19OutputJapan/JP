@@ -7,12 +7,13 @@ permalink: nationwide.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210205/Figures/" %}
+{% assign fig_loc = "./archives/20210209/Figures/" %}
 <!-- csv files must be in the "_data" folder -->
 {% assign datafile_oneweek = site.data.oneweek20210126 %}
 {% assign datafile_fourweek = site.data.fourweek20210126 %}
 
-## 最終アップデート：2021年2月3日
+## 最終アップデート：2021年2月9日
+** 2月7日までのデータに基づく分析です。
 
 {% include link_to_code.html %}
 <!--図表の作成に用いたコードやデータファイルは[ここ](https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/)。-->
@@ -30,7 +31,7 @@ summary:
 出所: 著者達の計算による。<br>
 <!--注1: "New infections": 1週間の新規感染者数。 "Output (deviation from reference level)": 総生産量（参照レベルからの乖離）。 "Effective reproduction number": 実効再生産数。 "Newly vaccinated persons": 1週間の新規免疫獲得者。<br>-->
 注1: “新規感染者数”: 1週間の新規感染者数。“経済活動”: 総生産量（参照レベルからの乖離）。“ワクチン接種”: ワクチンによる1週間の新規免疫獲得者。2本目の接種を受けた後に8割の確率で免疫が獲得できると仮定しています。その仮定では、ワクチンを週に400万本打つと週に160万人の人がワクチンによる免疫獲得をするという計算になります。詳しくは論文を参照して下さい。<br>
-注2: 赤線:1年平均総生産量ロスが1.35%。黒線:1年平均総生産量ロスが1.65%。青線:1年平均総生産量ロスが2.5%。
+注2: 赤線:1年平均総生産量ロスが1.2%。黒線:1年平均総生産量ロスが1.65%。青線:1年平均総生産量ロスが2.5%。
 
 ### 2. Covid-19とGDPの予測される関係
 
@@ -79,8 +80,8 @@ summary:
 {: align="center"}
 |    | 1週前の<br>"条件付き"予測値 | <br>実現値 | "条件付き"<br>予測誤差 |
 | ---- | ---- | ---- | ---- |
-| **新規陽性者数** | 34,281   |  24,238  | <span style="color: black; ">10,043</span> |
-| **新規死亡者数** |   449  | 637  | <span style="color: red; ">-190</span> |
+| **新規陽性者数** | 20,174   |  15,580  | <span style="color: black; ">4,594</span> |
+| **新規死亡者数** |   267  | 675  | <span style="color: red; ">-408</span> |
 
 出所: 著者達の計算による。<br>
 注1: (A)先週の時点でのモデルによる「1週先までの死亡者または陽性者の条件付き予測値」と(B)データの実現値の比較。詳細はFujii and Nakata (2021)を参照。<br>

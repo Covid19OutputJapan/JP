@@ -1,0 +1,85 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: sidebar
+  product: Covid-19と経済活動
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: 全国
+    output: web, pdf
+    folderitems:
+    - title: 直近
+      url: /nationwide.html
+      output: web, pdf
+      type: homepage
+    - title: 先週
+      url: /20210126.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年１月21日
+      url: /20210121.html
+      output: web, pdf
+      type: homepage
+
+  - title: 都道府県
+    output: web, pdf
+    folderitems:
+    - title: 東京
+      output: web, pdf
+      url: /tokyo_latest.html
+      type: homepage
+    - title: 大阪
+      output: web, pdf
+      url: /osaka_latest.html
+      type: homepage
+    - title: 神奈川
+      output: web, pdf
+      url: /kanagawa_latest.html
+      type: homepage
+    - title: 千葉
+      output: web, pdf
+      url: /chiba_latest.html
+      type: homepage
+    - title: 埼玉
+      output: web, pdf
+      url: /saitama_latest.html
+      type: homepage
+
+  - title: その他の情報
+    output: web, pdf
+    folderitems:
+    - title: チーム
+      url: /team.html
+      output: web, pdf
+      type: homepage
+    - title: 参考資料
+      url: /resources.html
+      output: web, pdf
+      type: homepage
+    - title: 改定履歴
+      url: /history.html
+      output: web, pdf
+      type: homepage
+    - title: 免責事項
+      url: /disclaimer.html
+      output: web, pdf
+      type: homepage
+    - title: メディア紹介
+      url: /media.html
+      output: web, pdf
+      type: homepage

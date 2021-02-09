@@ -41,7 +41,7 @@
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
-<link rel="alternate" type="application/rss+xml" title="JP" href="http://localhost:4000/feed.xml">
+<link rel="alternate" type="application/rss+xml" title="JP" href="http://0.0.0.0:4000/feed.xml">
 
     <script>
         $(document).ready(function() {
@@ -173,7 +173,14 @@
           
           
           
-          <li><a title="先週" href="20210126.html">先週</a></li>
+          <li><a title="先週" href="20210202.html">先週</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="2021年１月26日" href="20210126.html">2021年１月26日</a></li>
           
           
           
@@ -204,27 +211,6 @@
           
           
           <li class="active"><a title="大阪" href="osaka_latest.html">大阪</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="神奈川" href="kanagawa_latest.html">神奈川</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="千葉" href="chiba_latest.html">千葉</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="埼玉" href="saitama_latest.html">埼玉</a></li>
           
           
           
@@ -310,9 +296,10 @@
     
 
    
-<h2 id="最終アップデート2021年2月5日">最終アップデート：2021年2月5日</h2>
+<h2 id="最終アップデート2021年2月9日">最終アップデート：2021年2月9日</h2>
+<p>** 2月7日までのデータに基づく分析です。</p>
 
-<p>図表の作成に用いたコードやデータファイルは<a href="https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/">ここ</a>.</p>
+<p>図表の作成に用いたコードやデータファイルは<a href="https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/">ここ</a>からダウンロードできます。</p>
 
 <p>大阪の過去のページへのリンク</p>
 
@@ -337,6 +324,10 @@
     
 
     
+        
+    
+
+    
 
     
         
@@ -350,6 +341,10 @@
         
     
 
+    
+
+    
+        
     
 
     
@@ -383,6 +378,13 @@
     
         
             <td><a href="osaka_20210126.html">osaka_20210126.html</a></td>
+            
+        
+    
+
+    
+        
+            <td><a href="osaka_20210202.html">osaka_20210202.html</a></td>
             
         
     
@@ -498,6 +500,10 @@
     
 
     
+        
+    
+
+    
 
     
 
@@ -506,18 +512,44 @@
 </tr>
 </table>
 
-<h3 id="1-基本シナリオ">1. 基本シナリオ</h3>
+<h3 id="1-大阪での緊急事態宣言解除後の経済促進ペース分析">1. 大阪での緊急事態宣言解除後の「経済促進ペース」分析</h3>
 
 <table align="center">
   <tbody>
     <tr>
-      <td><img src="./archives/20210205/Figures/Osaka/BaselineDecline_jp.png" alt="Baseline" /></td>
+      <td><img src="./archives/20210209/Figures/Osaka/BaselineDeclineGradual_Y_jp.png" alt="Osaka_gradual_Y" /></td>
     </tr>
   </tbody>
 </table>
 
+<p>この図表のバックデータは<a href="./archives/20210209/Figures/Osaka/BackData_GradualOsaka_20210209.xls">ここ</a>からダウンロードしてください。
+<!--この図表のバックデータは<a href="https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/20210209/Figures/Tokyo/BackData_GradualTokyo_20210209.xls">ここ</a>からダウンロードしてください。--></p>
+
+<p>出所: 著者達の計算による。</p>
+
+<ul>
+  <li>この図をどのように理解すべきなのかは、<a href="./tokyo_latest.html">東京での緊急事態宣言解除後の「経済促進ペース」分析</a>の解説を参考にして下さい。</li>
+</ul>
+
+<h3 id="2-大阪での緊急事態宣言解除基準分析">2. 大阪での緊急事態宣言解除基準分析</h3>
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td><img src="./archives/20210209/Figures/Osaka/BaselineDecline_Y_jp.png" alt="Osaka_gradual_Y" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>この図表のバックデータは<a href="./archives/20210209/Figures/Osaka/BackData_Osaka_20210209.xls">ここ</a>からダウンロードしてください。
+<!--この図表のバックデータは<a href="https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/20210209/Figures/Tokyo/BackData_Tokyo_20210209.xls">ここ</a>からダウンロードしてください。--></p>
+
 <p>出所: 著者達の計算による。<br />
-注: 左のパネルは、基本シナリオ下での新規感染者数の推移。黒の縦実線が現在時点、点線が緊急事態宣言解除が想定されている3月第1週。赤（青）い実線は緊急事態宣言解除基準が150（50）人だった場合、その他の細い点線は解除基準人数を変更した場合。右のパネルは、それぞれの解除基準人数によってどのように今後1年の総死者数と総生産量が影響を受けるかを示す。シナリオの詳細についてはFujii and Nakata (2021)を参照。</p>
+注: 左のパネルは、基本シナリオ下での新規感染者数の推移。黒の縦実線が現在時点、点線が緊急事態宣言解除が想定されている3月第1週。赤（青）い実線は緊急事態宣言解除基準が150（50）人だった場合、その他の細い点線は解除基準人数を変更した場合。右のパネルは、それぞれの解除基準人数によってどのように１年後の累計死亡者数と総生産量が影響を受けるかを示す。シナリオの詳細についてはFujii and Nakata (2021)を参照。</p>
+
+<ul>
+  <li>この図をどのように理解すべきなのかは、この資料<a href="/files/Covid19OutputJapan_20210206.pdf" target="_blank" rel="noopener">[感染症対策と経済活動の両立：コロナ危機終焉に向けて]</a>と、この資料<a href="/files/Covid19OutputJapan_Note_20210206.pdf" target="_blank" rel="noopener">[緊急事態宣言解除基準分析の解説・モデル分析活用の心得]</a>に詳細に記述してあります。</li>
+</ul>
 
 
 
@@ -531,7 +563,7 @@
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2021 Daisuke Fujii and Taisuke Nakata. All rights reserved. <br />
- Site last generated: 2021-02-06 17:48 <br />
+ Site last generated: 2021-02-09 11:50 <br />
                 </div>
             </div>
 </footer>
