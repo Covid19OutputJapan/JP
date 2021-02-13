@@ -10,7 +10,7 @@ summary:
 {% assign fig_loc = "./archives/20210209/Figures/Tokyo/" %}
 
 ## 最終アップデート：2021年2月9日
-** 2月7日までのデータに基づく分析です。
+** 2月7日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -19,16 +19,12 @@ summary:
 ### 1. 東京での緊急事態宣言解除後の「経済促進ペース」分析
 
 {: align="center"}
-|![Tokyo_gradual_Y]({{ fig_loc }}BaselineDeclineGradual_Y_jp.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}BaselineDeclineGradual_Y_jp.png)]({{ fig_loc }}BaselineDeclineGradual_Y_jp.png)|
 
 この図表のバックデータは[ここ](./archives/20210209/Figures/Tokyo/BackData_GradualTokyo_20210209.xls)からダウンロードしてください。
 <!--この図表のバックデータは<a href="https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/20210209/Figures/Tokyo/BackData_GradualTokyo_20210209.xls">ここ</a>からダウンロードしてください。-->
 
 出所: 著者達の計算による。
-<!--<br>
-注: 左のパネルは、基本シナリオ下での新規感染者数の推移。黒の縦実線が現在時点、点線が緊急事態宣言解除が想定されている3月第1週。赤（青）い実線は緊急事態宣言解除基準が500（250）人だった場合、その他の細い点線は解除基準人数を変更した場合。右のパネルは、それぞれの解除基準人数によってどのように今後1年の総死者数と総生産量が影響を受けるかを示す。シナリオの詳細についてはFujii and Nakata (2021)を参照。
--->
-
 
 - 今週は、緊急事態宣言解除基準分析に加えて、緊急事態宣言を解除した後に<b>段階的に経済活動を促進させる（別の言い方をすると様々な制限が段階的に解除される）シナリオ</b>を分析し、感染症と経済活動がどのように「<b>宣言解除後の経済促進ペース</b>」に依存するかを考えます。
   - 具体的には、今週１日平均新規感染者数500人を下回り、週末（2月14日）に緊急事態宣言が解除されると仮定します。宣言解除後、経済活動は去年の秋のレベルに戻ると仮定しますが、そのレベルに到達するまでに、X週間かかると仮定します。Xが大きいければ大きいほど、宣言解除後の経済促進が段階的であるということです。
@@ -39,7 +35,7 @@ summary:
 ### 2. 東京での緊急事態宣言解除基準分析
 
 {: align="center"}
-|![Tokyo_gradual_Y]({{ fig_loc }}BaselineDecline__Y_jp.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}BaselineDecline__Y_jp.png)]({{ fig_loc }}BaselineDecline__Y_jp.png)|
 
 この図表のバックデータは[ここ](./archives/20210209/Figures/Tokyo/BackData_Tokyo_20210209.xls)からダウンロードしてください。
 <!--この図表のバックデータは<a href="https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/20210209/Figures/Tokyo/BackData_Tokyo_20210209.xls">ここ</a>からダウンロードしてください。-->

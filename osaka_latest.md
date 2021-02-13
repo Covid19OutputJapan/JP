@@ -10,7 +10,7 @@ summary:
 {% assign fig_loc = "./archives/20210209/Figures/Osaka/" %}
 
 ## 最終アップデート：2021年2月9日
-** 2月7日までのデータに基づく分析です。
+** 2月7日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -19,19 +19,19 @@ summary:
 ### 1. 大阪での緊急事態宣言解除後の「経済促進ペース」分析
 
 {: align="center"}
-|![Osaka_gradual_Y]({{ fig_loc }}BaselineDeclineGradual_Y_jp.png)|
+|[![Osaka_gradual_Y]({{ fig_loc }}BaselineDeclineGradual_Y_jp.png)]({{ fig_loc }}BaselineDeclineGradual_Y_jp.png)|
 
 この図表のバックデータは[ここ](./archives/20210209/Figures/Osaka/BackData_GradualOsaka_20210209.xls)からダウンロードしてください。
 <!--この図表のバックデータは<a href="https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/20210209/Figures/Tokyo/BackData_GradualTokyo_20210209.xls">ここ</a>からダウンロードしてください。-->
 
 出所: 著者達の計算による。
 
-- この図をどのように理解すべきなのかは、[東京での緊急事態宣言解除後の「経済促進ペース」分析](./tokyo_latest.html)の解説を参考にして下さい。
+- この図をどのように理解すべきなのかは、[東京での緊急事態宣言解除後の「経済促進ペース」分析](./tokyo_latest.html#1-東京での緊急事態宣言解除後の経済促進ペース分析)の解説を参考にして下さい。
 
 ### 2. 大阪での緊急事態宣言解除基準分析
 
 {: align="center"}
-|![Osaka_gradual_Y]({{ fig_loc }}BaselineDecline_Y_jp.png)|
+|[![Osaka_gradual_Y]({{ fig_loc }}BaselineDecline_Y_jp.png)]({{ fig_loc }}BaselineDecline_Y_jp.png)|
 
 この図表のバックデータは[ここ](./archives/20210209/Figures/Osaka/BackData_Osaka_20210209.xls)からダウンロードしてください。
 <!--この図表のバックデータは<a href="https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/20210209/Figures/Tokyo/BackData_Tokyo_20210209.xls">ここ</a>からダウンロードしてください。-->
