@@ -24,3 +24,5 @@ summary:
 - （1月30日）新型コロナウイルス感染症に関する専門家有志の会・メディア向け意見交換会で使用した資料 [[ここをクリック]](./files/Covid19OutputJapan_20210130.pdf){:target="_blank" rel="noopener"}・発表の際に使用したスクリプト [[ここをクリック]](./files/Covid19OutputJapan_20210130_Script.pdf){:target="_blank" rel="noopener"}
 
 - （2月6日）感染症対策と経済活動の両立：コロナ危機終焉に向けて [[ここをクリック]](./files/Covid19OutputJapan_20210206.pdf){:target="_blank" rel="noopener"}・緊急事態宣言解除基準分析の解説・モデル分析活用の心得 [[ここをクリック]](./files/Covid19OutputJapan_Note_20210206.pdf){:target="_blank" rel="noopener"}
+
+- （2月14日）「今解除&段階的に緩和」と「後で解除&急速に緩和」の比較 [[ここをクリック]](./files/FujiiNakata_Slides_20210214.pdf){:target="_blank" rel="noopener"}
