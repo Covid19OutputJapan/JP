@@ -31,7 +31,7 @@ entries:
       url: /20210209.html
       output: web, pdf
       type: homepage
-    - title: 2021年2月2日
+    - title: 2021年2月3日
       url: /20210202.html
       output: web, pdf
       type: homepage
