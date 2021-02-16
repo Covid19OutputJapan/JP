@@ -1,0 +1,52 @@
+---
+title: "Covid-19と経済活動: 愛知"
+keywords: sample homepage
+tags: [aichi]
+sidebar: home_sidebar
+permalink: aichi_latest.html
+summary:
+---
+
+{% assign fig_loc = "./archives/20210216/Figures/Aichi/" %}
+
+## 最終アップデート：2021年2月16日
+** 2月14日までのデータに基づく分析です。画像はクリックすると拡大します。
+
+{% include link_to_code.html %}
+
+<!-- {% include link_to_others.html text='愛知の過去のページへのリンク' tag='aichi' %} -->
+
+### 1. 愛知での緊急事態宣言解除基準分析
+
+{: align="center"}
+|[![Aichi_gradual_Y]({{ fig_loc }}Thresholds_jp.png)]({{ fig_loc }}Thresholds_jp.png)|
+
+この図表のバックデータは[ここ](./archives/20210216/Figures/Aichi/BackData_ThresholdsAichi_20210216.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。<br>
+注: 左のパネルは、基本シナリオ下での新規感染者数の推移。黒の縦実線が現在時点、点線が緊急事態宣言解除が想定されている3月第1週。赤（青）い実線は緊急事態宣言解除基準が100（50）人だった場合、その他の細い点線は解除基準人数を変更した場合。右のパネルは、それぞれの解除基準人数によってどのように１年後の累計死亡者数と総生産量が影響を受けるかを示す。シナリオの詳細についてはFujii and Nakata (2021)を参照。
+
+- この図をどのように理解すべきなのかは、この資料[[感染症対策と経済活動の両立：コロナ危機終焉に向けて]](./files/Covid19OutputJapan_20210206.pdf){:target="_blank" rel="noopener"}と、この資料[[緊急事態宣言解除基準分析の解説・モデル分析活用の心得]](./files/Covid19OutputJapan_Note_20210206.pdf){:target="_blank" rel="noopener"}に詳細に記述してあります。
+
+### 2. 愛知での「今週末に緊急事態宣言解除した場合における、その後の制限緩和ペース」分析
+
+{: align="center"}
+|[![Aichi_gradual_Y]({{ fig_loc }}GradualRecovery_jp.png)]({{ fig_loc }}GradualRecovery_jp.png)|
+
+この図表のバックデータは[ここ](./archives/20210216/Figures/Aichi/BackData_GradualRecoveryAichi_20210216.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。
+
+- この図をどのように理解すべきなのかは、先週のページ[[ここをクリック]](./tokyo_20210209.html#1-東京での緊急事態宣言解除後の経済促進ペース分析){:target="_blank" rel="noopener"}の解説を参考にして下さい。
+
+### 3. 愛知でのワクチン接種仮定の影響分析
+
+{: align="center"}
+|[![Aichi_gradual_Y]({{ fig_loc }}VaccineVariation_jp.png)]({{ fig_loc }}VaccineVariation_jp.png)|
+
+この図表のバックデータは[ここ](./archives/20210216/Figures/Aichi/BackData_VaccineVariationAichi_20210216.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。
+
+- この図では、ワクチン接種の見通しがどのように愛知での(1)感染者数の推移、(2)死亡者数と経済損失の関係に影響を与えるのかを示しています。3月第1週に現在の緊急事態宣言解除を仮定しています。
+- 3つのワクチン接種仮定の詳細は、この資料[[ここをクリック]](./files/FujiiNakata_Vaccines_Slides_20210216.pdf){:target="_blank" rel="noopener"}をご覧ください。

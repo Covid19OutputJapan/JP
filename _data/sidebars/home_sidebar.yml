@@ -55,6 +55,18 @@ entries:
       output: web, pdf
       url: /osaka_latest.html
       type: homepage
+    - title: 千葉
+      output: web, pdf
+      url: /chiba_latest.html
+      type: homepage
+    - title: 愛知
+      output: web, pdf
+      url: /aichi_latest.html
+      type: homepage
+    - title: 福岡
+      output: web, pdf
+      url: /fukuoka_latest.html
+      type: homepage
 
   - title: その他の情報
     output: web, pdf
