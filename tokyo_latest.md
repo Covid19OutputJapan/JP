@@ -21,6 +21,8 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Thresholds_jp.png)]({{ fig_loc }}Tokyo/Thresholds_jp.png)|
 
+この図表のバックデータは[ここ](./archives/20210216/Figures/Tokyo/BackData_ThresholdsTokyo_20210216.xls)からダウンロードしてください。
+
 <!-- この図表のバックデータは[ここ](./archives/20210216/Figures/Tokyo/BackData_Tokyo_20210216.xls)からダウンロードしてください。 -->
 <!--この図表のバックデータは<a href="https://github.com/Covid19OutputJapan/Covid19OutputJapan.github.io/tree/main/archives/20210209/Figures/Tokyo/BackData_Tokyo_20210209.xls">ここ</a>からダウンロードしてください。-->
 
@@ -34,12 +36,20 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery_jp.png)|
 
+この図表のバックデータは[ここ](./archives/20210216/Figures/Tokyo/BackData_GradualRecoveryTokyo_20210216.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。
+
 - この図をどのように理解すべきなのかは、先週のページ[[ここをクリック]](./tokyo_20210209.html#1-東京での緊急事態宣言解除後の経済促進ペース分析){:target="_blank" rel="noopener"}の解説を参考にして下さい。
 
 ### 3. 東京でのワクチン接種仮定の影響分析
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/VaccineVariation_jp.png)]({{ fig_loc }}Tokyo/VaccineVariation_jp.png)|
+
+この図表のバックデータは[ここ](./archives/20210216/Figures/Tokyo/BackData_VaccineVariationTokyo_20210216.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。
 
 - この図では、ワクチン接種の見通しがどのように東京での(1)感染者数の推移、(2)死亡者数と経済損失の関係に影響を与えるのかを示しています。3月第1週に現在の緊急事態宣言解除を仮定しています。
 - 3つのワクチン接種仮定の詳細は、この資料[[ここをクリック]](./files/FujiiNakata_Vaccines_Slides_20210216.pdf){:target="_blank" rel="noopener"}をご覧ください。
