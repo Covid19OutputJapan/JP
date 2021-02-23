@@ -28,3 +28,5 @@ summary:
 - （2月14日）「今解除&段階的に緩和」と「後で解除&急速に緩和」の比較 [[ここをクリック]](./files/FujiiNakata_Slides_20210214.pdf){:target="_blank" rel="noopener"}
 
 - （2月16日）ワクチン接種の見通し[[ここをクリック]](./files/FujiiNakata_Vaccines_Slides_20210216.pdf){:target="_blank" rel="noopener"}
+
+- （2月23日）「解除時期の模索」から「リスク管理」へ[[ここをクリック]](./files/FujiiNakata_Note_20210223.pdf){:target="_blank" rel="noopener"}
