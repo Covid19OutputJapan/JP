@@ -7,12 +7,16 @@ permalink: aichi_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210223/Figures/Aichi/" %}
+{% assign fig_loc = "./archives/20210225/Figures/Aichi/" %}
 
-## 最終アップデート：2021年2月23日
+## 最終アップデート：2021年2月25日
 ** 2月21日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
+
+{% include note.html content="2月23日の更新の際に使われた「年度末気の緩み」シナリオのコードに間違いが見つかり、今回の更新ではその修正をしました。修正前と修正後を比較すると、分析1(B)と分析2(B)に関して、定性的な違いはありませんが定量的な違いが多少あります。大変申し訳ございません。" %}
+
+修正前の図表は[[ここをクリック]](./aichi_20210223.html)
 
 {% include link_to_others.html text='愛知の過去のページへのリンク' tag='aichi' %}
 

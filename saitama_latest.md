@@ -7,36 +7,70 @@ permalink: saitama_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210202/Figures/Saitama/" %}
+{% assign fig_loc = "./archives/20210225/Figures/Saitama/" %}
 
-## 最終アップデート：2021年2月3日
+## 最終アップデート：2021年2月25日
+** 2月21日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
-{% include link_to_others.html text='埼玉の過去のページへのリンク' tag='saitama' %}
+{% include link_to_others.html text='埼玉の他のページへのリンク' tag='saitama' %}
 
-<!--
-埼玉の他のページへのリンク:
-<table>
-<tr>
-{% assign cnt = 0 %}
-{% for page1 in site.pages %}
-    {% for tag1 in page1.tags %}
-        {% if tag1 == "saitama" and page1.name != page.name %}
-            <td><a href="{{page1.url | remove: "/" }}">{{page1.permalink}}</a></td>
-            {% assign cnt = cnt | plus:1 %}
-        {% endif %}
-    {% endfor %}
-{% endfor %}
-</tr>
-</table>
--->
+### 1. 埼玉での緊急事態宣言解除基準分析
 
-### 1. 基本シナリオ
+#### (A) 基本シナリオ
 
 {: align="center"}
-|![Baseline]({{ fig_loc }}BaselineDecline_jp.png)|
+|[![Saitama_gradual_Y]({{ fig_loc }}Thresholds1_jp.png)]({{ fig_loc }}Thresholds1_jp.png)|
+
+この図表のバックデータは[ここ]({{ fig_loc }}BackData_ThresholdsSaitama_1.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-注: 左のパネルは、基本シナリオ下での新規感染者数の推移。赤（青）い実線は緊急事態宣言解除基準が100（50）人だった場合、その他の細い点線は解除基準人数を変更した場合。右のパネルは、それぞれの解除基準人数によってどのように今後1年の総死者数と総生産量が影響を受けるかを示す。シナリオの詳細についてはFujii and Nakata (2021)を参照。
-<!--注: 左のパネルは、基本シナリオ下での新規感染者数の推移。赤（青）い実線は緊急事態宣言解除基準が200（50）人だった場合、その他の細い点線は解除基準人数を変更した場合。右のパネルは、それぞれの解除基準人数によってどのように今後6か月の総死者数と総生産量が影響を受けるかを示す。シナリオの詳細についてはFujii and Nakata (2021)を参照。-->
+注: 左のパネルは、基本シナリオ下での新規感染者数の推移。黒の縦実線が現在時点、点線が緊急事態宣言解除が想定されている3月第1週。赤（青）い実線は緊急事態宣言解除基準が130（90）人だった場合、その他の細い点線は解除基準人数を変更した場合。右のパネルは、それぞれの解除基準人数によってどのように１年後の累計死亡者数と経済損失が影響を受けるかを示す。シナリオの詳細についてはFujii and Nakata (2021)を参照。
+
+- この図をどのように理解すべきなのかは、この資料[[感染症対策と経済活動の両立：コロナ危機終焉に向けて]](./files/Covid19OutputJapan_20210206.pdf){:target="_blank" rel="noopener"}と、この資料[[緊急事態宣言解除基準分析の解説・モデル分析活用の心得]](./files/Covid19OutputJapan_Note_20210206.pdf){:target="_blank" rel="noopener"}に詳細に記述してあります。
+
+#### (B)「年度末気の緩み」シナリオ
+
+{: align="center"}
+|[![Saitama_gradual_Y]({{ fig_loc }}Thresholds3_jp.png)]({{ fig_loc }}Thresholds3_jp.png)|
+
+この図表のバックデータは[ここ]({{ fig_loc }}BackData_ThresholdsSaitama_3.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。<br>
+注: このシナリオでは3月22日から4月11日の3週間、実効再生産数が基本シナリオの1.3倍になることを仮定しています。
+
+### 2. 埼玉での緊急事態宣言解除後の「経済促進ペース」分析
+
+#### (A) 基本シナリオ
+
+{: align="center"}
+|[![Saitama_gradual_Y]({{ fig_loc }}GradualRecovery1_jp.png)]({{ fig_loc }}GradualRecovery1_jp.png)|
+
+この図表のバックデータは[ここ]({{ fig_loc }}BackData_GradualRecoverySaitama_1.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。
+
+- この図をどのように理解すべきなのかは、このページ[[ここをクリック]](./tokyo_20210209.html#1-東京での緊急事態宣言解除後の経済促進ペース分析){:target="_blank" rel="noopener"}の解説を参考にして下さい。
+
+#### (B)「年度末気の緩み」シナリオ
+
+{: align="center"}
+|[![Saitama_gradual_Y]({{ fig_loc }}GradualRecovery3_jp.png)]({{ fig_loc }}GradualRecovery3_jp.png)|
+
+この図表のバックデータは[ここ]({{ fig_loc }}BackData_GradualRecoverySaitama_3.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。<br>
+注: このシナリオでは3月22日から4月11日の3週間、実効再生産数が基本シナリオの1.3倍になることを仮定しています。
+
+### 3. 埼玉でのワクチン接種仮定の影響分析
+
+{: align="center"}
+|[![Saitama_gradual_Y]({{ fig_loc }}VaccineVariation1_jp.png)]({{ fig_loc }}VaccineVariation1_jp.png)|
+
+この図表のバックデータは[ここ]({{ fig_loc }}BackData_VaccineVariationSaitama_1.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。
+
+- この図では、ワクチン接種の見通しがどのように埼玉での(1)感染者数の推移、(2)死亡者数と経済損失の関係に影響を与えるのかを示しています。3月第1週に現在の緊急事態宣言解除を仮定しています。
+- 3つのワクチン接種仮定の詳細は、この資料[[ここをクリック]](./files/FujiiNakata_Vaccines_Slides_20210216.pdf){:target="_blank" rel="noopener"}をご覧ください。

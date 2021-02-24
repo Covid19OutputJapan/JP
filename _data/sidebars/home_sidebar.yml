@@ -71,7 +71,15 @@ entries:
       output: web, pdf
       url: /fukuoka_latest.html
       type: homepage
-
+    - title: 神奈川
+      output: web, pdf
+      url: /kanagawa_latest.html
+      type: homepage
+    - title: 埼玉
+      output: web, pdf
+      url: /saitama_latest.html
+      type: homepage
+      
   - title: その他の情報
     output: web, pdf
     folderitems:

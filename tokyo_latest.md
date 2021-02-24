@@ -7,12 +7,16 @@ permalink: tokyo_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210223/Figures/" %}
+{% assign fig_loc = "./archives/20210225/Figures/" %}
 
-## 最終アップデート：2021年2月23日
+## 最終アップデート：2021年2月25日
 ** 2月21日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
+
+{% include note.html content="2月23日の更新の際に使われた「年度末気の緩み」シナリオのコードに間違いが見つかり、今回の更新ではその修正をしました。修正前と修正後を比較すると、分析1(B)と分析2(B)に関して、定性的な違いはありませんが定量的な違いが多少あります。大変申し訳ございません。" %}
+
+修正前の図表は[[ここをクリック]](./tokyo_20210223.html)
 
 {% include link_to_others.html text='東京の過去のページへのリンク' tag='tokyo' %}
 
@@ -23,7 +27,7 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Thresholds1_jp.png)]({{ fig_loc }}Tokyo/Thresholds1_jp.png)|
 
-この図表のバックデータは[ここ](./archives/20210223/Figures/Tokyo/BackData_ThresholdsTokyo_1.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_ThresholdsTokyo_1.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 注: 左のパネルは、基本シナリオ下での新規感染者数の推移。黒の縦実線が現在時点、点線が緊急事態宣言解除が想定されている3月第1週。赤（青）い実線は緊急事態宣言解除基準が350（250）人だった場合、その他の細い点線は解除基準人数を変更した場合。右のパネルは、それぞれの解除基準人数によってどのように１年後の累計死亡者数と経済損失が影響を受けるかを示す。シナリオの詳細についてはFujii and Nakata (2021)を参照。
@@ -35,7 +39,7 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Thresholds3_jp.png)]({{ fig_loc }}Tokyo/Thresholds3_jp.png)|
 
-この図表のバックデータは[ここ](./archives/20210223/Figures/Tokyo/BackData_ThresholdsTokyo_3.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_ThresholdsTokyo_3.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 注: このシナリオでは3月22日から4月11日の3週間、実効再生産数が基本シナリオの1.3倍になることを仮定しています。
@@ -47,7 +51,7 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery1_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery1_jp.png)|
 
-この図表のバックデータは[ここ](./archives/20210223/Figures/Tokyo/BackData_GradualRecoveryTokyo_1.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_GradualRecoveryTokyo_1.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。
 
@@ -58,7 +62,7 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery3_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery3_jp.png)|
 
-この図表のバックデータは[ここ](./archives/20210223/Figures/Tokyo/BackData_GradualRecoveryTokyo_3.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_GradualRecoveryTokyo_3.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 注: このシナリオでは3月22日から4月11日の3週間、実効再生産数が基本シナリオの1.3倍になることを仮定しています。
@@ -68,7 +72,7 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/VaccineVariation1_jp.png)]({{ fig_loc }}Tokyo/VaccineVariation1_jp.png)|
 
-この図表のバックデータは[ここ](./archives/20210223/Figures/Tokyo/BackData_VaccineVariationTokyo_1.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_VaccineVariationTokyo_1.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。
 
