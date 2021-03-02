@@ -24,9 +24,11 @@ summary:
 
 {% include note.html content="今回の更新では経済活動のナウキャストの仕方も調整しました。この調整と上記の高齢者ワクチン接種開始時期の遅れにより、先週と比べて予測累計死亡者数が増加しています。"%}
 
-{% include note.html content="参考資料に「『解除時期の模索』から『リスク管理』へ」を掲載してます。" %}
+{% include note.html content="参考資料に「『解除時期の模索』から『リスク管理』へ」を掲載してiいます。" %}
 [[ここをクリック]](./files/FujiiNakata_Note_20210223.pdf){:target="_blank" rel="noopener"}
 
+{% include note.html content="「3月7日に解除すべきか？ー1か月前の見通しと現在の見通しの比較から言えることー」を掲載しました。"%}
+[[ここをクリック]](./files/FujiiNakata_Slides_20210302.pdf){:target="_blank" rel="noopener"}
 
 
 ### 1. 東京での緊急事態宣言解除基準分析

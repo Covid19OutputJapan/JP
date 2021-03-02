@@ -30,3 +30,5 @@ summary:
 - （2月16日）ワクチン接種の見通し[[ここをクリック]](./files/FujiiNakata_Vaccines_Slides_20210216.pdf){:target="_blank" rel="noopener"}
 
 - （2月23日）「解除時期の模索」から「リスク管理」へ[[ここをクリック]](./files/FujiiNakata_Note_20210223.pdf){:target="_blank" rel="noopener"}
+
+- （3月2日）3月7日に解除すべきか？ー1か月前の見通しと現在の見通しの比較から言えることー[[ここをクリック]](./files/FujiiNakata_Slides_20210302.pdf){:target="_blank" rel="noopener"}
