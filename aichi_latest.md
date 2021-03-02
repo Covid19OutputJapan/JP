@@ -14,7 +14,7 @@ summary:
 
 {% include link_to_code.html %}
 
-{% include link_to_others.html text='愛知の過去のページへのリンク' tag='aichi' %}
+{% include link_to_others.html text='愛知の他のページへのリンク' tag='aichi' %}
 
 
 ### 1. 愛知での緊急事態宣言解除後の「経済促進ペース」分析

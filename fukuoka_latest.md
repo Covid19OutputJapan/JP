@@ -14,7 +14,7 @@ summary:
 
 {% include link_to_code.html %}
 
-{% include link_to_others.html text='福岡の過去のページへのリンク' tag='fukuoka' %}
+{% include link_to_others.html text='福岡の他のページへのリンク' tag='fukuoka' %}
 
 
 ### 1. 福岡での緊急事態宣言解除後の「経済促進ペース」分析

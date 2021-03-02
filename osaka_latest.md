@@ -14,7 +14,7 @@ summary:
 
 {% include link_to_code.html %}
 
-{% include link_to_others.html text='大阪の過去のページへのリンク' tag='osaka' %}
+{% include link_to_others.html text='大阪の他のページへのリンク' tag='osaka' %}
 
 
 ### 1. 大阪での緊急事態宣言解除後の「経済促進ペース」分析

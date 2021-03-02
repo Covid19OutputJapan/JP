@@ -14,7 +14,7 @@ summary:
 
 {% include link_to_code.html %}
 
-{% include link_to_others.html text='神奈川の過去のページへのリンク' tag='kanagawa' %}
+{% include link_to_others.html text='神奈川の他のページへのリンク' tag='kanagawa' %}
 
 ### 1. 神奈川での緊急事態宣言解除基準分析
 

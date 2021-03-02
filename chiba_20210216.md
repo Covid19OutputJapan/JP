@@ -14,7 +14,7 @@ summary:
 
 {% include link_to_code.html %}
 
-{% include link_to_others.html text='千葉の過去のページへのリンク' tag='chiba' %}
+{% include link_to_others.html text='千葉の他のページへのリンク' tag='chiba' %}
 
 ### 1. 千葉での緊急事態宣言解除基準分析
 
