@@ -27,6 +27,11 @@ summary:
 
 - Bloomberg（2月17日）[ここをクリック](https://www.bloomberg.co.jp/news/articles/2021-02-17/QOLSU4T0AFB401){:target="_blank" rel="noopener"}
 
+- 日経（2月26日）[ここをクリック](https://www.nikkei.com/article/DGXZQODG260940W1A220C2000000/){:target="_blank" rel="noopener"}
+
+- 読売新聞（3月4日）[ここをクリック](https://www.yomiuri.co.jp/national/20210303-OYT1T50198/){:target="_blank" rel="noopener"}
+
+
 
 ### 2. テレビ・ラジオ
 
@@ -55,3 +60,23 @@ summary:
 - テレビ朝日「報道ステーション」（2月26日）[ここをクリック](https://www.youtube.com/watch?v=pMsApKOWImU){:target="_blank" rel="noopener"}
 
 - テレビ東京「日経プラス10」（2月26日）[ここをクリック](https://txbiz.tv-tokyo.co.jp/plusten/feature/post_221820/){:target="_blank" rel="noopener"}
+
+- テレビ朝日「グッド！モーニング」（2月26日）
+
+- フジテレビ「バイキング」（3月1日）
+
+- フジテレビ「めざましテレビ」（3月2日）
+
+- 読売テレビ「情報ライブ ミヤネ屋」（3月2日）
+
+- NHK「ニュースウォッチ9」（3月4日）
+
+
+
+### 3. セミナー等
+
+- 東京大学（12月24日）
+
+- 日本経済研究センター（2月10日）
+
+- 東京カレッジ（4月14日）（予定）

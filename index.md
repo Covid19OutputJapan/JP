@@ -7,9 +7,9 @@ permalink: index.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210302/Figures/" %}
+{% assign fig_loc = "./archives/20210303/Figures/" %}
 
-## 最終アップデート：2021年3月2日
+## 最終アップデート：2021年3月3日
 ** 2月28日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
@@ -18,16 +18,17 @@ summary:
 
 <!-- 修正前の図表は[[ここをクリック]](./index_20210223.html) -->
 
+{% include note.html content="1都3県での緊急事態宣言2週間延長を受けて、1の解除基準分析では3月21日解除ケースを赤線で強調し、2の経済促進ペース分析を3月7日解除ケースではなく3月21日解除ケースで行っています。" %}
 
-{% include note.html content="今回の更新ではワクチン接種見通しを変更しました。先週までの見通しでは高齢者の<b>本格的な</b>ワクチン接種開始が4月第2週でしたが、新しい見通しでは5月第2週です。" %}
+{% include note.html content="先週までは高齢者の<b>本格的な</b>ワクチン接種開始が4月第2週と仮定していましたが、現在の仮定は5月第2週です。" %}
 [[ここをクリック]](./files/FujiiNakata_Vaccines_Slides_20210302.pdf){:target="_blank" rel="noopener"}
 
-{% include note.html content="今回の更新では経済活動のナウキャストの仕方も調整しました。この調整と上記の高齢者ワクチン接種開始時期の遅れにより、先週と比べて予測累計死亡者数が増加しています。"%}
+<!-- {% include note.html content="今回の更新では経済活動のナウキャストの仕方も調整しました。この調整と上記の高齢者ワクチン接種開始時期の遅れにより、先週と比べて予測累計死亡者数が増加しています。"%} -->
 
-{% include note.html content="参考資料に「『解除時期の模索』から『リスク管理』へ」を掲載してiいます。" %}
+{% include note.html content="参考資料に「『解除時期の模索』から『リスク管理』へ」を掲載しています。" %}
 [[ここをクリック]](./files/FujiiNakata_Note_20210223.pdf){:target="_blank" rel="noopener"}
 
-{% include note.html content="「3月7日に解除すべきか？ー1か月前の見通しと現在の見通しの比較から言えることー」を掲載しました。"%}
+{% include note.html content="「3月7日に解除すべきか？ー1か月前の見通しと現在の見通しの比較から言えることー」を掲載しています。"%}
 [[ここをクリック]](./files/FujiiNakata_Slides_20210302.pdf){:target="_blank" rel="noopener"}
 
 
@@ -41,7 +42,7 @@ summary:
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_ThresholdsTokyo_1.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-{% include footnote_20210302.html content="解除基準人数"%}
+{% include footnote_20210303.html content="解除基準人数"%}
 <!-- 注: 左のパネルは、基本シナリオ下での新規感染者数の推移。黒の縦実線が現在時点、点線が緊急事態宣言解除が想定されている3月第1週。赤・青の実線ならびにその他の細い点線は、図中に示されるそれぞれの解除基準人数に対応。右のパネルは、それぞれの解除基準人数によってどのように１年後の累計死亡者数と経済損失が影響を受けるかを示す。シナリオの詳細についてはFujii and Nakata (2021)を参照。 -->
 
 - この図をどのように理解すべきなのかは、この資料[[感染症対策と経済活動の両立：コロナ危機終焉に向けて]](./files/Covid19OutputJapan_20210206.pdf){:target="_blank" rel="noopener"}と、この資料[[緊急事態宣言解除基準分析の解説・モデル分析活用の心得]](./files/Covid19OutputJapan_Note_20210206.pdf){:target="_blank" rel="noopener"}に詳細に記述してあります。
