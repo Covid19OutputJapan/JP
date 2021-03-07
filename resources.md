@@ -32,3 +32,11 @@ summary:
 - （2月23日）「解除時期の模索」から「リスク管理」へ[[ここをクリック]](./files/FujiiNakata_Note_20210223.pdf){:target="_blank" rel="noopener"}
 
 - （3月2日）3月7日に解除すべきか？ー1か月前の見通しと現在の見通しの比較から言えることー[[ここをクリック]](./files/FujiiNakata_Slides_20210302.pdf){:target="_blank" rel="noopener"}
+
+- （3月2日）ワクチン接種の見通し[[ここをクリック]](./files/FujiiNakata_Vaccines_Slides_20210302.pdf){:target="_blank" rel="noopener"}
+
+- （3月7日）感染症専門家の勉強会で使用した資料
+    - A. 感染症対策と経済活動の両立：疫学マクロモデルが貢献できること[[ここをクリック]](./files/FujiiNakata_Slides_20210307a.pdf){:target="_blank" rel="noopener"}
+    - B. 経済モデルに基づく政策分析・提言[[ここをクリック]](./files/FujiiNakata_Slides_20210307b.pdf){:target="_blank" rel="noopener"}
+    - C. シンプルなモデルに基づく政策分析・提言[[ここをクリック]](./files/FujiiNakata_Slides_20210307c.pdf){:target="_blank" rel="noopener"}
+    - D. 感染症対策と経済活動の両立：不確実性がある中での政策判断[[ここをクリック]](./files/FujiiNakata_Slides_20210307d.pdf){:target="_blank" rel="noopener"}

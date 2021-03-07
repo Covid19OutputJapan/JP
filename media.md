@@ -71,7 +71,7 @@ summary:
 
 - NHK「ニュースウォッチ9」（3月4日）
 
-
+- テレビ朝日「羽鳥慎一モーニングショー」（3月5日）[ここをクリック](https://www.youtube.com/watch?v=1Xmjwq-UVmE&t=3562s){:target="_blank" rel="noopener"}
 
 ### 3. セミナー等
 
