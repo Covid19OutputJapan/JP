@@ -9,9 +9,9 @@ summary:
 
 ### エコノミスト
 
-- 藤井大輔: [link](https://sites.google.com/site/fujii0622/home)
+- 藤井大輔: [link](https://sites.google.com/site/fujii0622/home) [[写真]](./files/DaisukeFujii.jpg){:target="_blank" rel="noopener"}
 
-- 仲田泰祐: [link](https://sites.google.com/site/taisukenakata/)
+- 仲田泰祐: [link](https://sites.google.com/site/taisukenakata/) [[写真]](./files/TaisukeNakata.jpg){:target="_blank" rel="noopener"}
 
 <!-- - 砂川武貴 (プロジェクトの技術的サポート): [link](https://tkksnk.github.io/) -->
 
