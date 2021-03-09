@@ -32,6 +32,10 @@ summary:
 
 - 別府正太郎
 
+- 前田湧太
+
 - 森公毅
 
 - Batista, Quentin
+
+- Hongtao Li

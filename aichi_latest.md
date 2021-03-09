@@ -7,10 +7,10 @@ permalink: aichi_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210302/Figures/Aichi/" %}
+{% assign fig_loc = "./archives/20210309/Figures/Aichi/" %}
 
-## 最終アップデート：2021年3月2日
-** 2月28日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年3月9日
+** 3月7日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -27,7 +27,7 @@ summary:
 この図表のバックデータは[ここ]({{ fig_loc }}BackData_GradualRecoveryAichi_1.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-{% include footnote_20210302_after.html content="経済促進ペース"%}
+{% include footnote_20210309.html content="経済促進ペース"%}
 <!-- 注: 左のパネルは、基本シナリオ下での新規感染者数の推移。黒の縦実線が現在時点、点線が緊急事態宣言解除が想定されている3月第1週。赤・青の実線ならびにその他の細い点線は、図中に示されるそれぞれの経済促進ペースに対応。右のパネルは、それぞれの経済促進ペースによってどのように１年後の累計死亡者数と経済損失が影響を受けるかを示す。シナリオの詳細についてはFujii and Nakata (2021)を参照。 -->
 
 - この図をどのように理解すべきなのかは、このページ[[ここをクリック]](./tokyo_20210209.html#1-東京での緊急事態宣言解除後の経済促進ペース分析){:target="_blank" rel="noopener"}の解説を参考にして下さい。
