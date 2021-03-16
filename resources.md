@@ -42,3 +42,5 @@ summary:
     - D. 感染症対策と経済活動の両立：不確実性がある中での政策判断[[ここをクリック]](./files/FujiiNakata_Slides_20210307d.pdf){:target="_blank" rel="noopener"}
 
 - （3月16日）3月21日に解除すべきか[[ここをクリック]](./files/FujiiNakata_Slides_20210316.pdf){:target="_blank" rel="noopener"}
+
+- （3月16日）何故、毎週更新か？[[ここをクリック]](./files/FujiiNakata_Slides_20210316b.pdf){:target="_blank" rel="noopener"}
