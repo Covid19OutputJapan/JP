@@ -40,3 +40,5 @@ summary:
     - B. 経済モデルに基づく政策分析・提言[[ここをクリック]](./files/FujiiNakata_Slides_20210307b.pdf){:target="_blank" rel="noopener"}
     - C. シンプルなモデルに基づく政策分析・提言[[ここをクリック]](./files/FujiiNakata_Slides_20210307c.pdf){:target="_blank" rel="noopener"}
     - D. 感染症対策と経済活動の両立：不確実性がある中での政策判断[[ここをクリック]](./files/FujiiNakata_Slides_20210307d.pdf){:target="_blank" rel="noopener"}
+
+- （3月16日）3月21日に解除すべきか[[ここをクリック]](./files/FujiiNakata_Slides_20210316.pdf){:target="_blank" rel="noopener"}
