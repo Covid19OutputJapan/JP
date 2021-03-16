@@ -1,7 +1,7 @@
 ---
 title: "Covid-19と経済活動: 東京"
 keywords: sample homepage
-tags: [tokyo_latest0]
+tags: [tokyo]
 sidebar: home_sidebar
 permalink: tokyo_latest0.html
 summary:

@@ -2,29 +2,28 @@
 
 
 <table>
-<tr>
-{% assign cnt = 0 %}
+{% assign cnt = -1 %}
 {% for page1 in site.pages %}
     {% for tag1 in page1.tags %}
-        <!-- {% if cnt == 0 %}
+        {% if cnt == -1 %}
             <tr>
-        {% endif %} -->
+            {% assign cnt = cnt | plus:1 %}
+        {% endif %}
         {% if tag1 == include.tag and page1.name != page.name %}
             <td><a href="{{page1.url | remove: "/" }}">{{page1.permalink}}</a></td>
             {% assign cnt = cnt | plus:1 %}
         {% endif %}
         {% if cnt == 5 %}
-            </tr><tr>
-            {% assign cnt = 0 %}
+            </tr>
+            {% assign cnt = -1 %}
         {% endif %}
     {% endfor %}
 {% endfor %}
-
-<!-- {% if cnt > 0 %} -->
+{% if cnt > 0 %}
     {% assign cnt = 5 | minus:cnt %}
     {% for i in (1..cnt) %}
-        <td>{{ cnt }}</td>
+        <td> </td>
     {% endfor %}
-<!-- {% endif %} -->
-</tr>
+    </tr>
+{% endif %}
 </table>
