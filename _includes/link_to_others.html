@@ -6,6 +6,9 @@
 {% assign cnt = 0 %}
 {% for page1 in site.pages %}
     {% for tag1 in page1.tags %}
+        <!-- {% if cnt == 0 %}
+            <tr>
+        {% endif %} -->
         {% if tag1 == include.tag and page1.name != page.name %}
             <td><a href="{{page1.url | remove: "/" }}">{{page1.permalink}}</a></td>
             {% assign cnt = cnt | plus:1 %}
@@ -15,11 +18,13 @@
             {% assign cnt = 0 %}
         {% endif %}
     {% endfor %}
-    <!-- {% if cnt > 0 %}
-        {% for i in (1..(5+1-cnt)) %}
-            <td>A</td>
-        {% endfor %}
-    {% endif %} -->
 {% endfor %}
+
+<!-- {% if cnt > 0 %} -->
+    {% assign cnt = 5 | minus:cnt %}
+    {% for i in (1..cnt) %}
+        <td>{{ cnt }}</td>
+    {% endfor %}
+<!-- {% endif %} -->
 </tr>
 </table>
