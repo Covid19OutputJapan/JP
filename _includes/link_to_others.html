@@ -1,11 +1,10 @@
 {{ include.text }}
 
-
 <table>
 {% assign cnt = -1 %}
 {% for page1 in site.pages %}
     {% for tag1 in page1.tags %}
-        {% if cnt == -1 %}
+        {% if cnt == -1 and page1.name != page.name %}
             <tr>
             {% assign cnt = cnt | plus:1 %}
         {% endif %}
@@ -19,6 +18,7 @@
         {% endif %}
     {% endfor %}
 {% endfor %}
+
 {% if cnt > 0 %}
     {% assign cnt = 5 | minus:cnt %}
     {% for i in (1..cnt) %}
@@ -26,4 +26,8 @@
     {% endfor %}
     </tr>
 {% endif %}
+
+<!-- {% if cnt > -1 %}
+    </tr>
+{% endif %} -->
 </table>
