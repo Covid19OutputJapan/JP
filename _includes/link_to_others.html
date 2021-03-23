@@ -1,24 +1,34 @@
 {{ include.text }}
 
 <table>
-{% assign cnt = -1 %}
-{% for page1 in site.pages %}
-    {% for tag1 in page1.tags %}
-        {% if cnt == -1 and page1.name != page.name %}
-            <tr>
-            {% assign cnt = cnt | plus:1 %}
-        {% endif %}
-        {% if tag1 == include.tag and page1.name != page.name %}
-            <td><a href="{{page1.url | remove: "/" }}">{{page1.permalink}}</a></td>
-            {% assign cnt = cnt | plus:1 %}
-        {% endif %}
-        {% if cnt == 5 %}
-            </tr>
-            {% assign cnt = -1 %}
-        {% endif %}
-    {% endfor %}
+{% assign cnt = -1 %} <!-- set counter -->
+{% for page1 in site.pages %} <!-- for all the pages on the website -->
+    {% if page1.name != page.name %} <!-- if the page we are looking is NOT the page calling this procedure itself -->
+        {% for tag1 in page1.tags %} <!-- for each tag in the page (maybe redundant as there is only one tag in each page) -->
+
+            <!-- make a new row and set counter = 0 -->
+            {% if cnt == -1 %}
+                <tr>
+                {% assign cnt = 0 %}
+            {% endif %}
+
+            <!-- make a new cell with a link to the page and increase the number of counter -->
+            {% if tag1 == include.tag %}
+                <td><a href="{{page1.url | remove: "/" }}">{{page1.permalink}}</a></td>
+                {% assign cnt = cnt | plus:1 %}
+            {% endif %}
+
+            <!-- if there are 5 cells in the row, close the row -->
+            {% if cnt == 5 %}
+                </tr>
+                {% assign cnt = -1 %}
+            {% endif %}
+
+        {% endfor %}
+    {% endif %}
 {% endfor %}
 
+<!-- if there are less than 5 cells in the row, add cells with blank, and then close the row -->
 {% if cnt > 0 %}
     {% assign cnt = 5 | minus:cnt %}
     {% for i in (1..cnt) %}
@@ -27,7 +37,7 @@
     </tr>
 {% endif %}
 
-<!-- {% if cnt > -1 %}
+{% if cnt < 1 %}
     </tr>
-{% endif %} -->
+{% endif %}
 </table>

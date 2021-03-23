@@ -7,60 +7,22 @@ permalink: index.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210318/Figures/" %}
+{% assign fig_loc = "./archives/20210323/Figures/" %}
 
-## 最終アップデート：2021年3月19日
-** 3月14日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年3月23日
+** 3月21日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
-<!-- {% include note.html content="2月23日の更新の際に使われた「年度末気の緩み」シナリオのコードに間違いが見つかり、今回の更新ではその修正をしました。修正前と修正後を比較すると、分析1(B)と分析2(B)に関して、定性的な違いはありませんが定量的な違いが多少あります。大変申し訳ございません。" %} -->
+{% include note.html content="今週からは、経済活動の回復先を「昨年の秋頃のレベル」ではなく「昨年の秋頃を少し上回るレベル」に変更しました。具体的には、回復先を「昨年の9-11月の平均GDP」から「昨年の10-11月の平均GDPより（Reference levelからの乖離のスペースで計算すると）2割、もしくは3割高いレベル」に変更しました。この変更は、V-RESAS等のデータによると、今年1月の経済活動の落ち込みは先週までに我々が想定していたよりも小幅であった考えられることを考慮し、1月-3月の都道府県別GDPの計算方法を変更したことを反映しています。"%}
 
-<!-- 修正前の図表は[[ここをクリック]](./index_20210223.html) -->
+{% include note.html content="「我々のモデル分析を参考にする際に心に留めてほしい3つの事」を掲載しています。"%}
+[[ここをクリック]](https://covid19outputjapan.github.io/JP/disclaimer.html){:target="_blank" rel="noopener"}
 
-{% include note.html content="今回の更新では、3月15日-18日の感染者数上昇を受けて、今週の新規感染者数を3月16日の更新時と比べて増加させています。具体的には、今回の更新では3月15日-21日の一日平均新規感染者数が310人であることを仮定しています。"%}
+{% include note.html content="参考資料のページに分析結果を理解する際に役立つ様々な資料を掲載しています。"%}
+[[ここをクリック]](https://covid19outputjapan.github.io/JP/resources.html){:target="_blank" rel="noopener"}
 
-{% include note.html content="「3月21日に解除すべきか」を掲載しています。"%}
-[[ここをクリック]](./files/FujiiNakata_Slides_20210316.pdf){:target="_blank" rel="noopener"}
-
-{% include note.html content="今週の解除基準分析では、「解除後すぐに昨年秋レベルの経済活動」ではなく、「解除後4週間かけて昨年秋レベルの経済活動」に変更します。政府・自治体が緊急事態宣言解除後に段階的に経済活動を促進していくことにある程度コミットしていることを反映しています。"%}
-
-<!-- {% include note.html content="今週は、ここ2－3週間の1都3県での感染減少ペースの鈍化を反映して、「緊急事態宣言中の感染減少ペース」を（先週の分析と比べて）緩やかにしました。この変更により、解除後の見通しは1都3県で悪化しています。" %} -->
-
-<!-- {% include note.html content="この分析結果は、（1）今後2週間で新規感染者数を出来るだけ減少させることの重要性と、（2）もし予定通り3月22日に解除するならば、その後の経済促進は先週の分析が示唆していたよりも一層段階的にすべきであること、を示唆しています。" %} -->
-
-<!-- {% include note.html content="今回の更新では経済活動のナウキャストの仕方も調整しました。この調整と上記の高齢者ワクチン接種開始時期の遅れにより、先週と比べて予測累計死亡者数が増加しています。"%} -->
-
-<!-- {% include note.html content="参考資料に「『解除時期の模索』から『リスク管理』へ」を掲載しています。" %}
-[[ここをクリック]](./files/FujiiNakata_Note_20210223.pdf){:target="_blank" rel="noopener"} -->
-
-
-
-### 1. 東京での緊急事態宣言解除基準分析
-
-#### (A) 基本シナリオ
-
-{: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Thresholds1_jp.png)]({{ fig_loc }}Tokyo/Thresholds1_jp.png)|
-
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_ThresholdsTokyo_1.xls)からダウンロードしてください。
-
-出所: 著者達の計算による。<br>
-{% include footnote_20210316.html content="解除基準人数"%}
-
-- この図をどのように理解すべきなのかは、この資料[[感染症対策と経済活動の両立：コロナ危機終焉に向けて]](./files/Covid19OutputJapan_20210206.pdf){:target="_blank" rel="noopener"}と、この資料[[緊急事態宣言解除基準分析の解説・モデル分析活用の心得]](./files/Covid19OutputJapan_Note_20210206.pdf){:target="_blank" rel="noopener"}に詳細に記述してあります。
-
-<!-- #### (B)「年度末気の緩み」シナリオ
-
-{: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Thresholds3_jp.png)]({{ fig_loc }}Tokyo/Thresholds3_jp.png)|
-
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_ThresholdsTokyo_3.xls)からダウンロードしてください。
-
-出所: 著者達の計算による。<br>
-注: このシナリオでは3月22日から4月11日の3週間、実効再生産数が基本シナリオの1.25倍になることを仮定しています。 -->
-
-### 2. 東京での緊急事態宣言解除後の「経済促進ペース」分析
+### 1. 東京での今後の「経済促進ペース」分析
 
 #### (A) 基本シナリオ
 
@@ -70,11 +32,11 @@ summary:
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_GradualRecoveryTokyo_1.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-注: 数字Xは「宣言解除後X週間かけて経済活動を昨年秋のレベルに回復させる」という意味です。
+{% include footnote_20210323a.html %}
 
-- この図をどのように理解すべきなのかは、このページ[[ここをクリック]](./tokyo_20210209.html#1-東京での緊急事態宣言解除後の経済促進ペース分析){:target="_blank" rel="noopener"}の解説を参考にして下さい。
+<!-- - この図をどのように理解すべきなのかは、このページ[[ここをクリック]](./tokyo_20210209.html#1-東京での緊急事態宣言解除後の経済促進ペース分析){:target="_blank" rel="noopener"}の解説を参考にして下さい。 -->
 
-#### (B)「年度末気の緩み・自粛疲れ」シナリオ
+#### (B)「宣言解除後の開放感・自粛疲れ」シナリオ
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery3_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery3_jp.png)|
@@ -82,4 +44,4 @@ summary:
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_GradualRecoveryTokyo_3.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-注: このシナリオでは3月22日から4月11日の3週間、実効再生産数が年末年始レベル（基本シナリオの約1.2倍）になることを仮定しています。数字Xは「宣言解除後X週間かけて経済活動を昨年秋のレベルに回復させる」という意味です。
+{% include footnote_20210323b.html %}
