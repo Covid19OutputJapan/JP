@@ -63,7 +63,7 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery41_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery41_jp.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_GradualRecoveryTokyo_3.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_GradualRecoveryTokyo_41.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
@@ -73,7 +73,7 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery42_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery42_jp.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_GradualRecoveryTokyo_3.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_GradualRecoveryTokyo_42.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}

@@ -43,7 +43,7 @@ summary:
 {: align="center"}
 |[![Saitama_gradual_Y]({{ fig_loc }}GradualRecovery41_jp.png)]({{ fig_loc }}GradualRecovery41_jp.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}BackData_GradualRecoverySaitama_3.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}BackData_GradualRecoverySaitama_41.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
@@ -53,7 +53,7 @@ summary:
 {: align="center"}
 |[![Saitama_gradual_Y]({{ fig_loc }}GradualRecovery42_jp.png)]({{ fig_loc }}GradualRecovery42_jp.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}BackData_GradualRecoverySaitama_3.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}BackData_GradualRecoverySaitama_42.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
