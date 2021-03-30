@@ -6,14 +6,13 @@
     {% if page1.name != page.name %} <!-- if the page we are looking is NOT the page calling this procedure itself -->
         {% for tag1 in page1.tags %} <!-- for each tag in the page (maybe redundant as there is only one tag in each page) -->
 
-            <!-- make a new row and set counter = 0 -->
-            {% if cnt == -1 %}
-                <tr>
-                {% assign cnt = 0 %}
-            {% endif %}
-
-            <!-- make a new cell with a link to the page and increase the number of counter -->
             {% if tag1 == include.tag %}
+                <!-- make a new row and set counter = 0 -->
+                {% if cnt == -1 %}
+                    <tr>
+                    {% assign cnt = 0 %}
+                {% endif %}
+                <!-- make a new cell with a link to the page and increase the number of counter -->
                 <td><a href="{{page1.url | remove: "/" }}">{{page1.permalink}}</a></td>
                 {% assign cnt = cnt | plus:1 %}
             {% endif %}
@@ -29,6 +28,8 @@
 {% endfor %}
 
 <!-- if there are less than 5 cells in the row, add cells with blank, and then close the row -->
+<!-- {{page.tags}}
+{{cnt}} -->
 {% if cnt > 0 %}
     {% assign cnt = 5 | minus:cnt %}
     {% for i in (1..cnt) %}
@@ -37,7 +38,4 @@
     </tr>
 {% endif %}
 
-{% if cnt < 1 %}
-    </tr>
-{% endif %}
 </table>

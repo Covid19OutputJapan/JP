@@ -44,3 +44,5 @@ summary:
 - （3月16日）3月21日に解除すべきか[[ここをクリック]](./files/FujiiNakata_Slides_20210316.pdf){:target="_blank" rel="noopener"}
 
 - （3月16日）何故、毎週更新か？[[ここをクリック]](./files/FujiiNakata_Slides_20210316b.pdf){:target="_blank" rel="noopener"}
+
+- （3月30日）変異株シナリオ[[ここをクリック]](./files/FujiiNakata_Slides_20210330_variants.pdf){:target="_blank" rel="noopener"}
