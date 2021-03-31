@@ -19,8 +19,8 @@ summary:
 {% include note.html content="今週は、二つの変異株シナリオを追加しました。シナリオの詳細、分析から学べる事等はこの資料をご覧下さい。"%}
 [[ここをクリック]](./files/FujiiNakata_Slides_20210330_variants.pdf){:target="_blank" rel="noopener"}
 
- {% include note.html content="3月30日火曜日午後5時から、以下のZoom URLで今週の分析結果の解説と質疑応答を行います。ミーティングID: 857 0917 4188・パスコード: 434588"%}
- [[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/j/85709174188?pwd=cm5pTjJ0ZU9nelpWUkU3N2tyOGZLZz09){:target="_blank" rel="noopener"}
+ {% include note.html content="「Covid-19と経済活動」最新分析のZoom解説と質疑応答"%}
+ [[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/PSgMvoQQCNpGmODfyujp9rDeVI_zoYcAYouj_05pPi5wQgUP30CJQLgKAuQF7Ci8.rT8j01xqw4bE-5kA?startTime=1617091306000){:target="_blank" rel="noopener"}
 
 {% include note.html content="時間的制約により、今週から愛知・福岡の分析はストップします。リクエストがあれば再開を検討します。"%}
 
