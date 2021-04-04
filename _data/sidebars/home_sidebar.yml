@@ -100,6 +100,22 @@ entries:
       url: /saitama_latest.html
       type: homepage
 
+  - title: 参考資料
+    output: web, pdf
+    folderitems:
+    - title: 参考資料
+      url: /resources.html
+      output: web, pdf
+      type: homepage
+
+  - title: 免責事項
+    output: web, pdf
+    folderitems:
+    - title: 免責事項
+      url: /disclaimer.html
+      output: web, pdf
+      type: homepage
+
   - title: その他の情報
     output: web, pdf
     folderitems:
@@ -107,18 +123,18 @@ entries:
       url: /team.html
       output: web, pdf
       type: homepage
-    - title: 参考資料
-      url: /resources.html
-      output: web, pdf
-      type: homepage
+    # - title: 参考資料
+    #   url: /resources.html
+    #   output: web, pdf
+    #   type: homepage
     - title: 改定履歴
       url: /history.html
       output: web, pdf
       type: homepage
-    - title: 免責事項
-      url: /disclaimer.html
-      output: web, pdf
-      type: homepage
+    # - title: 免責事項
+    #   url: /disclaimer.html
+    #   output: web, pdf
+    #   type: homepage
     - title: メディア紹介
       url: /media.html
       output: web, pdf
