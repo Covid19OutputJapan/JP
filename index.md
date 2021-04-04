@@ -14,10 +14,11 @@ summary:
 
 {% include link_to_code.html %}
 
-<!-- {% include note.html content="今週からは、経済活動の回復先を「昨年の秋頃のレベル」ではなく「昨年の秋頃を少し上回るレベル」に変更しました。具体的には、回復先を「昨年の9-11月の平均GDP」から「昨年の10-11月の平均GDPより（Reference levelからの乖離のスペースで計算すると）2割、もしくは3割高いレベル」に変更しました。この変更は、V-RESAS等のデータによると、今年1月の経済活動の落ち込みは先週までに我々が想定していたよりも小幅であった考えられることを考慮し、1月-3月の都道府県別GDPの計算方法を変更したことを反映しています。"%} -->
-
-{% include note.html content="今週は、二つの変異株シナリオを追加しました。シナリオの詳細、分析から学べる事等はこの資料をご覧下さい。"%}
+{% include note.html content="「変異株シナリオ」、「変異株分析の政策含意」を参考資料に掲載しています。"%}
 [[ここをクリック]](./files/FujiiNakata_Slides_20210330_variants.pdf){:target="_blank" rel="noopener"}
+[[ここをクリック]](./files/FujiiNakata_Slides_20210404_variants.pdf){:target="_blank" rel="noopener"}
+
+<!-- {% include note.html content="今週からは、経済活動の回復先を「昨年の秋頃のレベル」ではなく「昨年の秋頃を少し上回るレベル」に変更しました。具体的には、回復先を「昨年の9-11月の平均GDP」から「昨年の10-11月の平均GDPより（Reference levelからの乖離のスペースで計算すると）2割、もしくは3割高いレベル」に変更しました。この変更は、V-RESAS等のデータによると、今年1月の経済活動の落ち込みは先週までに我々が想定していたよりも小幅であった考えられることを考慮し、1月-3月の都道府県別GDPの計算方法を変更したことを反映しています。"%} -->
 
  {% include note.html content="「Covid-19と経済活動」最新分析のZoom解説と質疑応答"%}
  [[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/PSgMvoQQCNpGmODfyujp9rDeVI_zoYcAYouj_05pPi5wQgUP30CJQLgKAuQF7Ci8.rT8j01xqw4bE-5kA?startTime=1617091306000){:target="_blank" rel="noopener"}
