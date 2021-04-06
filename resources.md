@@ -50,3 +50,5 @@ summary:
 - （3月30日）「Covid-19と経済活動」最新分析のZoom解説と質疑応答[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/PSgMvoQQCNpGmODfyujp9rDeVI_zoYcAYouj_05pPi5wQgUP30CJQLgKAuQF7Ci8.rT8j01xqw4bE-5kA?startTime=1617091306000){:target="_blank" rel="noopener"}
 
 - （4月4日）変異株シナリオ[[ここをクリック]](./files/FujiiNakata_Slides_20210404_variants.pdf){:target="_blank" rel="noopener"}
+
+- （4月6日）次の緊急事態宣言の指針[[ここをクリック]](./files/FujiiNakata_Slides_20210406.pdf){:target="_blank" rel="noopener"}

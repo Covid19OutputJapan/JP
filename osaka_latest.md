@@ -7,53 +7,49 @@ permalink: osaka_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210330/Figures/Osaka/" %}
+{% assign fig_loc = "./archives/20210406/Figures/Osaka/" %}
 
-## 最終アップデート：2021年3月30日
-** 3月28日までのデータに基づく分析です。画像はクリックすると拡大します。
+
+## 最終アップデート：2021年4月6日
+** 4月4日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
 {% include link_to_others.html text='大阪の他のページへのリンク' tag='osaka' %}
 
-### 1. 大阪での今後の「経済促進ペース」分析
+### 1. 大阪での「まん延防止措置解除基準」分析
 
 #### (i) 基本シナリオ
 
 {: align="center"}
-|[![Osaka_gradual_Y]({{ fig_loc }}GradualRecovery1_jp.png)]({{ fig_loc }}GradualRecovery1_jp.png)|
+|[![Osaka_gradual_Y]({{ fig_loc }}ThresholdsON1_jp.png)]({{ fig_loc }}ThresholdsON1_jp.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}BackData_GradualRecoveryOsaka_1.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}BackData_ThresholdsONOsaka_1.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_1.html %}
+この図の詳細については、4月6日午後5時からのZoomでの分析解説をご覧ください。
 
-#### (ii)「宣言解除後の開放感・自粛疲れ」シナリオ
+### 2. 大阪での「再度緊急事態宣言発令基準」分析
+
+#### (ii)「自粛疲れ・気の緩み」シナリオ
 
 {: align="center"}
-|[![Osaka_gradual_Y]({{ fig_loc }}GradualRecovery3_jp.png)]({{ fig_loc }}GradualRecovery3_jp.png)|
+|[![Osaka_gradual_Y]({{ fig_loc }}ThresholdsON41_jp.png)]({{ fig_loc }}ThresholdsON41_jp.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}BackData_GradualRecoveryOsaka_3.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}BackData_ThresholdsONOsaka_42.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-{% include footnote_20210330_2.html %}
+{% include footnote_20210330_34.html %}
+このシナリオでの今週の変異株割合初期値は1.98%です。この図の詳細については、4月6日午後5時からのZoomでの分析解説をご覧ください。
 
 #### (iii) 変異株シナリオ (A)
 
 {: align="center"}
-|[![Osaka_gradual_Y]({{ fig_loc }}GradualRecovery41_jp.png)]({{ fig_loc }}GradualRecovery41_jp.png)|
+|[![Osaka_gradual_Y]({{ fig_loc }}ThresholdsON42_jp.png)]({{ fig_loc }}ThresholdsON42_jp.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}BackData_GradualRecoveryOsaka_41.xls)からダウンロードしてください。
-
-出所: 著者達の計算による。<br>
-{% include footnote_20210330_34.html %}
-
-#### (iv) 変異株シナリオ (B)
-
-{: align="center"}
-|[![Osaka_gradual_Y]({{ fig_loc }}GradualRecovery42_jp.png)]({{ fig_loc }}GradualRecovery42_jp.png)|
-
-この図表のバックデータは[ここ]({{ fig_loc }}BackData_GradualRecoveryOsaka_42.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}BackData_ThresholdsONOsaka_42.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
+このシナリオでの今週の変異株割合初期値は3.96%です。この図の詳細については、4月6日午後5時からのZoomでの分析解説をご覧ください。

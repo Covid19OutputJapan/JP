@@ -28,7 +28,7 @@ summary:
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_1.html %}
 
-#### (ii)「宣言解除後の開放感・自粛疲れ」シナリオ
+#### (ii)「自粛疲れ・気の緩み」シナリオ
 
 {: align="center"}
 |[![Saitama_gradual_Y]({{ fig_loc }}GradualRecovery3_jp.png)]({{ fig_loc }}GradualRecovery3_jp.png)|
@@ -47,6 +47,7 @@ summary:
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
+このシナリオでの今週の変異株割合初期値は1.24%です。
 
 #### (iv) 変異株シナリオ (B)
 
@@ -57,3 +58,4 @@ summary:
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
+このシナリオでの今週の変異株割合初期値は2.48%です。

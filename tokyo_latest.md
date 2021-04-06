@@ -7,10 +7,10 @@ permalink: tokyo_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210330/Figures/" %}
+{% assign fig_loc = "./archives/20210406/Figures/" %}
 
-## 最終アップデート：2021年3月30日
-** 3月28日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年4月6日
+** 4月4日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -31,7 +31,7 @@ summary:
 
 <!-- - この図をどのように理解すべきなのかは、このページ[[ここをクリック]](./tokyo_20210209.html#1-東京での緊急事態宣言解除後の経済促進ペース分析){:target="_blank" rel="noopener"}の解説を参考にして下さい。 -->
 
-#### (ii)「宣言解除後の開放感・自粛疲れ」シナリオ
+#### (ii)「自粛疲れ・気の緩み」シナリオ
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery3_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery3_jp.png)|
@@ -50,6 +50,7 @@ summary:
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
+このシナリオでの今週の変異株割合初期値は0.43%です。
 
 #### (iv) 変異株シナリオ (B)
 
@@ -60,3 +61,4 @@ summary:
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
+このシナリオでの今週の変異株割合初期値は0.86%です。

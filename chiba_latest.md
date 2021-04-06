@@ -7,10 +7,10 @@ permalink: chiba_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210330/Figures/Chiba/" %}
+{% assign fig_loc = "./archives/20210406/Figures/Chiba/" %}
 
-## 最終アップデート：2021年3月30日
-** 3月28日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年4月6日
+** 4月6日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -28,7 +28,7 @@ summary:
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_1.html %}
 
-#### (ii)「宣言解除後の開放感・自粛疲れ」シナリオ
+#### (ii)「自粛疲れ・気の緩み」シナリオ
 
 {: align="center"}
 |[![Chiba_gradual_Y]({{ fig_loc }}GradualRecovery3_jp.png)]({{ fig_loc }}GradualRecovery3_jp.png)|
@@ -47,6 +47,7 @@ summary:
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
+このシナリオでの今週の変異株割合初期値は1.53%です。
 
 #### (iv) 変異株シナリオ (B)
 
@@ -57,3 +58,4 @@ summary:
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
+このシナリオでの今週の変異株割合初期値は3.06%です。
