@@ -32,7 +32,7 @@ summary:
 
 ### 2. 大阪での「再度緊急事態宣言発令基準」分析
 
-#### (ii)「自粛疲れ・気の緩み」シナリオ
+#### (ii) 変異株シナリオA
 
 {: align="center"}
 |[![Osaka_gradual_Y]({{ fig_loc }}ThresholdsON41_jp.png)]({{ fig_loc }}ThresholdsON41_jp.png)|
@@ -43,7 +43,7 @@ summary:
 {% include footnote_20210330_34.html %}
 このシナリオでの今週の変異株割合初期値は1.98%です。この図の詳細については、4月6日午後5時からのZoomでの分析解説をご覧ください。
 
-#### (iii) 変異株シナリオ (A)
+#### (iii) 変異株シナリオB
 
 {: align="center"}
 |[![Osaka_gradual_Y]({{ fig_loc }}ThresholdsON42_jp.png)]({{ fig_loc }}ThresholdsON42_jp.png)|
