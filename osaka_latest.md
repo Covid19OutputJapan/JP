@@ -37,7 +37,7 @@ summary:
 {: align="center"}
 |[![Osaka_gradual_Y]({{ fig_loc }}ThresholdsON41_jp.png)]({{ fig_loc }}ThresholdsON41_jp.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}BackData_ThresholdsONOsaka_42.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}BackData_ThresholdsONOsaka_41.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
