@@ -52,3 +52,5 @@ summary:
 - （4月4日）変異株分析の政策含意[[ここをクリック]](./files/FujiiNakata_Slides_20210404_variants.pdf){:target="_blank" rel="noopener"}
 
 - （4月6日）次の緊急事態宣言の指針[[ここをクリック]](./files/FujiiNakata_Slides_20210406.pdf){:target="_blank" rel="noopener"}
+
+- （4月8日）第40回東京都コロナ感染症モニタリング会議で使用した資料、「東京都での変異株シナリオ」[[ここをクリック]](./files/FujiiNakata_Slides_20210408.pdf){:target="_blank" rel="noopener"}
