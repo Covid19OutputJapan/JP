@@ -7,10 +7,10 @@ permalink: tokyo_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210406/Figures/" %}
+{% assign fig_loc = "./archives/20210413/Figures/" %}
 
-## 最終アップデート：2021年4月6日
-** 4月4日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年4月13日
+** 4月11日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -31,7 +31,7 @@ summary:
 
 <!-- - この図をどのように理解すべきなのかは、このページ[[ここをクリック]](./tokyo_20210209.html#1-東京での緊急事態宣言解除後の経済促進ペース分析){:target="_blank" rel="noopener"}の解説を参考にして下さい。 -->
 
-#### (ii)「自粛疲れ・気の緩み」シナリオ
+#### (ii) 気の引き締まりシナリオ
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery3_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery3_jp.png)|
@@ -39,9 +39,9 @@ summary:
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_GradualRecoveryTokyo_3.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-{% include footnote_20210330_2.html %}
+{% include footnote_20210413_tokyo2.html %}
 
-#### (iii) 変異株シナリオ (A)
+<!-- #### (iii) 変異株シナリオ (A)
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery41_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery41_jp.png)|
@@ -50,9 +50,9 @@ summary:
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
-このシナリオでの今週の変異株割合初期値は0.43%です。
+このシナリオでの今週の変異株割合初期値は0.43%です。 -->
 
-#### (iv) 変異株シナリオ (B)
+#### (iii) 変異株シナリオ
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery42_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery42_jp.png)|
@@ -61,4 +61,4 @@ summary:
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
-このシナリオでの今週の変異株割合初期値は0.86%です。
+このシナリオでの今週の変異株割合初期値は2.1%です。

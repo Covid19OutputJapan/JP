@@ -7,28 +7,30 @@ permalink: index.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210406/Figures/" %}
+{% assign fig_loc = "./archives/20210413/Figures/" %}
 
-## 最終アップデート：2021年4月6日
-** 4月4日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年4月13日
+** 4月11日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
 
-{% include note.html content="「Covid-19と経済活動」最新分析のZoom解説と質疑応答。4月6日(火曜日)午後5時から。ミーティングID: 857 0917 4188。パスコード: 434588。一般の方々も歓迎です。"%}
+
+
+{% include note.html content="「Covid-19と経済活動」最新分析のZoom解説と質疑応答。4月13日（火曜日）午後5時から。ミーティングID: 857 0917 4188。パスコード: 434588。一般の方々も歓迎です。"%}
 [[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/j/85709174188?pwd=cm5pTjJ0ZU9nelpWUkU3N2tyOGZLZz09){:target="_blank" rel="noopener"}
 
-{% include note.html content="「次の緊急事態宣言の指針」を掲載しました。"%}
-[[ここをクリック]](./files/FujiiNakata_Slides_20210406.pdf){:target="_blank" rel="noopener"}
+{% include note.html content="東京・大阪での「気の引き締まりシナリオ」では「蔓延防止措置法」の効果で実効再生産数が、今後6週間それぞれ基本シナリオの約0.9倍・0.8倍となることを仮定しています。"%}
 
 
 <!-- {% include note.html content="「我々のモデル分析を参考にする際に心に留めてほしい3つの事」を掲載しています。"%}
 [[ここをクリック]](https://covid19outputjapan.github.io/JP/disclaimer.html){:target="_blank" rel="noopener"} -->
 
-{% include note.html content="「変異株シナリオ」、「変異株分析の政策含意」を参考資料に掲載しています。他にも、参考資料のページに、感染症対策と経済活動の両立を模索する上でお役に立てるかもしれない様々な資料を掲載しています。"%}
+{% include note.html content="「変異株分析の政策含意」・「東京での変異株シナリオ」・「次の緊急事態宣言の指針」を参考資料に掲載しています。他にも、参考資料のページに、感染症対策と経済活動の両立を模索する上でお役に立てるかもしれない様々な資料を掲載しています。"%}
 
-[[ここをクリック]](./files/FujiiNakata_Slides_20210330_variants.pdf){:target="_blank" rel="noopener"}
 [[ここをクリック]](./files/FujiiNakata_Slides_20210404_variants.pdf){:target="_blank" rel="noopener"}
+[[ここをクリック]](./files/FujiiNakata_Slides_20210408.pdf){:target="_blank" rel="noopener"}
+[[ここをクリック]](./files/FujiiNakata_Slides_20210406.pdf){:target="_blank" rel="noopener"}
 [[ここをクリック]](https://covid19outputjapan.github.io/JP/resources.html){:target="_blank" rel="noopener"}
 
 
@@ -62,7 +64,7 @@ summary:
 
 <!-- - この図をどのように理解すべきなのかは、このページ[[ここをクリック]](./tokyo_20210209.html#1-東京での緊急事態宣言解除後の経済促進ペース分析){:target="_blank" rel="noopener"}の解説を参考にして下さい。 -->
 
-#### (ii)「自粛疲れ・気の緩み」シナリオ
+#### (ii) 気の引き締まりシナリオ
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery3_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery3_jp.png)|
@@ -70,9 +72,9 @@ summary:
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_GradualRecoveryTokyo_3.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-{% include footnote_20210330_2.html %}
+{% include footnote_20210413_tokyo2.html %}
 
-#### (iii) 変異株シナリオ (A)
+<!-- #### (iii) 変異株シナリオ (A)
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery41_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery41_jp.png)|
@@ -81,9 +83,9 @@ summary:
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
-このシナリオでの今週の変異株割合初期値は0.43%です。
+このシナリオでの今週の変異株割合初期値は0.43%です。 -->
 
-#### (iv) 変異株シナリオ (B)
+#### (iii) 変異株シナリオ
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery42_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery42_jp.png)|
@@ -92,4 +94,4 @@ summary:
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
-このシナリオでの今週の変異株割合初期値は0.86%です。
+このシナリオでの今週の変異株割合初期値は2.1%です。

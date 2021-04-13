@@ -7,10 +7,10 @@ permalink: chiba_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210406/Figures/Chiba/" %}
+{% assign fig_loc = "./archives/20210413/Figures/Chiba/" %}
 
-## 最終アップデート：2021年4月6日
-** 4月6日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年4月13日
+** 4月11日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -28,7 +28,7 @@ summary:
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_1.html %}
 
-#### (ii)「自粛疲れ・気の緩み」シナリオ
+<!-- #### (ii) 気の引き締まりシナリオ
 
 {: align="center"}
 |[![Chiba_gradual_Y]({{ fig_loc }}GradualRecovery3_jp.png)]({{ fig_loc }}GradualRecovery3_jp.png)|
@@ -36,9 +36,9 @@ summary:
 この図表のバックデータは[ここ]({{ fig_loc }}BackData_GradualRecoveryChiba_3.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-{% include footnote_20210330_2.html %}
+{% include footnote_20210330_2.html %} -->
 
-#### (iii) 変異株シナリオ (A)
+<!-- #### (iii) 変異株シナリオ (A)
 
 {: align="center"}
 |[![Chiba_gradual_Y]({{ fig_loc }}GradualRecovery41_jp.png)]({{ fig_loc }}GradualRecovery41_jp.png)|
@@ -47,9 +47,9 @@ summary:
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
-このシナリオでの今週の変異株割合初期値は1.53%です。
+このシナリオでの今週の変異株割合初期値は1.53%です。 -->
 
-#### (iv) 変異株シナリオ (B)
+#### (ii) 変異株シナリオ
 
 {: align="center"}
 |[![Chiba_gradual_Y]({{ fig_loc }}GradualRecovery42_jp.png)]({{ fig_loc }}GradualRecovery42_jp.png)|
@@ -58,4 +58,4 @@ summary:
 
 出所: 著者達の計算による。<br>
 {% include footnote_20210330_34.html %}
-このシナリオでの今週の変異株割合初期値は3.06%です。
+このシナリオでの今週の変異株割合初期値は8.8%です。
