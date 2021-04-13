@@ -54,3 +54,11 @@ summary:
 - （4月6日）次の緊急事態宣言の指針[[ここをクリック]](./files/FujiiNakata_Slides_20210406.pdf){:target="_blank" rel="noopener"}
 
 - （4月8日）第40回東京都コロナ感染症モニタリング会議で使用した資料、「東京都での変異株シナリオ」[[ここをクリック]](./files/FujiiNakata_Slides_20210408.pdf){:target="_blank" rel="noopener"}
+	- リプリケーションファイルは[[ここをクリック]](./files/Replication.zip){:target="_blank" rel="noopener"}
+
+- （4月13日）財務省ランチタイム勉強会で使用した資料
+	- 感染症対策と経済活動の両立：疫学マクロモデルによる分析[[ここをクリック]](./files/Nakata_MOF_Slides_20210413a.pdf){:target="_blank" rel="noopener"}
+	- 経済学を政策に活かすために[[ここをクリック]](./files/Nakata_MOF_Slides_20210413b.pdf){:target="_blank" rel="noopener"}
+
+- （4月13日）「Covid-19と経済活動」最新分析のZoom解説と質疑応答[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/X1nKq9vBFRCghWKSy9mmwglzJlv1uSBZHhOuHRty6hq_tDatnmD1g7ps7zG1yYiH.Gid9nkZ4y0DGlbya){:target="_blank" rel="noopener"}
+

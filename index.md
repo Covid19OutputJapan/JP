@@ -16,6 +16,7 @@ summary:
 
 
 
+{% include note.html content="4月13日夕方に変異株シナリオの現在の変異株割合に間違いが見つかり、その間違いを訂正したものを4月13日午後10時10分に掲載しました。大変申し訳ございません。"%}
 
 {% include note.html content="「Covid-19と経済活動」最新分析のZoom解説と質疑応答。4月13日（火曜日）午後5時から。ミーティングID: 857 0917 4188。パスコード: 434588。一般の方々も歓迎です。"%}
 [[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/j/85709174188?pwd=cm5pTjJ0ZU9nelpWUkU3N2tyOGZLZz09){:target="_blank" rel="noopener"}
