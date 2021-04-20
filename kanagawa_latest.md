@@ -7,18 +7,18 @@ permalink: kanagawa_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210413/Figures/Kanagawa/" %}
+{% assign fig_loc = "./archives/20210420/Figures/Kanagawa/" %}
 
-## 最終アップデート：2021年4月13日
-** 4月11日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年4月20日
+** 4月18日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
 {% include link_to_others.html text='神奈川の他のページへのリンク' tag='kanagawa' %}
 
-### 1. 神奈川での今後の「経済促進ペース」分析
+### 1. 神奈川での「変異株感染力」分析
 
-#### (i) 基本シナリオ
+<!-- #### (i) 基本シナリオ
 
 {: align="center"}
 |[![Kanagawa_gradual_Y]({{ fig_loc }}GradualRecovery1_jp.png)]({{ fig_loc }}GradualRecovery1_jp.png)|
@@ -26,7 +26,7 @@ summary:
 この図表のバックデータは[ここ]({{ fig_loc }}BackData_GradualRecoveryKanagawa_1.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-{% include footnote_20210330_1.html %}
+{% include footnote_20210330_1.html %} -->
 
 <!-- #### (ii) 気の引き締まりシナリオ
 
@@ -49,13 +49,13 @@ summary:
 {% include footnote_20210330_34.html %}
 このシナリオでの今週の変異株割合初期値は1.72%です。 -->
 
-#### (ii) 変異株シナリオ
+<!-- #### (i) 変異株シナリオ -->
 
 {: align="center"}
-|[![Kanagawa_gradual_Y]({{ fig_loc }}GradualRecovery42_jp.png)]({{ fig_loc }}GradualRecovery42_jp.png)|
+|[![Kanagawa_gradual_Y]({{ fig_loc }}VarInfection42_jp.png)]({{ fig_loc }}VarInfection42_jp.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}BackData_GradualRecoveryKanagawa_42.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}BackData_VarInfectionKanagwa_42.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-{% include footnote_20210330_34.html %}
-このシナリオでの今週の変異株割合初期値は7.8%です。
+{% include footnote_20210420.html content="22%"%}
+<!-- 22.34% -->
