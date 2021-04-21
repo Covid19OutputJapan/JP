@@ -18,26 +18,32 @@ summary:
 
 ### リサーチアシスタント
 
+- Batista, Quentin
+
+- Deng, Xiaohan
+
+- Li, Hongtao
+
+- 饗庭匠
+
 - 浅井寛之
 
 - 笠井美穂
 
+- 川脇颯太
+
+- 日下翔貴
+
 - 久保田紘行
+
+- 佐武恵梨
 
 - 渋谷春樹
 
 - 高倉一真
-
-- 崔視雅
 
 - 別府正太郎
 
 - 前田湧太
 
 - 森公毅
-
-- Batista, Quentin
-
-- Hongtao Li
-
-- Xiaohan Deng
