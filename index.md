@@ -24,7 +24,7 @@ summary:
 <!-- {% include note.html content="「我々のモデル分析を参考にする際に心に留めてほしい3つの事」を掲載しています。"%}
 [[ここをクリック]](https://covid19outputjapan.github.io/JP/disclaimer.html){:target="_blank" rel="noopener"} -->
 
-{% include note.html content="「次の緊急事態宣言の指針」を参考資料に掲載しています。他にも、参考資料のページに、感染症対策と経済活動の両立を模索する上でお役に立てるかもしれない様々な資料を掲載しています。"%}
+{% include note.html content="「次の緊急事態宣言の指針」を参考資料に掲載しています。他にも、参考資料のページに感染症対策と経済活動の両立を模索する上でお役に立てるかもしれない様々な資料を掲載しています。"%}
 
 [[ここをクリック]](./files/FujiiNakata_Slides_20210406.pdf){:target="_blank" rel="noopener"}
 [[ここをクリック]](https://covid19outputjapan.github.io/JP/resources.html){:target="_blank" rel="noopener"}
