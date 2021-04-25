@@ -63,3 +63,9 @@ summary:
 - （4月13日）「Covid-19と経済活動」最新分析のZoom解説と質疑応答[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/X1nKq9vBFRCghWKSy9mmwglzJlv1uSBZHhOuHRty6hq_tDatnmD1g7ps7zG1yYiH.Gid9nkZ4y0DGlbya){:target="_blank" rel="noopener"}
 
 - （4月20日）「Covid-19と経済活動」最新分析のZoom解説と質疑応答[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/yamnPfsovC4sf5spZ5WnF9B0XaQwbsb6hUVGIAP95MuWrtt5CVvliog-KXOvPh5Y.BdAIQX7ZMlovSW0c){:target="_blank" rel="noopener"}
+
+- (4月25日）4月25日からの緊急事態宣言： 「強い規制を短期間」が何故良いか[[ここをクリック]](./files/FujiiNakata_LiftingCriteria_Slides_20210424.pdf){:target="_blank" rel="noopener"}
+
+- (4月25日）第三回緊急事態宣言の解除基準分析[[ここをクリック]](./files/FujiiNakata_StrictAndShort_Slides_20210424.pdf){:target="_blank" rel="noopener"}
+
+- (4月25日）5月11日に緊急事態宣言を解除した場合[[ここをクリック]](./files/FujiiNakata_GradualRecovery_Slides_20210424.pdf){:target="_blank" rel="noopener"}
