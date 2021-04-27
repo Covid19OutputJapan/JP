@@ -7,16 +7,15 @@ permalink: index.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210420/Figures/" %}
+{% assign fig_loc = "./archives/20210427/Figures/" %}
 
-## 最終アップデート：2021年4月20日
-** 4月18日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年4月27日
+** 4月25日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
 
-
-{% include note.html content="「Covid-19と経済活動」最新分析のZoom解説と質疑応答。4月20日（火曜日）午後5時から。ミーティングID: 857 0917 4188。パスコード: 434588。一般の方々も歓迎です。"%}
+{% include note.html content="「Covid-19と経済活動」最新分析のZoom解説と質疑応答。4月27日（火）午後3時・午後5時30分・午後8時から。ミーティングID: 857 0917 4188 。パスコード: 434588。一般の方々も歓迎です。"%}
 [[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/j/85709174188?pwd=cm5pTjJ0ZU9nelpWUkU3N2tyOGZLZz09){:target="_blank" rel="noopener"}
 
 <!-- {% include note.html content="東京・大阪での「気の引き締まりシナリオ」では「蔓延防止措置法」の効果で実効再生産数が、今後6週間それぞれ基本シナリオの約0.9倍・0.8倍となることを仮定しています。"%} -->
@@ -24,9 +23,16 @@ summary:
 <!-- {% include note.html content="「我々のモデル分析を参考にする際に心に留めてほしい3つの事」を掲載しています。"%}
 [[ここをクリック]](https://covid19outputjapan.github.io/JP/disclaimer.html){:target="_blank" rel="noopener"} -->
 
-{% include note.html content="「次の緊急事態宣言の指針」を参考資料に掲載しています。他にも、参考資料のページに感染症対策と経済活動の両立を模索する上でお役に立てるかもしれない様々な資料を掲載しています。"%}
+{% include note.html content="変異株の感染力を含め、今後の見通しを左右する様々な要素には大きな不確実性が存在します。注に書いてあるモデルの仮定をきちんと理解して、分析結果を参考にしてください。また、モデルの性質上、半年以上先の展開に必要以上に注目することは生産的ではありません。"%}
 
-[[ここをクリック]](./files/FujiiNakata_Slides_20210406.pdf){:target="_blank" rel="noopener"}
+{% include note.html content="東京・大阪の分析においては、「2週間後に感染者数がある程度減少している」と予測しているわけではないことに留意してください。2週間後に新規感染者数が今より増加している可能性もあります。しかしながら、このようなシナリオを調べることにより、「もし仮に2週間後に感染者数がある程度減少していたとしても、解除後の感染増加は急速になる」ことが読み取れます。"%}
+
+{% include note.html content="「4月25日からの緊急事態宣言：“強い規制を短期間”が何故良いか」、「第三回緊急事態宣言の解除基準分析」、「5月11日に緊急事態宣言を解除した場合」を参考資料に掲載しています。他にも、参考資料のページに感染症対策と経済活動の両立を模索する上でお役に立てるかもしれない様々な資料を掲載しています。
+"%}
+
+[[ここをクリック]](./files/FujiiNakata_StrictAndShort_Slides_20210426.pdf){:target="_blank" rel="noopener"}
+[[ここをクリック]](./files/FujiiNakata_LiftingCriteria_Slides_20210426.pdf){:target="_blank" rel="noopener"}
+[[ここをクリック]](./files/FujiiNakata_GradualRecovery_Slides_20210426.pdf){:target="_blank" rel="noopener"}
 [[ここをクリック]](https://covid19outputjapan.github.io/JP/resources.html){:target="_blank" rel="noopener"}
 
 
@@ -46,7 +52,7 @@ summary:
 
 
 
-### 1. 東京での「変異株感染力」分析
+
 
 <!-- #### (i) 基本シナリオ
 
@@ -83,11 +89,24 @@ summary:
 
 <!-- #### (i) 変異株シナリオ -->
 
-{: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/VarInfection42_jp.png)]({{ fig_loc }}Tokyo/VarInfection42_jp.png)|
+### 1. 東京での「緊急事態宣言解除基準」分析
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_VarInfectionTokyo_42.xls)からダウンロードしてください。
+#### （A）基本シナリオ（変異株感染力が通常株の1.5倍）
+
+{: align="center"}
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Thresholds42_ivi_0.5_jp.png)]({{ fig_loc }}Tokyo/Thresholds42_ivi_0.5_jp.png)|
+
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_ThresholdsTokyo_42_ivi_0.5.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-{% include footnote_20210420.html content="22%"%}
-<!-- 21.95% -->
+
+注: 左のパネルは新規感染者数の推移。黒の縦実線が現在時点。数字Xは緊急事態宣言の解除基準人数です。右のパネルは、それぞれのXによってどのように1年後の累計死亡者数（これまでの死亡者数を含む）と経済損失が影響を受けるかを示しています。緊急事態宣言中の経済活動が昨年の5月レベルであることを仮定しています。また、緊急事態宣言解除後に6週間かけて経済活動を昨年の秋レベルに回復させることを仮定しています。モデルの詳細についてはFujii and Nakata（2021）を参照して下さい。
+
+#### （B）Alternativeシナリオ（変異株感染力が通常株の1.3倍）
+
+{: align="center"}
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Thresholds42_ivi_0.3_jp.png)]({{ fig_loc }}Tokyo/Thresholds42_ivi_0.3_jp.png)|
+
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_ThresholdsTokyo_42_ivi_0.3.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。<br>

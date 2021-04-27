@@ -7,10 +7,10 @@ permalink: saitama_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210420/Figures/Saitama/" %}
+{% assign fig_loc = "./archives/20210427/Figures/Saitama/" %}
 
-## 最終アップデート：2021年4月20日
-** 4月18日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年4月27日
+** 4月25日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -52,10 +52,9 @@ summary:
 <!-- #### (i) 変異株シナリオ -->
 
 {: align="center"}
-|[![Saitama_gradual_Y]({{ fig_loc }}VarInfection42_jp.png)]({{ fig_loc }}VarInfection42_jp.png)|
+|[![Saitama_gradual_Y]({{ fig_loc }}VarInfection42_ivi_0.0_jp.png)]({{ fig_loc }}VarInfection42_ivi_0.0_jp.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}BackData_VarInfectionSaitama_42.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}BackData_VarInfectionSaitama_42_ivi_0.0.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-{% include footnote_20210420.html content="6%"%}
-<!-- 6.63% -->
+{% include footnote_20210427.html %}

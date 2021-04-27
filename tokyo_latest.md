@@ -7,17 +7,17 @@ permalink: tokyo_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210420/Figures/" %}
+{% assign fig_loc = "./archives/20210427/Figures/" %}
 
-## 最終アップデート：2021年4月20日
-** 4月18日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年4月27日
+** 4月25日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
 {% include link_to_others.html text='東京の他のページへのリンク' tag='tokyo' %}
 
 
-### 1. 東京での「変異株感染力」分析
+
 
 <!-- #### (i) 基本シナリオ
 
@@ -53,12 +53,24 @@ summary:
 このシナリオでの今週の変異株割合初期値は0.43%です。 -->
 
 <!-- #### (i) 変異株シナリオ -->
+### 1. 東京での「緊急事態宣言解除基準」分析
+
+#### （A）基本シナリオ（変異株感染力が通常株の1.5倍）
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/VarInfection42_jp.png)]({{ fig_loc }}Tokyo/VarInfection42_jp.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Thresholds42_ivi_0.5_jp.png)]({{ fig_loc }}Tokyo/Thresholds42_ivi_0.5_jp.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_VarInfectionTokyo_42.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_ThresholdsTokyo_42_ivi_0.5.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-{% include footnote_20210420.html content="22%"%}
-<!-- 21.95% -->
+
+注: 左のパネルは新規感染者数の推移。黒の縦実線が現在時点。数字Xは緊急事態宣言の解除基準人数です。右のパネルは、それぞれのXによってどのように1年後の累計死亡者数（これまでの死亡者数を含む）と経済損失が影響を受けるかを示しています。緊急事態宣言中の経済活動が昨年の5月レベルであることを仮定しています。また、緊急事態宣言解除後に6週間かけて経済活動を昨年の秋レベルに回復させることを仮定しています。モデルの詳細についてはFujii and Nakata（2021）を参照して下さい。
+
+#### （B）Alternativeシナリオ（変異株感染力が通常株の1.3倍）
+
+{: align="center"}
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Thresholds42_ivi_0.3_jp.png)]({{ fig_loc }}Tokyo/Thresholds42_ivi_0.3_jp.png)|
+
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_ThresholdsTokyo_42_ivi_0.3.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。<br>

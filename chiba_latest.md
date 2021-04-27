@@ -7,10 +7,10 @@ permalink: chiba_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210420/Figures/Chiba/" %}
+{% assign fig_loc = "./archives/20210427/Figures/Chiba/" %}
 
-## 最終アップデート：2021年4月20日
-** 4月18日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年4月27日
+** 4月25日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -52,10 +52,9 @@ summary:
 <!-- #### (i) 変異株シナリオ -->
 
 {: align="center"}
-|[![Chiba_gradual_Y]({{ fig_loc }}VarInfection42_jp.png)]({{ fig_loc }}VarInfection42_jp.png)|
+|[![Chiba_gradual_Y]({{ fig_loc }}VarInfection42_ivi_0.0_jp.png)]({{ fig_loc }}VarInfection42_ivi_0.0_jp.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}BackData_VarInfectionChiba_42.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}BackData_VarInfectionChiba_42_ivi_0.0.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
-{% include footnote_20210420.html content="26%"%}
-<!-- 26.24% -->
+{% include footnote_20210427.html %}

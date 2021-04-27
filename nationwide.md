@@ -7,10 +7,10 @@ permalink: nationwide.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210420/Figures/" %}
+{% assign fig_loc = "./archives/20210427/Figures/" %}
 
-## 最終アップデート：2021年4月20日
-** 4月18日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年4月27日
+** 4月25日までのデータに基づく分析です。画像はクリックすると拡大します。
 {% include link_to_code.html %}
 
 ### 1. Covid-19とGDPの予測される関係
@@ -29,8 +29,8 @@ summary:
 {: align="center"}
 |    | 1週前の<br>「条件付き」予測値 | <br>実現値 | 「条件付き」<br>予測誤差 |
 | ---- | ---- | ---- | ---- |
-| **新規陽性者数** | 19,617   |  27,791  | <span style="color: red; ">-8,174</span> |
-| **新規死亡者数** |   397  | 240  | <span style="color: black; ">157</span> |
+| **新規陽性者数** | 27,749   |  33,305  | <span style="color: red; ">-5,556</span> |
+| **新規死亡者数** |   509  | 328  | <span style="color: black; ">181</span> |
 
 
 出所: 著者達の計算による。<br>
