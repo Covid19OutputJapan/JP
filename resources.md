@@ -69,3 +69,5 @@ summary:
 - （4月26日）第三回緊急事態宣言の解除基準分析[[ここをクリック]](./files/FujiiNakata_LiftingCriteria_Slides_20210426.pdf){:target="_blank" rel="noopener"}
 
 - （4月26日）5月11日に緊急事態宣言を解除した場合[[ここをクリック]](./files/FujiiNakata_GradualRecovery_Slides_20210426.pdf){:target="_blank" rel="noopener"}
+
+- （4月30日）5月11日に緊急事態宣言を解除した場合：ワクチン接種見通しの役割[[ここをクリック]](./files/FujiiNakata_AlternativeVaccines_Slides_20210430){:target="_blank" rel="noopener"}
