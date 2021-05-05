@@ -14,6 +14,8 @@ summary:
 
 {% include link_to_code.html %}
 
+{% include note.html content="「コロナ感染症対策のフォワードガイダンス」を参考資料に掲載しています。"%}
+[[ここをクリック]](https://covid19outputjapan.github.io/JP/files/FujiiNakata_ForwardGuidance_Slides_20210505.pdf){:target="_blank" rel="noopener"}
 
 {% include note.html content="「Covid-19と経済活動」最新分析のZoom解説と質疑応答。5月4日（火）午後4時から。ミーティングID: 857 0917 4188 。パスコード: 434588。一般の方々も歓迎です。"%}
 [[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/j/85709174188?pwd=cm5pTjJ0ZU9nelpWUkU3N2tyOGZLZz09){:target="_blank" rel="noopener"}
