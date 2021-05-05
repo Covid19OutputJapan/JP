@@ -71,3 +71,4 @@ summary:
 - （4月26日）5月11日に緊急事態宣言を解除した場合[[ここをクリック]](./files/FujiiNakata_GradualRecovery_Slides_20210426.pdf){:target="_blank" rel="noopener"}
 
 - （4月30日）5月11日に緊急事態宣言を解除した場合：ワクチン接種見通しの役割[[ここをクリック]](./files/FujiiNakata_AlternativeVaccines_Slides_20210430.pdf){:target="_blank" rel="noopener"}
+- （5月5日）コロナ感染症対策のフォワードガイダンス[[ここをクリック]](./files/FujiiNakata_ForwardGuidance_Slides_20210505.pdf){:target="_blank" rel="noopener"}
