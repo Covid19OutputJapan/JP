@@ -20,8 +20,6 @@ summary:
 
 - Batista, Quentin
 
-- Deng, Xiaohan
-
 - Li, Hongtao
 
 - 饗庭匠
