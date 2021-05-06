@@ -77,3 +77,5 @@ summary:
 - （5月4日）「Covid-19と経済活動」最新分析のZoom解説と質疑応答[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/6VBdFiQOicEw63WczadVca3xb23rIvi0hDsiRhv3HJyehfaoglYWho-66Zg14CiF.xkuxA2eV2ZOUcgyD){:target="_blank" rel="noopener"}
 
 - （5月5日）コロナ感染症対策のフォワードガイダンス[[ここをクリック]](./files/FujiiNakata_ForwardGuidance_Slides_20210505.pdf){:target="_blank" rel="noopener"}
+
+- （5月6日）宣言延長の際のフォワードガイダンス[[ここをクリック]](./files/FujiiNakata_ForwardGuidance_Slides_20210506.pdf){:target="_blank" rel="noopener"}
