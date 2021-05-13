@@ -54,3 +54,4 @@ summary:
 - （5月5日）コロナ感染症対策のフォワードガイダンス[[ここをクリック]](./files/FujiiNakata_ForwardGuidance_Slides_20210505.pdf){:target="_blank" rel="noopener"}
 - （5月6日）宣言延長の際のフォワードガイダンス[[ここをクリック]](./files/FujiiNakata_ForwardGuidance_Slides_20210506.pdf){:target="_blank" rel="noopener"}
 - （5月8日）5月31日に緊急事態宣言を解除した場合：ワクチン接種見通しの役割[[ここをクリック]](./files/FujiiNakata_Slides_20210508.pdf){:target="_blank" rel="noopener"}
+- （5月11日）「Covid-19と経済活動」最新分析のZoom解説と質疑応答[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/9d0GUwnZrvl6whVg6WyRIHnhwZOmdu7_vlS8OiqRndZWxhK6UvPEZ3SkYTni2Jjj.9ymBhpxaFtM0NFyf){:target="_blank" rel="noopener"}
