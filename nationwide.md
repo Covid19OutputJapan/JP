@@ -7,10 +7,10 @@ permalink: nationwide.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210511/Figures/" %}
+{% assign fig_loc = "./archives/20210518/Figures/" %}
 
-## 最終アップデート：2021年5月11日
-** 5月9日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年5月18日
+** 5月16日までのデータに基づく分析です。画像はクリックすると拡大します。
 {% include link_to_code.html %}
 
 ### 1. Covid-19とGDPの予測される関係
@@ -29,8 +29,8 @@ summary:
 {: align="center"}
 |    | 1週前の<br>「条件付き」予測値 | <br>実現値 | 「条件付き」<br>予測誤差 |
 | ---- | ---- | ---- | ---- |
-| **新規陽性者数** | 35,140 |  36,798  | <span style="color: red; ">-1,658</span> |
-| **新規死亡者数** |  643  | 522 | <span style="color: black; ">121</span> |
+| **新規陽性者数** | 38,417 |  43,000  | <span style="color: red; ">-4,590</span> |
+| **新規死亡者数** |  664  | 613 | <span style="color: black; ">51</span> |
 
 出所: 著者達の計算による。<br>
 注1: (A)先週の時点でのモデルによる「1週先までの死亡者または陽性者の条件付き予測値」と(B)データの実現値の比較。詳細はFujii and Nakata (2021)を参照。<br>
