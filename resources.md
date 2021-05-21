@@ -57,6 +57,7 @@ summary:
 - （5月11日）「Covid-19と経済活動」最新分析のZoom解説と質疑応答[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/9d0GUwnZrvl6whVg6WyRIHnhwZOmdu7_vlS8OiqRndZWxhK6UvPEZ3SkYTni2Jjj.9ymBhpxaFtM0NFyf){:target="_blank" rel="noopener"}
 - （5月15日）5月31日に宣言解除した場合： ワクチン接種希望者割合の役割[[ここをクリック]](./files/FujiiNakata_Slides_20210515.pdf){:target="_blank" rel="noopener"}
 - （5月21日）五輪開催の感染への影響：定量分析[[ここをクリック]](./files/FujiiNakata_Olympics_Slides_20210521.pdf){:target="_blank" rel="noopener"}
-      バックデータは[[ここをクリック]](./files/BackData_Olympics_Tokyo.xls){:target="_blank" rel="noopener"}コードは[[ここをクリック]](./files/Olympics_replication.zip){:target="_blank" rel="noopener"}
+-  バックデータは[[ここをクリック]](./files/BackData_Olympics_Tokyo.xls){:target="_blank" rel="noopener"}
+-  コードは[[ここをクリック]](./files/Olympics_replication.zip){:target="_blank" rel="noopener"}
 - （5月21日）重症患者数の見通し[[ここをクリック]](./files/FujiiNakata_ICU_Slides_20210521.pdf){:target="_blank" rel="noopener"}
 - （5月21日）インド型変異株リスク[[ここをクリック]](./files/FujiiNakata_Variant_Slides_20210521.pdf){:target="_blank" rel="noopener"}
