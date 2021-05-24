@@ -61,3 +61,6 @@ summary:
 	-  コードは[[ここをクリック]](./files/Olympics_replication.zip){:target="_blank" rel="noopener"}
 - （5月21日）重症患者数の見通し[[ここをクリック]](./files/FujiiNakata_ICU_Slides_20210521.pdf){:target="_blank" rel="noopener"}
 - （5月21日）インド型変異株リスク[[ここをクリック]](./files/FujiiNakata_Variant_Slides_20210521.pdf){:target="_blank" rel="noopener"}
+- (5月24日）**[修正版]** 五輪開催の感染への影響：定量分析[[ここをクリック\]](./files/FujiiNakata_Olympics_Slides_20210524.pdf)
+    - バックデータは[[ここをクリック\]](./files/BackData_Olympic_Tokyo.xls)
+
