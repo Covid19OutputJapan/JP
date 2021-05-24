@@ -63,4 +63,3 @@ summary:
 - （5月21日）インド型変異株リスク[[ここをクリック]](./files/FujiiNakata_Variant_Slides_20210521.pdf){:target="_blank" rel="noopener"}
 - (5月24日）**[修正版]** 五輪開催の感染への影響：定量分析[[ここをクリック]](./files/FujiiNakata_Olympics_Slides_20210524.pdf){:target="_blank" rel="noopener"}
     - バックデータは[[ここをクリック]](./files/BackData_Olympic_Tokyo.xls){:target="_blank" rel="noopener"}
-
