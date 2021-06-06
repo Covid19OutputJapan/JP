@@ -105,6 +105,9 @@ https://u-tokyo-ac-jp.zoom.us/rec/share/OI75Geb3F5g1T6N9yCCPdKCaNw052iMUKd-EwStX
 
  - （5月27日）「5月24日のNHK報道の背景」[[ここをクリック]](./files/FujiiNakata_NHK_20210527.pdf){:target="_blank" rel="noopener"}
 
+ - （6月6日）「ワクチン見通しの可視化」[[ここをクリック]](./files/FujiiNakata_Vaccine_Slides_20210606.pdf){:target="_blank" rel="noopener"}
+
       
 
       
+
