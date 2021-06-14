@@ -108,10 +108,10 @@ https://u-tokyo-ac-jp.zoom.us/rec/share/OI75Geb3F5g1T6N9yCCPdKCaNw052iMUKd-EwStX
  - （6月6日）「ワクチン見通しの可視化」[[ここをクリック]](./files/FujiiNakata_Vaccine_Slides_20210606.pdf){:target="_blank" rel="noopener"}
 
  - （6月14日）：五輪観客数試算[[ここをクリック]](./files/FujiiNakata_Olympics_Slides_20210614_Spreadsheet.pdf){:target="_blank" rel="noopener"}
-   ー東京五輪2020観客数試算スプレッドシート[[ここをクリック]](./files/TokyoOlympicsSpreadsheet.xlsx){:target="_blank" rel="noopener"}
+   	-  東京五輪2020観客数試算スプレッドシート[[ここをクリック]](./files/TokyoOlympicsSpreadsheet.xlsx){:target="_blank" rel="noopener"}
    
  - （6月14日）：6月20日宣言解除後の感染の推移[[ここをクリック]](./files/FujiiNakata_CounterfactualExperiments_Slides_20210614.pdf){:target="_blank" rel="noopener"}
-ー バックデータ[[ここをクリック]](./files/Tokyo_5250000_3.xls){:target="_blank" rel="noopener"}
-   
+   	-   バックデータ[[ここをクリック]](./files/Tokyo_5250000_3.xls){:target="_blank" rel="noopener"}
+
    
 
