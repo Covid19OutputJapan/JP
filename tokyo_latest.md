@@ -77,13 +77,3 @@ summary:
 
 注：6月20日に宣言解除と仮定。希望ワクチン接種ペース見通しは週700万本。細い赤線・青線は、それぞれ基本・希望ワクチン見通しでの再度緊急事態宣言発令基準人数。
 
-<!--（B）インド型変異株蔓延シナリオ
-
-{: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Vaccine_India_varstart_2_JP.png)]({{ fig_loc }}Tokyo/Vaccine_India_varstart_2_JP.png)|
-
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Vaccine_India_Tokyo.xls)からダウンロードしてください。
-
-出所: 著者達の計算による。<br>
-
-注：6月中旬に宣言解除と仮定。インド型変異株割合が（１）8月中旬に5割に達し、（２）9月中旬には9割に達する、と仮定しています。-->
