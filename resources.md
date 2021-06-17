@@ -79,5 +79,6 @@ https://u-tokyo-ac-jp.zoom.us/rec/share/OI75Geb3F5g1T6N9yCCPdKCaNw052iMUKd-EwStX
 - （6月17日）五輪による国内感染への影響：間接的影響 [[ここをクリック]](./files/FujiiNakata_Olympics_Slides_20210616b_IndirectEffects.pdf){:target="_blank" rel="noopener"}
 - （6月17日）補足資料１：コロナ禍の大規模イベント [[ここをクリック]](./files/FujiiNakata_Olympics_Slides_20210616a_SportsMusic.pdf){:target="_blank" rel="noopener"}
     - コロナ禍の大規模イベントデータセット [[ここをクリック]](./files/大規模イベントデータセット.xlsx){:target="_blank" rel="noopener"}
--  補足資料２：オリンピック開催に伴う人流増加がもたらす感染拡大効果（千葉安佐子） [[ここをクリック]](./files/Olympics_Chiba.pdf){:target="_blank" rel="noopener"}
--  補足資料３：直接的影響分析の詳細 [[ここをクリック]](./files/FujiiNakata_Olympics_Slides_20210616b_ModelDetails.pdf){:target="_blank" rel="noopener"}
+-  （6月17日）補足資料２：オリンピック開催に伴う人流増加がもたらす感染拡大効果（千葉安佐子） [[ここをクリック]](./files/Olympics_Chiba.pdf){:target="_blank" rel="noopener"}
+-  （6月17日）補足資料３：直接的影響分析の詳細 [[ここをクリック]](./files/FujiiNakata_Olympics_Slides_20210616b_ModelDetails.pdf){:target="_blank" rel="noopener"}
+-  （6月17日）五輪による国内感染への影響：Zoom説明会・質疑応答 [[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/wLhQewKTLoVY5T00yi96h0FP5khCNXH4m99egtZJ5P5YtkXtNCANk-LbxmOQY8yW.4vsb-dwlCZ497iPH?startTime=1623912478000){:target="_blank" rel="noopener"}
