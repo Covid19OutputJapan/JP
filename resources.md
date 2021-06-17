@@ -72,7 +72,15 @@ https://u-tokyo-ac-jp.zoom.us/rec/share/OI75Geb3F5g1T6N9yCCPdKCaNw052iMUKd-EwStX
  - （6月14日）五輪観客数試算[[ここをクリック]](./files/FujiiNakata_Olympics_Slides_20210614_Spreadsheet.pdf){:target="_blank" rel="noopener"}
     -  東京五輪2020観客数試算スプレッドシート[[ここをクリック]](./files/TokyoOlympicsSpreadsheet.xlsx){:target="_blank" rel="noopener"}
  - （6月14日）6月20日宣言解除後の感染の推移[[ここをクリック]](./files/FujiiNakata_CounterfactualExperiments_Slides_20210614.pdf){:target="_blank" rel="noopener"}
-    -   バックデータ[[ここをクリック]](./files/Tokyo_5250000_3.xls){:target="_blank" rel="noopener"}
+    - バックデータ[[ここをクリック]](./files/Tokyo_5250000_3.xls){:target="_blank" rel="noopener"}
+- （6月17日）五輪による国内感染への影響：総括[[ここをクリック]](./files/FujiiNakata_Olympics_Slides_20210616_Summary.pdf){:target="_blank" rel="noopener"}
+    - バックデータ[[ここをクリック]](./files/BackData_MainResults_Tokyo.xls){:target="_blank" rel="noopener"}
+- （6月17日）五輪による国内感染への影響：直接的影響 (with 千葉安佐子) [[ここをクリック]](./files/FujiiNakata_Olympics_Slides_20210616a_DirectEffects.pdf){:target="_blank" rel="noopener"}
+- （6月17日）五輪による国内感染への影響：間接的影響 [[ここをクリック]](./files/FujiiNakata_Olympics_Slides_20210616b_IndirectEffects.pdf){:target="_blank" rel="noopener"}
+- （6月17日）補足資料１：コロナ禍の大規模イベント [[ここをクリック]](./files/FujiiNakata_Olympics_Slides_20210616a_SportsMusic.pdf){:target="_blank" rel="noopener"}
+    -コロナ禍の大規模イベントデータセット [[ここをクリック]](./files/大規模イベントデータセット.xlsx){:target="_blank" rel="noopener"}
+-  補足資料２：オリンピック開催に伴う人流増加がもたらす感染拡大効果（千葉安佐子） [[ここをクリック]](./files/Olympics_Chiba.pdf){:target="_blank" rel="noopener"}
+-  補足資料３：直接的影響分析の詳細 [[ここをクリック]](./files/FujiiNakata_Olympics_Slides_20210616b_ModelDetails.pdf){:target="_blank" rel="noopener"}
 
    
 
