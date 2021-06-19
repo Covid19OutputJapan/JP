@@ -82,3 +82,6 @@ https://u-tokyo-ac-jp.zoom.us/rec/share/OI75Geb3F5g1T6N9yCCPdKCaNw052iMUKd-EwStX
 -  （6月17日）補足資料２：オリンピック開催に伴う人流増加がもたらす感染拡大効果（千葉安佐子） [[ここをクリック]](./files/Olympics_Chiba.pdf){:target="_blank" rel="noopener"}
 -  （6月17日）補足資料３：直接的影響分析の詳細 [[ここをクリック]](./files/FujiiNakata_Olympics_Slides_20210616b_ModelDetails.pdf){:target="_blank" rel="noopener"}
 -  （6月17日）五輪による国内感染への影響：Zoom説明会・質疑応答 [[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/wLhQewKTLoVY5T00yi96h0FP5khCNXH4m99egtZJ5P5YtkXtNCANk-LbxmOQY8yW.4vsb-dwlCZ497iPH?startTime=1623912478000){:target="_blank" rel="noopener"}
+- （6月20日）コロナ感染と経済活動の見通し[[ここをクリック]](./files/FujiiNakata_PrimeMinister_Slides_20210620.pdf){:target="_blank" rel="noopener"}
+    - バックデータ[１](./files/BackData_VP_MainResults_Tokyo_0.620.xls){:target="_blank" rel="noopener"}・[2](./files/BackData_VP_MainResults_Tokyo_0.420.xls){:target="_blank" rel="noopener"}・[3](./files/BackData_VP_MainResults_Tokyo_0.980.xls){:target="_blank" rel="noopener"}・[4](./files/BackData_VP_MainResults_Tokyo_0.620.xls){:target="_blank" rel="noopener"}
+
