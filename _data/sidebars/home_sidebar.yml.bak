@@ -83,3 +83,11 @@ entries:
       url: /media.html
       output: web, pdf
       type: homepage
+
+  - title: プロフィール
+    output: web, pdf
+    folderitems:
+    - title: プロフィール
+      url: /profile.html
+      output: web, pdf
+      type: homepage
