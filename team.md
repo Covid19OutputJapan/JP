@@ -24,7 +24,7 @@ summary:
 
 ### リサーチアシスタント
 
-- Batista, Quentin （University of Chicago）
+- Batista, Quentin（University of Chicago）
 - Li, Hongtao（東京大学）
 - 浅井寛之（東京大学）
 - 岡本亘（東京大学）
@@ -42,5 +42,5 @@ summary:
 - 眞智恒平（東京大学）
 - 森公毅（Middlebury College）
 - 山﨑雄公（東京大学）
-- 野中玲央 （東京大学）
+- 野中玲央（東京大学）
 
