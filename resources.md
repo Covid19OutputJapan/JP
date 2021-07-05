@@ -85,4 +85,6 @@ https://u-tokyo-ac-jp.zoom.us/rec/share/OI75Geb3F5g1T6N9yCCPdKCaNw052iMUKd-EwStX
 - （6月20日）コロナ感染と経済活動の見通し[[ここをクリック]](./files/FujiiNakata_PrimeMinister_Slides_20210620.pdf){:target="_blank" rel="noopener"}
     - バックデータ[１](./files/BackData_VP_MainResults_Tokyo_0.620.xls){:target="_blank" rel="noopener"}・[2](./files/BackData_VP_MainResults_Tokyo_0.420.xls){:target="_blank" rel="noopener"}・[3](./files/BackData_VP_MainResults_Tokyo_0.980.xls){:target="_blank" rel="noopener"}・[4](./files/BackData_DR_MainResults_Tokyo0.620.xls){:target="_blank" rel="noopener"}    
 -   （6月30日）コロナ感染と経済活動の見通し[[ここをクリック]](./files/FujiiNakata_ADBKantei_20210630.pdf){:target="_blank" rel="noopener"}
+-   （7月3日）ワクチン接種と日本経済[[ここをクリック]](./files/FujiiNakata_Updated_20210703.pdf){:target="_blank" rel="noopener"}
+-   （7月5日）アドバイザリーボードの中・長期見通し[[ここをクリック]](./files/FujiiNakata_Outlook_Slides_20210705.pdf){:target="_blank" rel="noopener"}
 
