@@ -7,10 +7,10 @@ permalink: index.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210629/Figures/" %}
+{% assign fig_loc = "./archives/20210706/Figures/" %}
 
-## 最終アップデート：2021年6月29日
-** 6月27日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年7月6日
+** 7月4日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -92,9 +92,11 @@ summary:
 ### 1. デルタ株の感染力の比較
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Delta_MainResults_JP.png)]({{ fig_loc }}Tokyo/Delta_MainResults_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Delta_MainResults_JP.png)]({{ fig_loc }}Tokyo/Delta_MainResults_JP.png)|
 
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Delta_MainResults_Tokyo.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。<br>
 
 出所: 著者達の計算による。<br>
 
