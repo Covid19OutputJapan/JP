@@ -28,6 +28,10 @@ entries:
       output: web, pdf
       type: homepage
     - title: 先週
+      url: /20210629.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年6月22日
       url: /20210622.html
       output: web, pdf
       type: homepage
@@ -119,7 +123,7 @@ entries:
       url: /20210121.html
       output: web, pdf
       type: homepage
-
+    
   - title: 都道府県
     output: web, pdf
     folderitems:
@@ -151,7 +155,7 @@ entries:
       output: web, pdf
       url: /saitama_latest.html
       type: homepage
-
+  
   - title: 参考資料
     output: web, pdf
     folderitems:
@@ -159,7 +163,7 @@ entries:
       url: /resources.html
       output: web, pdf
       type: homepage
-
+  
   - title: 免責事項
     output: web, pdf
     folderitems:
@@ -167,7 +171,7 @@ entries:
       url: /disclaimer.html
       output: web, pdf
       type: homepage
-
+  
   - title: その他の情報
     output: web, pdf
     folderitems:
@@ -191,7 +195,7 @@ entries:
       url: /media.html
       output: web, pdf
       type: homepage
-
+  
   - title: プロフィール
     output: web, pdf
     folderitems:
