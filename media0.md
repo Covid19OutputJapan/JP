@@ -3,7 +3,7 @@ title: "メディア紹介"
 keywords: sample homepage
 tags: [others]
 sidebar: home_sidebar
-permalink: media.html
+permalink: media0.html
 summary:
 ---
 
