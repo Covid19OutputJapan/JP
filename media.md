@@ -73,7 +73,7 @@ summary:
 
 
 
-- Financial Times（[June 8{:target="_blank" rel="noopener"}](https://www.ft.com/content/9efb00cc-1445-4e4b-8e35-2b342091800e)）
+- Financial Times（[June 8](https://www.ft.com/content/9efb00cc-1445-4e4b-8e35-2b342091800e){:target="_blank" rel="noopener"}）
 
 
 
@@ -99,7 +99,7 @@ summary:
 
 
 
-- Wall Street Journal（[May 26{:target="_blank" rel="noopener"}](https://www.wsj.com/articles/japan-looks-to-extend-covid-19-state-of-emergency-11622029625)）
+- Wall Street Journal（[May 26](https://www.wsj.com/articles/japan-looks-to-extend-covid-19-state-of-emergency-11622029625){:target="_blank" rel="noopener"}）
 
 
 
