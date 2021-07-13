@@ -67,7 +67,7 @@ summary:
 
 -->
 
-### 1. デルタ株の感染力の比較
+### 1. 緊急事態宣言中の感染減少ペースの比較
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/ERN_MainResults_JP.png)]({{ fig_loc }}Tokyo/ERN_MainResults_JP.png)|
