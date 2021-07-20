@@ -87,4 +87,5 @@ https://u-tokyo-ac-jp.zoom.us/rec/share/OI75Geb3F5g1T6N9yCCPdKCaNw052iMUKd-EwStX
 -   （6月30日）コロナ感染と経済活動の見通し[[ここをクリック]](./files/FujiiNakata_ADBKantei_20210630.pdf){:target="_blank" rel="noopener"}
 -   （7月3日）ワクチン接種と日本経済[[ここをクリック]](./files/FujiiNakata_Updated_20210703.pdf){:target="_blank" rel="noopener"}
 -   （7月5日）アドバイザリーボードの中・長期見通し[[ここをクリック]](./files/FujiiNakata_Outlook_Slides_20210705.pdf){:target="_blank" rel="noopener"}
+-   （7月20日）コロナ禍の自殺・コロナ後の自殺[[ここをクリック]](./files/FujiiNakata_Suicides_Slides_20210720.pdf){:target="_blank" rel="noopener"}
 
