@@ -28,6 +28,10 @@ entries:
       output: web, pdf
       type: homepage
     - title: 先週
+      url: /20210803.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年7月27日
       url: /20210727.html
       output: web, pdf
       type: homepage
