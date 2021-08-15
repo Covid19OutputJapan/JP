@@ -9,7 +9,7 @@ summary:
 
 ### 論文に関する参考資料
 
-- 論文：Daisuke Fujii and Taisuke Nakata (2021) "Covid-19 and Output in Japan" [link](./files/FujiiNakata_Covid19.pdf){:target="_blank" rel="noopener"}
+- 論文：Daisuke Fujii and Taisuke Nakata (2021) "Covid-19 and Output in Japan" [link](./files/fujiinakata_20210811.pdf) (first draft; January 2021), link (revised draft; August 2021){:target="_blank" rel="noopener"}
 
 - 論文の分析に用いたコードやデータファイル [link](./files/Covid19_Output.zip)
 
