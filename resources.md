@@ -91,4 +91,7 @@ https://u-tokyo-ac-jp.zoom.us/rec/share/OI75Geb3F5g1T6N9yCCPdKCaNw052iMUKd-EwStX
 -   （8月3日）コロナ病床使用数増加の感染・経済への影響 [[ここをクリック]](./files/FujiiNakata_ICU_Slides_20210803.pdf){:target="_blank" rel="noopener"}
 -   （8月3日）世代間異質性をパラメター調整で考慮すること [[ここをクリック]](./files/FujiiNakata_AgeHeterogeneity_Slides_20210803.pdf){:target="_blank" rel="noopener"}
 -   （8月10日）コロナ禍の自殺・コロナ後の自殺 [[ここをクリック]](./files/FujiiNakata_Suicides_Slides_20210810.pdf){:target="_blank" rel="noopener"}
+-   （8月17日）コロナ感染と経済の中・長期見通し[[ここをクリック]](./files/FujiiNakata_AI_20210817.pdf){:target="_blank" rel="noopener"}
+-   （8月17日）ロックダウンの感染・経済への影響 [[ここをクリック]](./files/FujiiNakata_Lockdown_20210817.pdf){:target="_blank" rel="noopener"}
+-   （8月17日）過去の見通し検証 [[ここをクリック]](./files/FujiiNakata_PastProjections_20210817.pdf){:target="_blank" rel="noopener"}
 
