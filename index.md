@@ -7,20 +7,20 @@ permalink: index.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210810/Figures/" %}
+{% assign fig_loc = "./archives/20210817/Figures/" %}
 
-## 最終アップデート：2021年8月10日
-** 8月8日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年8月17日
+** 8月15日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
-{% include note.html content="「Covid-19と経済活動」最新分析のZoom解説と質疑応答。8月10日（火）午後5時から。ミーティングID: 857 0917 4188 。パスコード: 434588。一般の方々も歓迎です。"%}
+{% include note.html content="「Covid-19と経済活動」最新分析のZoom解説と質疑応答。8月17日（火）午後5時から。ミーティングID: 857 0917 4188 。パスコード: 434588。一般の方々も歓迎です。"%}
 [[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/j/85709174188?pwd=cm5pTjJ0ZU9nelpWUkU3N2tyOGZLZz09){:target="_blank" rel="noopener"}
 
 {% include note.html content="ワクチン接種ペース・デルタ型変異株の感染力・人々の行動・政府の政策を含め、今後の見通しを左右する様々な要素には大きな不確実性が存在します。注に書いてあるモデルの仮定をきちんと理解しつつ分析結果を参考にしてください。"%}
 
-{% include note.html content="「コロナ病床使用数増加の感染・経済への影響」を掲載しました。"%}
-[[ここをクリック]](./files/FujiiNakata_ICU_Slides_20210803.pdf){:target="_blank" rel="noopener"}
+{% include note.html content="「ロックダウンの感染・経済への影響」を掲載しています。"%}
+[[ここをクリック]](./files/FujiiNakata_Lockdown_20210817.pdf){:target="_blank" rel="noopener"}
 
 {% include note.html content="参考資料のページに感染症対策と経済活動の両立を模索する上でお役に立てるかもしれない様々な資料を掲載しています。"%}
 [[ここをクリック]](https://covid19outputjapan.github.io/JP/resources.html){:target="_blank" rel="noopener"}
@@ -55,45 +55,10 @@ summary:
 
 
 
-<!-- #### (i) 基本シナリオ
-
-{: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery1_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery1_jp.png)|
-
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_GradualRecoveryTokyo_1.xls)からダウンロードしてください。
-
-出所: 著者達の計算による。<br>
-{% include footnote_20210330_1.html %} -->
-
-<!-- - この図をどのように理解すべきなのかは、このページ[[ここをクリック]](./tokyo_20210209.html#1-東京での緊急事態宣言解除後の経済促進ペース分析){:target="_blank" rel="noopener"}の解説を参考にして下さい。 -->
-
-<!-- #### (ii) 気の引き締まりシナリオ
-
-{: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery3_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery3_jp.png)|
-
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_GradualRecoveryTokyo_3.xls)からダウンロードしてください。
-
-出所: 著者達の計算による。<br>
-{% include footnote_20210413_tokyo2.html %} -->
-
-<!-- #### (iii) 変異株シナリオ (A)
-
-{: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/GradualRecovery41_jp.png)]({{ fig_loc }}Tokyo/GradualRecovery41_jp.png)|
-
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_GradualRecoveryTokyo_41.xls)からダウンロードしてください。
-
-出所: 著者達の計算による。<br>
-{% include footnote_20210330_34.html %}
-このシナリオでの今週の変異株割合初期値は0.43%です。 -->
-
-<!-- #### (i) 変異株シナリオ -->
-
 ### 1. 自主的な行動変容による感染拡大抑制シナリオ（楽観）
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Baseline_MainResultsJP.png)]({{ fig_loc }}Tokyo/Baseline_MainResultsJP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Baseline_MainResults_SepJP.png)]({{ fig_loc }}Tokyo/Baseline_MainResults_SepJP.png)|
 
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Baseline_MainResultsTokyo.xls)からダウンロードしてください。
 
@@ -104,9 +69,30 @@ summary:
 ### ２．自主的な行動変容による感染拡大抑制シナリオ（悲観）
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Alternative_MainResultsJP.png)]({{ fig_loc }}Tokyo/Alternative_MainResultsJP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Alternative_MainResults_SepJP.png)]({{ fig_loc }}Tokyo/Alternative_MainResults_SepJP.png)|
 
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Alternative_MainResultsTokyo.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
+### ３．ロックダウンシナリオ（重症病床5割で解除）
+
+{: align="center"}
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Lockdown_MainResults_50JP.png)]({{ fig_loc }}Tokyo/Lockdown_MainResults_50JP.png)|
+
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Lockdown_MainResults_50Tokyo.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。<br>
+
+注：詳細に関しては参考資料ページにある「ロックダウンの感染・経済への影響」をご覧下さい
+
+### ４．ロックダウンシナリオ（重症病床８割で解除）
+
+{: align="center"}
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Lockdown_MainResults_80JP.png)]({{ fig_loc }}Tokyo/Lockdown_MainResults_80JP.png)|
+
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Lockdown_MainResults_80Tokyo.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。<br>
+
+注：詳細に関しては参考資料ページにある「ロックダウンの感染・経済への影響」をご覧下さい
