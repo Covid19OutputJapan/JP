@@ -29,7 +29,7 @@ summary:
 {: align="center"}
 |    | 1週前の<br>「条件付き」予測値 | <br>実現値 | 「条件付き」<br>予測誤差 |
 | ---- | ---- | ---- | ---- |
-| **新規陽性者数** | 84,176 | 115,597 | <span style="color: red; ">-31,419</span> |
+| **新規陽性者数** | 84,176 | 115,595 | <span style="color: red; ">-31,419</span> |
 | **新規死亡者数** | 153 | 127 | <span style="color: black; ">26</span> |
 | **重症者数** | 2,134 | 2,129 | <span style="color: black; ">5</span> |
 
