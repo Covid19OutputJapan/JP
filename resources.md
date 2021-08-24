@@ -96,4 +96,5 @@ https://u-tokyo-ac-jp.zoom.us/rec/share/OI75Geb3F5g1T6N9yCCPdKCaNw052iMUKd-EwStX
 -   （8月17日）過去の見通し検証 [[ここをクリック]](./files/FujiiNakata_PastProjections_20210817.pdf){:target="_blank" rel="noopener"}
 -   （8月17日）社会経済活動再開のために医療体制の迅速な改革を (with 大竹文雄、小林慶一郎、高久玲音）[[ここをクリック]](./files/OhtakeKobayashiTakakuNakata_20210817.pdf){:target="_blank" rel="noopener"}
 -   （8月20日）五輪開催の感染への影響：振り返り [[ここをクリック]](./files/FujiiNakata_OlympicsReview_Slides_20210820.pdf){:target="_blank" rel="noopener"}
+-   （8月24日）コロナ感染と経済の中・長期見通し [[ここをクリック]](./files/FujiiNakata_AI_20210824.pdf){:target="_blank" rel="noopener"}
 

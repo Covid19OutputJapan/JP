@@ -7,10 +7,10 @@ permalink: tokyo_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210817/Figures/" %}
+{% assign fig_loc = "./archives/20210824/Figures/" %}
 
-## 最終アップデート：2021年8月17日
-** 8月15日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年8月24日
+** 8月22日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -67,44 +67,35 @@ summary:
 
 -->
 
-### 1. 自主的な行動変容による感染拡大抑制シナリオ（楽観）
+### 1. 自主的な行動変容による感染拡大抑制シナリオ（10月末宣言解除）
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline_MainResults_SepJP.png)]({{ fig_loc }}Tokyo/Baseline_MainResults_SepJP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline October MainResultsJP.png)]({{ fig_loc }}Tokyo/Baseline October MainResultsJP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Baseline_MainResults_SepTokyo.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Baseline October MainResultsTokyo.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注: 図では、今後感染を抑制するための追加的な行動制限措置が取られないが、感染が広まり医療が逼迫することで人々が自主的に行動変容する、というシナリオ。日本での自主的な行動変容の研究はWatanabe and Yabu (2021): Japan's Voluntary Lockdown: Further Evidence Based on Age-Specific Mobile Location Dataを参照して下さい。左（真ん中、右）の黒の縦実線が現在時点（8月第3週・9月第3週）。二つの細い線は推定しているパラメター（人流とGDPの関係、接触率、致死率、重症化率、入院率）がそれぞれのpoint estimateよりも1.5 standard deviation離れている場合。Bottom-rightパネルは、1年後の累計死亡者数（これまでの死亡者数を含む）と今後1年間の経済損失。middle-rightパネルはその地域における月次GDP（近い将来公表する論文で推定方法の詳細を説明します）。アルファ型変異株感染力が従来株の1.3倍、重症化率・致死率は1.4倍と仮定。デルタ型変異株の感染力はアルファ型変異株の1.5倍、重症化率・致死率はアルファ株の1.1倍と仮定。デルタ型変異株割合は、現在9割と仮定。ワクチン接種ペース見通しは8月末まで1日120万本（全国換算）、その後徐々に減少と仮定。ワクチン接種希望者は高齢者が9割・高齢者以外は7割と仮定（13歳以上の希望者が8割と仮定で、13歳未満は未接種と仮定）。ワクチンの効果は「SPI-M-O: Summary of further modelling of easing restrictions – Roadmap Step 4, July 2021」と整合的。モデルの詳細についてはFujii and Nakata（2021）を参照して下さい。
+注: 詳細に関しては参考資料ページにある「（8月24日）コロナ感染と経済の中・長期見通し」をご覧下さい。
 
-### ２．自主的な行動変容による感染拡大抑制シナリオ（悲観）
+### ２．自主的な行動変容による感染拡大抑制シナリオ（12月末宣言解除）
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Alternative_MainResults_SepJP.png)]({{ fig_loc }}Tokyo/Alternative_MainResults_SepJP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Alternative December MainResults_JP.png)]({{ fig_loc }}Tokyo/Alternative December MainResults_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Alternative_MainResults_SepTokyo.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Alternative December MainResults_SepTokyo.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-### ３．ロックダウンシナリオ（重症病床5割で解除）
+注: 詳細に関しては参考資料ページにある「（8月24日）コロナ感染と経済の中・長期見通し」をご覧下さい。
+
+### ３．強い行動制限シナリオ（重症病床5割で解除）
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Lockdown_MainResults_50JP.png)]({{ fig_loc }}Tokyo/Lockdown_MainResults_50JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Strong Regulation_MainResults_JP.png)]({{ fig_loc }}Tokyo/Strong Regulation_MainResults_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Lockdown_MainResults_50Tokyo.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Strong Regulation_MainResults_SepTokyo.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注：詳細に関しては参考資料ページにある「ロックダウンの感染・経済への影響」をご覧下さい
-
-### ４．ロックダウンシナリオ（重症病床８割で解除）
-
-{: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Lockdown_MainResults_80JP.png)]({{ fig_loc }}Tokyo/Lockdown_MainResults_80JP.png)|
-
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Lockdown_MainResults_80Tokyo.xls)からダウンロードしてください。
-
-出所: 著者達の計算による。<br>
-
-注：詳細に関しては参考資料ページにある「ロックダウンの感染・経済への影響」をご覧下さい
+注: 詳細に関しては参考資料ページにある「（8月24日）コロナ感染と経済の中・長期見通し」をご覧下さい。
