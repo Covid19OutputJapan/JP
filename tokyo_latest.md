@@ -7,10 +7,10 @@ permalink: tokyo_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210824/Figures/" %}
+{% assign fig_loc = "./archives/20210831/Figures/" %}
 
-## 最終アップデート：2021年8月24日
-** 8月22日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年8月31日
+** 8月29日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -67,35 +67,47 @@ summary:
 
 -->
 
-### 1. 自主的な行動変容による感染拡大抑制シナリオ（10月末宣言解除）
+### 1．基本ワクチンシナリオ（接種率75％・医療体制現状維持）
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline October MainResultsJP.png)]({{ fig_loc }}Tokyo/Baseline October MainResultsJP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline_MainResults_7000_JP.png)]({{ fig_loc }}Tokyo/Baseline_MainResults_7000_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Baseline October MainResultsTokyo.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Baseline_MainResults_7000_Tokyo.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注: 詳細に関しては参考資料ページにある「（8月24日）コロナ感染と経済の中・長期見通し」をご覧下さい。
+注：詳細に関しては参考資料ページにある「（8月31日）ワクチン接種完了後の世界：コロナ感染と経済の長期見通し」をご覧下さい
 
-### ２．自主的な行動変容による感染拡大抑制シナリオ（12月末宣言解除）
+### ２．基本ワクチンシナリオ（接種率75％・医療体制受け入れ能力2倍）
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Alternative December MainResults_JP.png)]({{ fig_loc }}Tokyo/Alternative December MainResults_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline_MainResults_12000_JP.png)]({{ fig_loc }}Tokyo/Baseline_MainResults_12000_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Alternative December MainResults_SepTokyo.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Baseline_MainResults_12000_Tokyo.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注: 詳細に関しては参考資料ページにある「（8月24日）コロナ感染と経済の中・長期見通し」をご覧下さい。
+注：詳細に関しては参考資料ページにある「（8月31日）ワクチン接種完了後の世界：コロナ感染と経済の長期見通し」をご覧下さい
 
-### ３．強い行動制限シナリオ（重症病床5割で解除）
+### ３．希望ワクチンシナリオ（接種率85％・医療体制現状維持）
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Strong Regulation_MainResults_JP.png)]({{ fig_loc }}Tokyo/Strong Regulation_MainResults_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Optimistic_MainResults_6000_JP.png)]({{ fig_loc }}Tokyo/Optimistic_MainResults_6000_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Strong Regulation_MainResults_SepTokyo.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Optimistic_MainResults_6000_Tokyo.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注: 詳細に関しては参考資料ページにある「（8月24日）コロナ感染と経済の中・長期見通し」をご覧下さい。
+注：詳細に関しては参考資料ページにある「（8月31日）ワクチン接種完了後の世界：コロナ感染と経済の長期見通し」をご覧下さい
+
+### ４．悲観ワクチンシナリオ（接種率75％・感染予防効果低下・医療体制現状維持）
+
+{: align="center"}
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Pessimistic_MainResults_7000_JP.png)]({{ fig_loc }}Tokyo/Pessimistic_MainResults_7000_JP.png)|
+
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Pessimistic_MainResults_7000_Tokyo.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。<br>
+
+注：詳細に関しては参考資料ページにある「（8月31日）ワクチン接種完了後の世界：コロナ感染と経済の長期見通し」をご覧下さい
+
