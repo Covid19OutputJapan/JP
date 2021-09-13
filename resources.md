@@ -101,4 +101,5 @@ https://u-tokyo-ac-jp.zoom.us/rec/share/OI75Geb3F5g1T6N9yCCPdKCaNw052iMUKd-EwStX
 -   （9月7日）コロナ禍の自殺：年代別・性別の分析 [[ここをクリック]](./files/FujiiNakata_Suicides_Slides_20210907.pdf){:target="_blank" rel="noopener"}
 -   （9月7日）感染と経済の中長期展望（早稲田大学・久保田荘） [[ここをクリック]](./files/kubota_covid_0907.pdf){:target="_blank" rel="noopener"}
 -   （9月14日）ワクチン接種完了後の世界：コロナ感染と経済の長期見通し[[ここをクリック]](./files/FujiiNakata_LongTermOutlook_20210914.pdf){:target="_blank" rel="noopener"}
+-   （9月7日）コロナ禍の新卒採用の動向と今後の課題について（東京大学・近藤絢子）[[ここをクリック]](./files/仲田藤井Zoom説明会用.pptx){:target="_blank" rel="noopener"}
 
