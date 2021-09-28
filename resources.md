@@ -105,4 +105,6 @@ https://u-tokyo-ac-jp.zoom.us/rec/share/OI75Geb3F5g1T6N9yCCPdKCaNw052iMUKd-EwStX
 -   （9月13日）コロナ感染と経済の短期・中期見通し[[ここをクリック]](./files/FujiiNakata_Outlook_20210913.pdf){:target="_blank" rel="noopener"}
 -   （9月21日）「（9月13日）コロナ感染と経済の短期・中期見通し」の解説[[ここをクリック]](./files/FujiiNakata_Outlook_Note_20210921.pdf){:target="_blank" rel="noopener"}
 -   （9月27日）コロナ感染と人流の相関関係[[ここをクリック]](./files/FujiiNakata_Mobility_Slides_20210927.pdf){:target="_blank" rel="noopener"}
+-   （9月27日）「コロナ感染と人流の関係」の一般向け解説記事[[ここをクリック]](https://toyokeizai.net/articles/-/458287?utm_source=Twitter&utm_medium=social&utm_campaign=auto){:target="_blank" rel="noopener"}
+-   （9月28日）コロナ感染と経済の見通し[[ここをクリック]](./files/FujiiNakata_Outlook_20210928.pdf){:target="_blank" rel="noopener"}
 
