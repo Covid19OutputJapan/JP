@@ -107,4 +107,5 @@ https://u-tokyo-ac-jp.zoom.us/rec/share/OI75Geb3F5g1T6N9yCCPdKCaNw052iMUKd-EwStX
 -   （9月27日）コロナ感染と人流の相関関係[[ここをクリック]](./files/FujiiNakata_Mobility_Slides_20210927.pdf){:target="_blank" rel="noopener"}
 -   （9月27日）「コロナ感染と人流の関係」の一般向け解説記事[[ここをクリック]](https://toyokeizai.net/articles/-/458287?utm_source=Twitter&utm_medium=social&utm_campaign=auto){:target="_blank" rel="noopener"}
 -   （9月28日）コロナ感染と経済の見通し[[ここをクリック]](./files/FujiiNakata_Outlook_20210928.pdf){:target="_blank" rel="noopener"}
+-   （9月28日）コロナ禍出口戦略の再構築（みずほリサーチ＆テクノロジーズ服部直樹、酒井才介）[[ここをクリック]](./files/20210928_mhrt.pdf){:target="_blank" rel="noopener"}
 
