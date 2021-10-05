@@ -195,7 +195,7 @@ entries:
       output: web, pdf
       url: /saitama_latest.html
       type: homepage
-  
+
   - title: 参考資料
     output: web, pdf
     folderitems:
@@ -203,7 +203,7 @@ entries:
       url: /resources.html
       output: web, pdf
       type: homepage
-  
+
   - title: 免責事項
     output: web, pdf
     folderitems:
@@ -211,7 +211,7 @@ entries:
       url: /disclaimer.html
       output: web, pdf
       type: homepage
-  
+
   - title: その他の情報
     output: web, pdf
     folderitems:
@@ -235,7 +235,7 @@ entries:
       url: /media.html
       output: web, pdf
       type: homepage
-  
+
   - title: プロフィール
     output: web, pdf
     folderitems:
@@ -248,7 +248,7 @@ entries:
   - title: Zoom説明会の動画
     output: web, pdf
     folderitems:
-    
+
     -  title: Zoom説明会の動画
       url: /recording.html
       output: web, pdf
