@@ -204,6 +204,14 @@ entries:
       output: web, pdf
       type: homepage
 
+  - title: Zoom説明会の動画
+    output: web, pdf
+    folderitems:
+    - title: Zoom説明会の動画
+      url: /recording.html
+      output: web, pdf
+      type: homepage
+
   - title: 免責事項
     output: web, pdf
     folderitems:
@@ -245,10 +253,3 @@ entries:
       output: web, pdf
       type: homepage
 
-  - title: Zoom説明会の動画
-    output: web, pdf
-    folderitems:
-    - title: Zoom説明会の動画
-      url: /recording.html
-      output: web, pdf
-      type: homepage
