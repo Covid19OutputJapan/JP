@@ -239,7 +239,17 @@ entries:
   - title: プロフィール
     output: web, pdf
     folderitems:
+    
     - title: プロフィール
       url: /profile.html
+      output: web, pdf
+      type: homepage
+
+  - title: Zoom説明会の動画
+    output: web, pdf
+    folderitems:
+    
+    -  title: Zoom説明会の動画
+      url: /recording.html
       output: web, pdf
       type: homepage
