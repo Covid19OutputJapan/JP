@@ -17,7 +17,7 @@ summary:
 - （4月27日）コロナ感染と経済活動の見通し（第1回、第2回、第3回）[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/IRZvttIR2lZ-uV-juJxN4nuNCfbpilp_K8Hnn0MSxrFlHfbIqYxdxA85RVKVwA2L.qvT8wPDvrs_PbF9r){:target="_blank" rel="noopener"}[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/G_dhZOFCnyM5TlI0ciugR8nM7HUHKa2EYdNGJeL935DfAJxI1blz8SSbfKbh68.ecBe_sCMc3GLAl67){:target="_blank" rel="noopener"}[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/J0eCA8RF6TGcfrsYcW4k9W0crEATd7FJNYldqI4PvyZ7kWooY1kyouF1kL_NI5ot.FeAq3mRPUYgUsNhz){:target="_blank" rel="noopener"}
 - （5月4日）コロナ感染と経済活動の見通し[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/6VBdFiQOicEw63WczadVca3xb23rIvi0hDsiRhv3HJyehfaoglYWho-66Zg14CiF.xkuxA2eV2ZOUcgyD){:target="_blank" rel="noopener"}
 - （5月11日）コロナ感染と経済活動の見通し[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/9d0GUwnZrvl6whVg6WyRIHnhwZOmdu7_vlS8OiqRndZWxhK6UvPEZ3SkYTni2Jjj.9ymBhpxaFtM0NFyf){:target="_blank" rel="noopener"}
-- （5月23日）「五輪開催の感染への影響」のZoom解説と質疑応答[[ここをクリック]](
+- （5月23日）「五輪開催の感染への影響」[[ここをクリック]](
   https://u-tokyo-ac-jp.zoom.us/rec/share/ehQlA6EVys2CYehi52Pdhf2TURbC4Z3p_0uhvvcU-QgR8jQ13RUqahKEwKlmbSVB.4jfNDCEVEjkgmANt?startTime=1621754628000){:target="_blank" rel="noopener"}
 - （5月25日）コロナ感染と経済活動の見通し[[ここをクリック]](
   https://u-tokyo-ac-jp.zoom.us/rec/share/OI75Geb3F5g1T6N9yCCPdKCaNw052iMUKd-EwStXlYyOuJ-P5N3dsasGcamgyX9m.OYVUVxzj4rJ1DGk3?startTime=1621929900000){:target="_blank" rel="noopener"}
