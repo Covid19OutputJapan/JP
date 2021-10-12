@@ -98,4 +98,8 @@ summary:
 -   （9月28日）コロナ感染と経済の見通し[[ここをクリック]](./files/FujiiNakata_Outlook_20210928.pdf){:target="_blank" rel="noopener"}
 -   （9月28日）コロナ禍出口戦略の再構築（みずほリサーチ＆テクノロジーズ服部直樹、酒井才介）[[ここをクリック]](./files/20210928_mhrt.pdf){:target="_blank" rel="noopener"}
 -   （10月5日）コロナ禍の自殺[[ここをクリック]](./files/FujiiNakata_Suicides_20211005.pdf){:target="_blank" rel="noopener"}
+-   （10月10日）コロナ感染症対策と経済活動の両立[[ここをクリック]](./files/Nakata_NikkeiGakkai_20211010.pdf){:target="_blank" rel="noopener"}
+-   （10月11日）コロナ対策の因果分析の重要性[[ここをクリック]](./files/Nakata_Context_20211011.pdf){:target="_blank" rel="noopener"}
+-   （10月11日）飲食店規制の感染への影響：因果推論（一橋大学・高久玲央）[[ここをクリック]](./files/Takaku_CausalEffects.pptx){:target="_blank" rel="noopener"}
+-   （10月12日）コロナ感染と経済の見通し[[ここをクリック]](./files/FujiiNakata_Outlook_20211012.pdf){:target="_blank" rel="noopener"}
 

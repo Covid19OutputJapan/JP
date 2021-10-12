@@ -7,10 +7,10 @@ permalink: tokyo_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20210928/Figures/" %}
+{% assign fig_loc = "./archives/2021012/Figures/" %}
 
-## 最終アップデート：2021年9月28日
-** 9月26日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2021年10月12日
+** 10月10日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -20,38 +20,13 @@ summary:
 
 
 
-### 1．「現時点でのワクチン接種率が6月22日レベルであったならば」の仮想シナリオ
+### 1．基本再生産数
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Alternative_Vaccine_Results_BRN_4_JP.png)]({{ fig_loc }}Tokyo/Alternative_Vaccine_Results_BRN_4_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/MainResults_JP.png)]({{ fig_loc }}Tokyo/MainResults_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Alternative_Vaccine_Results_BRN_4_Tokyo.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_MainResultsTokyo.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注：詳細に関しては参考資料ページにある「（9月28日）コロナ感染と経済の見通し」をご覧下さい
-
-### ２．基本再生産数
-
-{: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline_MainResults_JP.png)]({{ fig_loc }}Tokyo/Baseline_MainResults_JP.png)|
-
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Baseline_MainResults_Tokyo.xls)からダウンロードしてください。
-
-出所: 著者達の計算による。<br>
-
-注：詳細に関しては参考資料ページにある「（9月28日）コロナ感染と経済の見通し」をご覧下さい
-
-### ３．人々が許容する最大一日感染者数
-
-{: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Different_Medical_Results_BRN_4_JP.png)]({{ fig_loc }}Tokyo/Different_Medical_Results_BRN_4_JP.png)|
-
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_Different_Medical_Results_BRN_4_Tokyo.xls)からダウンロードしてください。
-
-出所: 著者達の計算による。<br>
-
-注：詳細に関しては参考資料ページにある「（9月28日）コロナ感染と経済の見通し」をご覧下さい
-
-
-
+注：詳細に関しては参考資料ページにある「（10月12日）コロナ感染と経済の見通し」をご覧下さい

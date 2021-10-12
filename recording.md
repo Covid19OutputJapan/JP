@@ -41,4 +41,5 @@ summary:
 - （9月21日）コロナ感染と経済活動の見通し[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/Jjfm9p4EE48Epqyv9D1IlTWv2kebBs3p-5Oy5Zt_EOF1sDVGVslmhStnhlw2bKM.YiyHtF0nAXJILaoI?startTime=1632725824000){:target="_blank" rel="noopener"}
 - （9月27日）コロナ感染と人流の相関関係[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/OQGEbVHC-X0lylnase2GBnV_bVXp8Zy9Nvnia4W52SCR4z3syHrfcg5XG9T_iA0.CLOXyIyt5xLWTV17?startTime=1632725824000){:target="_blank" rel="noopener"}
 - （9月28日）コロナ禍出口戦略の再構築（みずほリサーチ・服部直樹）・コロナ感染と経済活動の見通し[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/sBSaD2IfbB_tUQyZH7Y4UzZ8X_x6ZvVcp_ThZqFbX5DhdRiZ2lRmIwLNniVtF4cc.qTqjIcJQSwrQK4Io?startTime=1632807697000){:target="_blank" rel="noopener"}
+- （10月11日）飲食店規制の感染への影響：因果推論（一橋大学・高久玲央）・コロナ禍の自殺[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/W_YBdLA0uIEW5MrxNuRHXZD3R8xWcu3sTFmC7De_G0b_oFaWbJwi7yGOWJyp1NZC.x175YfZXrnPJuSGR?startTime=1633935232000){:target="_blank" rel="noopener"}
 
