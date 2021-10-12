@@ -23,7 +23,7 @@ summary:
 ### 1．基本再生産数
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/MainResults_JP.png.png)]({{ fig_loc }}Tokyo/MainResults_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/MainResults_JP.png)]({{ fig_loc }}Tokyo/MainResults_JP.png)|
 
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/BackData_MainResultsTokyo.xls)からダウンロードしてください。
 
