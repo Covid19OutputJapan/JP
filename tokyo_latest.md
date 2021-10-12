@@ -7,7 +7,7 @@ permalink: tokyo_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/2021012/Figures/" %}
+{% assign fig_loc = "./archives/20211012/Figures/" %}
 
 ## 最終アップデート：2021年10月12日
 ** 10月10日までのデータに基づく分析です。画像はクリックすると拡大します。

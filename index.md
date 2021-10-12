@@ -14,13 +14,10 @@ summary:
 
 {% include link_to_code.html %}
 
-{% include note.html content="「Covid-19と経済活動」最新分析のZoom解説と質疑応答。9月28日（火）午後5時から。ミーティングID: 857 0917 4188 。パスコード: 434588。一般の方々も歓迎です。"%}
+{% include note.html content="「Covid-19と経済活動」最新分析のZoom解説と質疑応答。9月28日（火）午後4時から。ミーティングID: 857 0917 4188 。パスコード: 434588。一般の方々も歓迎です。"%}
 [[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/j/85709174188?pwd=cm5pTjJ0ZU9nelpWUkU3N2tyOGZLZz09){:target="_blank" rel="noopener"}
 
 {% include note.html content="人々の行動・政府の政策を含め、今後の見通しを左右する様々な要素には大きな不確実性が存在します。注に書いてあるモデルの仮定をきちんと理解しつつ分析結果を参考にしてください。"%}
-
-{% include note.html content="「コロナ禍の自殺：年代別・性別の分析」、「感染と人流の相関関係」を掲載しています。"%}
- [[ここをクリック]](./files/FujiiNakata_Suicides_Slides_20210907.pdf){:target="_blank" rel="noopener"} [[ここをクリック]](./files/FujiiNakata_Mobility_Slides_20210927.pdf){:target="_blank" rel="noopener"}
 
 {% include note.html content="参考資料のページに感染症対策と経済活動の両立を模索する上でお役に立てるかもしれない様々な資料を掲載しています。"%}
 [[ここをクリック]](https://covid19outputjapan.github.io/JP/resources.html){:target="_blank" rel="noopener"}
