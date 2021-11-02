@@ -104,4 +104,5 @@ summary:
 -   （10月12日）コロナ感染と経済の見通し[[ここをクリック]](./files/FujiiNakata_Outlook_20211012.pdf){:target="_blank" rel="noopener"}
 -   （10月25日）東京での感染減少の要因:定量分析[[ここをクリック]](./files/FujiiNakata_SharpDecline_Slides_20211025.pdf){:target="_blank" rel="noopener"}
 -   （11月2日）コロナ感染と経済の見通し[[ここをクリック]](./files/FujiiNakata_Outlook_20211101.pdf){:target="_blank" rel="noopener"}
+-   （11月2日）平田晃正教授による「7月-9月の感染増減の要因」の背景[[ここをクリック]](./files/HirataAnalysis.pdf){:target="_blank" rel="noopener"}
 
