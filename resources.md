@@ -103,4 +103,5 @@ summary:
 -   （10月11日）飲食店規制の感染への影響：因果推論（一橋大学・高久玲央）[[ここをクリック]](./files/Takaku_CausalEffects.pptx){:target="_blank" rel="noopener"}
 -   （10月12日）コロナ感染と経済の見通し[[ここをクリック]](./files/FujiiNakata_Outlook_20211012.pdf){:target="_blank" rel="noopener"}
 -   （10月25日）東京での感染減少の要因:定量分析[[ここをクリック]](./files/FujiiNakata_SharpDecline_Slides_20211025.pdf){:target="_blank" rel="noopener"}
+-   （11月2日）コロナ感染と経済の見通し[[ここをクリック]](./files/FujiiNakata_Outlook_20211101.pdf){:target="_blank" rel="noopener"}
 
