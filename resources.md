@@ -105,4 +105,10 @@ summary:
 -   （10月25日）東京での感染減少の要因:定量分析[[ここをクリック]](./files/FujiiNakata_SharpDecline_Slides_20211025.pdf){:target="_blank" rel="noopener"}
 -   （11月2日）コロナ感染と経済の見通し[[ここをクリック]](./files/FujiiNakata_Outlook_20211101.pdf){:target="_blank" rel="noopener"}
 -   （11月2日）平田晃正教授による「7月-9月の感染増減の要因」の背景[[ここをクリック]](./files/HirataAnalysis.pdf){:target="_blank" rel="noopener"}
+-   （11月19日）11月14日の分科会勉強会での資料[[ここをクリック]](./files/KeyTakeaways_20211114.pdf){:target="_blank" rel="noopener"}
+-   （11月19日）第6波に向けた分析体制の構築―8月12日の分科会「人流5割削減」提案からの教訓―[[ここをクリック]](./files/FujiiNakata_0812Review_20211119.pdf){:target="_blank" rel="noopener"}
+-   （11月19日）「第6波に向けた分析体制の構築―8月12日の分科会「人流5割削減」提案からの教訓―」の参考資料[[ここをクリック]](./files/FujiiNakata_0812Review_References_20211119.pdf){:target="_blank" rel="noopener"}
+-   （11月19日）人流と感染変化率との関係（筑波大学・倉橋節也教授）[[ここをクリック]](./files/kurahashi_20211116.pdf){:target="_blank" rel="noopener"}
+-   （11月19日）倉橋節也教授による「人流と感染変化率との関係」の背景[[ここをクリック]](./files/background_kurahashi_20211119.pdf){:target="_blank" rel="noopener"}
+-   （11月19日）「第6波に向けた分析体制の構築―8月12日の分科会「人流5割削減」提案からの教訓―」に基づく論考[[ここをクリック]](./files/Nakata_0812ReviewArticle_20211119.pdf){:target="_blank" rel="noopener"}
 
