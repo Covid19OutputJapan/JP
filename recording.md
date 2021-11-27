@@ -44,4 +44,5 @@ summary:
 - （10月11日）飲食店規制の感染への影響：因果推論（一橋大学・高久玲央）・コロナ禍の自殺[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/W_YBdLA0uIEW5MrxNuRHXZD3R8xWcu3sTFmC7De_G0b_oFaWbJwi7yGOWJyp1NZC.x175YfZXrnPJuSGR?startTime=1633935232000){:target="_blank" rel="noopener"}
 - （10月25日）東京での感染減少の要因：定量分析[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/oyV5I8RNiAid1MPJG0sJx-dGU4NyqYoXw4LCbdfBtUDI7rffyeve4OZBQJVjgjJP.Q3DSn4mDGDCXhZ0B?startTime=1635144748000){:target="_blank" rel="noopener"}
 - （11月2日）7月―9月の感染の増減の要因（名古屋工業大学・平田晃正）、コロナ感染と経済活動の見通し[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/Xf0oKbupF-6_FNhNNEtVCUI7OxY4JtjJp-lptbQ0jcwSCj_AxP6Xl-WW6axMIgNr.5E7YleJKAliEmKQV?startTime=1635836134000){:target="_blank" rel="noopener"}
+- （11月22日）「8月の分科会「人流5割削減」提案からの教訓」・「人流と感染変化率の関係 （筑波大・倉橋教授）」[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/LobC-5rbev1mpsNz8ggHdy4tnWsTNnt_T9j5wo5jtTHRGblLVZ82tT73N5usKQAx.wFBKgewY1_pLGKRZ?startTime=1637566433000){:target="_blank" rel="noopener"}
 

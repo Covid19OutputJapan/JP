@@ -111,4 +111,6 @@ summary:
 -   （11月19日）人流と感染変化率との関係（筑波大学・倉橋節也教授）[[ここをクリック]](./files/kurahashi_20211116.pdf){:target="_blank" rel="noopener"}
 -   （11月19日）倉橋節也教授による「人流と感染変化率との関係」の背景[[ここをクリック]](./files/background_kurahashi_20211119.pdf){:target="_blank" rel="noopener"}
 -   （11月19日）「第6波に向けた分析体制の構築―8月12日の分科会「人流5割削減」提案からの教訓―」に基づく論考[[ここをクリック]](./files/Nakata_0812ReviewArticle_20211119.pdf){:target="_blank" rel="noopener"}
+-   （11月22日）コロナ死亡回避の経済価値ーコロナ死者数を一人減少させるために社会としてどのくらいの経済犠牲を受け入れるかー[[ここをクリック]](./files/FujiiNakata_VL_20211122.pdf){:target="_blank" rel="noopener"}
+-   （11月9日）厚労省ABでのコメント[[ここをクリック]](./files/AB20211109_comments.pdf){:target="_blank" rel="noopener"}
 
