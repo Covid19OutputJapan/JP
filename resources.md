@@ -113,4 +113,5 @@ summary:
 -   （11月19日）「第6波に向けた分析体制の構築―8月12日の分科会「人流5割削減」提案からの教訓―」に基づく論考[[ここをクリック]](./files/Nakata_0812ReviewArticle_20211119.pdf){:target="_blank" rel="noopener"}
 -   （11月22日）コロナ死亡回避の経済価値ーコロナ死者数を一人減少させるために社会としてどのくらいの経済犠牲を受け入れるかー[[ここをクリック]](./files/FujiiNakata_VL_20211122.pdf){:target="_blank" rel="noopener"}
 -   （11月9日）厚労省ABでのコメント[[ここをクリック]](./files/AB20211109_comments.pdf){:target="_blank" rel="noopener"}
+-   （11月29日）第6回円城寺記念賞受賞式でのスピーチ[[ここをクリック]](./files/Nakata_EnjoujiCeremony_20211129.pdf){:target="_blank" rel="noopener"}
 
