@@ -114,4 +114,5 @@ summary:
 -   （11月22日）コロナ死亡回避の経済価値ーコロナ死者数を一人減少させるために社会としてどのくらいの経済犠牲を受け入れるかー[[ここをクリック]](./files/FujiiNakata_VL_20211122.pdf){:target="_blank" rel="noopener"}
 -   （11月9日）厚労省ABでのコメント[[ここをクリック]](./files/AB20211109_comments.pdf){:target="_blank" rel="noopener"}
 -   （11月29日）第6回円城寺記念賞受賞式でのスピーチ[[ここをクリック]](./files/Nakata_EnjoujiCeremony_20211129.pdf){:target="_blank" rel="noopener"}
+-   （10月9日） Value of a COVID-19 Death[[ここをクリック]](./files/VoLslide.pdf){:target="_blank" rel="noopener"}
 
