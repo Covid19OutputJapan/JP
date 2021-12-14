@@ -115,4 +115,5 @@ summary:
 -   （11月9日）厚労省ABでのコメント[[ここをクリック]](./files/AB20211109_comments.pdf){:target="_blank" rel="noopener"}
 -   （11月29日）第6回円城寺記念賞受賞式でのスピーチ[[ここをクリック]](./files/Nakata_EnjoujiCeremony_20211129.pdf){:target="_blank" rel="noopener"}
 -   （10月9日） Value of a COVID-19 Death[[ここをクリック]](./files/VoLslide.pdf){:target="_blank" rel="noopener"}
+-   （12月14日）基本シナリオと実現値の乖離[[ここをクリック]](./files/FujiiNakata_ProjectionReview_20211214.pdf){:target="_blank" rel="noopener"}
 
