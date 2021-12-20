@@ -116,4 +116,5 @@ summary:
 -   （11月29日）第6回円城寺記念賞受賞式でのスピーチ[[ここをクリック]](./files/Nakata_EnjoujiCeremony_20211129.pdf){:target="_blank" rel="noopener"}
 -   （10月9日） Value of a COVID-19 Death[[ここをクリック]](./files/VoLslide.pdf){:target="_blank" rel="noopener"}
 -   （12月14日）基本シナリオと実現値の乖離[[ここをクリック]](./files/FujiiNakata_ProjectionReview_20211214.pdf){:target="_blank" rel="noopener"}
+-   （12月20日）予測・プロジェクションの評価の仕方[[ここをクリック]](./files/Nakata_HowToEvaluateProjection_20211220.pdf){:target="_blank" rel="noopener"}
 
