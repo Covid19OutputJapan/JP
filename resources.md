@@ -119,4 +119,5 @@ summary:
 -   （12月20日）予測・プロジェクションの評価の仕方[[ここをクリック]](./files/Nakata_HowToEvaluateProjection_20211220.pdf){:target="_blank" rel="noopener"}
 -   （12月23日）コロナ禍における内閣官房AI-SIMチームの役割[[ここをクリック]](./files/Nakata_AISimTeam_20211223.pdf){:target="_blank" rel="noopener"}
 -   （12月23日）2021年後半の厚労省アドバイザリーボードの見通し[[ここをクリック]](./files/Nakata_ABOutlook2021_20211223.pdf){:target="_blank" rel="noopener"}
+-   （12月24日）オミクロン株[[ここをクリック]](./files/FujiiNakata_Outlook_20211224.pdf){:target="_blank" rel="noopener"}
 
