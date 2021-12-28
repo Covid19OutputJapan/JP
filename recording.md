@@ -46,4 +46,5 @@ summary:
 - （11月2日）7月―9月の感染の増減の要因（名古屋工業大学・平田晃正）、コロナ感染と経済活動の見通し[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/Xf0oKbupF-6_FNhNNEtVCUI7OxY4JtjJp-lptbQ0jcwSCj_AxP6Xl-WW6axMIgNr.5E7YleJKAliEmKQV?startTime=1635836134000){:target="_blank" rel="noopener"}
 - （11月22日）「8月の分科会「人流5割削減」提案からの教訓」・「人流と感染変化率の関係 （筑波大・倉橋教授）」[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/LobC-5rbev1mpsNz8ggHdy4tnWsTNnt_T9j5wo5jtTHRGblLVZ82tT73N5usKQAx.wFBKgewY1_pLGKRZ?startTime=1637566433000){:target="_blank" rel="noopener"}
 - （12月6日）コロナ死亡回避の経済価値ーコロナ死者数を一人減少させるために社会としてどのくらいの経済犠牲を受け入れるかー[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/xwyIs_Zw8RrYOt0QdFL9rIxTQnrFf72Mo037XxuEgpPPIlwSkZe2nnIEsZBYkdHc.HIJQ8QeXaxAEXDj6?startTime=1638774732000){:target="_blank" rel="noopener"}
+- （12月27日）「オミクロン株」、「2021年の感染シミュレーションの振り返り」[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/z1MmBBpICqQyjvSaWj76Jwoy9ycXFU00gR9fqeZ2wwh8c9oYLXOVC98DtTvk3uUt.VxD8HdCC9sp5JWbS?startTime=1640585891000){:target="_blank" rel="noopener"}
 
