@@ -238,7 +238,7 @@ entries:
       
     - title: 変異株
     
-      url: /variant/html
+      url: /variant.html
     
       output: web, pdf
     
