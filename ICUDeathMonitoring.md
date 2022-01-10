@@ -3,7 +3,7 @@ title: "第六波の重症化率・致死率: 東京"
 keywords: sample homepage
 tags: [others]
 sidebar: home_sidebar
-permalink: ICUDeathMonitoring.html
+permalink: icudeathmonitoring.html
 summary:
 ---
 
