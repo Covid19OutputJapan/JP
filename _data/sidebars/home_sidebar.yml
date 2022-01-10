@@ -235,6 +235,14 @@ entries:
       url: /team.html
       output: web, pdf
       type: homepage
+      
+    - title: 変異株
+    
+      url: /variant/html
+    
+      output: web, pdf
+    
+      type: homepage
     # - title: 参考資料
     #   url: /resources.html
     #   output: web, pdf
@@ -251,7 +259,7 @@ entries:
       url: /media.html
       output: web, pdf
       type: homepage
-  
+    
   - title: プロフィール
     output: web, pdf
     folderitems:
