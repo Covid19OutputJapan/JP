@@ -211,14 +211,17 @@ entries:
       url: /resources.html
       output: web, pdf
       type: homepage
-    
-  - title: 第六波の重症化率・致死率: 東京
-     output: web, pdf
-     folderitems:
+      
+      
+      
+      <!--title: 第六波の重症化率・致死率: 東京
+      output: web, pdf
+      folderitems:
+      
     - title: 第六波の重症化率・致死率: 東京
       url: /icu.html 
       output: web, pdf
-      type: homepage
+      type: homepage-->
     
   - title: Zoom説明会の動画
     output: web, pdf
@@ -244,16 +247,12 @@ entries:
       url: /team.html
       output: web, pdf
       type: homepage
-
-    - title: 第六波の重症化率・致死率: 東京
-      url: /icu.html 
-      output: web, pdf
-      type: homepage
+  
     # - title: 参考資料
     #   url: /resources.html
     #   output: web, pdf
     #   type: homepage
-
+    
     - title: 改定履歴
       url: /history.html
       output: web, pdf
