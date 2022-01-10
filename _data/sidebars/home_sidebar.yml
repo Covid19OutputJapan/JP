@@ -215,11 +215,12 @@ entries:
   - title: Zoom説明会の動画
     output: web, pdf
     folderitems:
+    
     - title: Zoom説明会の動画
       url: /recording.html
       output: web, pdf
       type: homepage
-  
+    
   - title: 免責事項
     output: web, pdf
     folderitems:
@@ -235,14 +236,19 @@ entries:
       url: /team.html
       output: web, pdf
       type: homepage
-      
-    - title: 変異株
     
-      url: /variant.html
-    
+   - title: 第六波の重症化率・致死率: 東京
       output: web, pdf
-    
-      type: homepage
+      folderitems:
+      
+      - title: 第六波の重症化率・致死率: 東京
+      
+      
+    ​        url: /ICUDeathMonitoring.html
+      
+    ​        output: web, pdf
+      
+      ​        type: homepage
     # - title: 参考資料
     #   url: /resources.html
     #   output: web, pdf
