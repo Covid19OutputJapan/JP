@@ -219,6 +219,14 @@ entries:
       url: /recording.html
       output: web, pdf
       type: homepage
+      
+  - title: 第六波の重症化率・致死率: 東京
+    output: web, pdf
+    folderitems:
+    - title: 第六波の重症化率・致死率: 東京
+      url: /icudeathmonitoring.html
+      output: web, pdf
+      type: homepage
   
   - title: 免責事項
     output: web, pdf
