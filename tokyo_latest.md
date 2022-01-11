@@ -32,6 +32,7 @@ summary:
 注：シナリオの詳細は「（1月10日）コロナ感染と経済の見通し」を参照
 
 ### B.  AとCの間の重症化率
+
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_relative_severity_0.20_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_relative_severity_0.20_JP.png)|
 
