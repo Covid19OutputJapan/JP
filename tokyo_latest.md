@@ -33,7 +33,7 @@ summary:
 
 ### B.  AとCの間の重症化率
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_relative_severity_0.2_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_relative_severity_0.2_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_relative_severity_0.20_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_relative_severity_0.20_JP.png)|
 
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_relative_severity_0.2.xls)からダウンロードしてください。
 
@@ -44,7 +44,7 @@ summary:
 ### C. 高い重症化率
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_relative_severity_0.4_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_relative_severity_0.4_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_relative_severity_0.40_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_relative_severity_0.40_JP.png)|
 
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_relative_severity_0.4.xls)からダウンロードしてください。
 

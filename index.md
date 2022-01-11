@@ -24,18 +24,37 @@ summary:
 
 
 
-### 1．基本再生産数
+### A．低い重症化率
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Baseline\MainResults_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Baseline\MainResults_relative_severity_0.05_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_relative_severity_0.05_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResultsTokyo.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_relative_severity_0.05.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注：詳細に関しては参考資料ページにある「（11月2日）コロナ感染と経済の見通し」をご覧下さい
+注：シナリオの詳細は「（1月10日）コロナ感染と経済の見通し」を参照
 
+### B.  AとCの間の重症化率
+{: align="center"}
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Baseline\MainResults_relative_severity_0.20_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_relative_severity_0.2_JP.png)|
 
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_relative_severity_0.2.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。<br>
+
+注：シナリオの詳細は「（1月10日）コロナ感染と経済の見通し」を参照
+
+### C. 高い重症化率
+
+{: align="center"}
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Baseline\MainResults_relative_severity_0.40_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_relative_severity_0.4_JP.png)|
+
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_relative_severity_0.4.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。<br>
+
+注：シナリオの詳細は「（1月10日）コロナ感染と経済の見通し」を参照
 
 
 
