@@ -1,0 +1,253 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: sidebar
+  product: Covid-19と経済活動
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: 全国
+    output: web, pdf
+    folderitems:
+    - title: 直近
+      url: /nationwide.html
+      output: web, pdf
+      type: homepage
+    - title: 先週
+      url: /20210914.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年8月31日
+      url: /20210831.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年8月24日
+      url: /20210824.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年8月17日
+      url: /20210817.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年8月10日
+      url: /20210810.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年8月3日
+      url: /20210803.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年7月27日
+      url: /20210727.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年7月20日
+      url: /20210720.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年7月13日
+      url: /20210713.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年7月6日
+      url: /20210706.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年6月29日
+      url: /20210629.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年6月22日
+      url: /20210622.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年6月15日
+      url: /20210615.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年6月8日
+      url: /20210608.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年6月1日
+      url: /20210601.html
+      output: web, pdf
+      type: homepage
+    - title:  2021年5月25日
+      url: /20210525.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年5月18日
+      url: /20210518.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年5月11日
+      url: /20210511.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年5月04日
+      url: /20210504.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年4月27日
+      url: /20210427.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年4月20日
+      url: /20210420.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年4月13日
+      url: /20210413.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年4月6日
+      url: /20210406.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年3月30日
+      url: /20210330.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年3月23日
+      url: /20210323.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年3月16日
+      url: /20210316.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年3月9日
+      url: /20210309.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年3月2日
+      url: /20210302.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年2月23日
+      url: /20210223.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年2月16日
+      url: /20210216.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年2月9日
+      url: /20210209.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年2月3日
+      url: /20210202.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年1月26日
+      url: /20210126.html
+      output: web, pdf
+      type: homepage
+    - title: 2021年1月21日
+      url: /20210121.html
+      output: web, pdf
+      type: homepage
+    
+  - title: 都道府県
+    output: web, pdf
+    folderitems:
+    - title: 東京
+      output: web, pdf
+      url: /tokyo_latest.html
+      type: homepage
+    - title: 大阪
+      output: web, pdf
+      url: /osaka_latest.html
+      type: homepage
+    - title: 千葉
+      output: web, pdf
+      url: /chiba_latest.html
+      type: homepage
+    - title: 愛知
+      output: web, pdf
+      url: /aichi_latest.html
+      type: homepage
+    - title: 福岡
+      output: web, pdf
+      url: /fukuoka_latest.html
+      type: homepage
+    - title: 神奈川
+      output: web, pdf
+      url: /kanagawa_latest.html
+      type: homepage
+    - title: 埼玉
+      output: web, pdf
+      url: /saitama_latest.html
+      type: homepage
+  
+  - title: 参考資料
+    output: web, pdf
+    folderitems:
+    - title: 参考資料
+      url: /resources.html
+      output: web, pdf
+      type: homepage
+  
+  - title: 免責事項
+    output: web, pdf
+    folderitems:
+    - title: 免責事項
+      url: /disclaimer.html
+      output: web, pdf
+      type: homepage
+  
+  - title: その他の情報
+    output: web, pdf
+    folderitems:
+    - title: チーム
+      url: /team.html
+      output: web, pdf
+      type: homepage
+    # - title: 参考資料
+    #   url: /resources.html
+    #   output: web, pdf
+    #   type: homepage
+    - title: 改定履歴
+      url: /history.html
+      output: web, pdf
+      type: homepage
+    # - title: 免責事項
+    #   url: /disclaimer.html
+    #   output: web, pdf
+    #   type: homepage
+    - title: メディア紹介
+      url: /media.html
+      output: web, pdf
+      type: homepage
+  
+  - title: プロフィール
+    output: web, pdf
+    folderitems:
+    - title: プロフィール
+      url: /profile.html
+      output: web, pdf
+      type: homepage
+
+  - title: Zoom説明会の動画
+    output: web, pdf
+    folderitems:
+    - title: Zoom説明会の動画
+      url: /recording.html
+      output: web, pdf
+      type: homepage
