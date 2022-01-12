@@ -47,4 +47,5 @@ summary:
 - （11月22日）「8月の分科会「人流5割削減」提案からの教訓」・「人流と感染変化率の関係 （筑波大・倉橋教授）」[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/LobC-5rbev1mpsNz8ggHdy4tnWsTNnt_T9j5wo5jtTHRGblLVZ82tT73N5usKQAx.wFBKgewY1_pLGKRZ?startTime=1637566433000){:target="_blank" rel="noopener"}
 - （12月6日）コロナ死亡回避の経済価値ーコロナ死者数を一人減少させるために社会としてどのくらいの経済犠牲を受け入れるかー[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/xwyIs_Zw8RrYOt0QdFL9rIxTQnrFf72Mo037XxuEgpPPIlwSkZe2nnIEsZBYkdHc.HIJQ8QeXaxAEXDj6?startTime=1638774732000){:target="_blank" rel="noopener"}
 - （12月27日）「オミクロン株」、「2021年の感染シミュレーションの振り返り」[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/z1MmBBpICqQyjvSaWj76Jwoy9ycXFU00gR9fqeZ2wwh8c9oYLXOVC98DtTvk3uUt.VxD8HdCC9sp5JWbS?startTime=1640585891000){:target="_blank" rel="noopener"}
+- （1月11日）「第6波におけ重症化率・致死率」、「第6波におけ重症化率・致死率モニタリング」、「感染と経済の見通し」[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/nG62E9WYyugXsTNZYjF2CKMFOBmUZGykM8VF61hJk5HA355fo1wfbvgVHwFzPMcP.oqkj-26T-7jLH_in?startTime=1641873996000){:target="_blank" rel="noopener"}
 
