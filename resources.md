@@ -124,4 +124,5 @@ summary:
 -   （1月10日）第6波における重症化率・致死率モニタリング[[ここをクリック]](./files/NakataOkamoto_ICUDeathMonitoring_20220110.pdf){:target="_blank" rel="noopener"}
 -   （1月10日）コロナ感染と経済の見通し[[ここをクリック]](./files/MaedaNakata_Outlook_20220110.pdf){:target="_blank" rel="noopener"}
 -   （1月13日）過去の波における重症化率・致死率推定値の推移[[ここをクリック]](./files/NakataOkamoto_ICUDeathMonitoring_20220113.pdf){:target="_blank" rel="noopener"}
+-   （1月15日）第6波におけるコロナ政策の指針[[ここをクリック]](./files/Nakata_PolicyOptions_20210115.pdf){:target="_blank" rel="noopener"}
 
