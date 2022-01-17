@@ -23,6 +23,8 @@ summary:
 
 <iframe width="773" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGXY2Pw4_G8QvRtvQdBawgg5C-APbz9k9jJ7CykRr2aYnWXNLW6S3KAr3c3vcCV2dVP4ZjINkn0TIp/pubchart?oid=777397908&amp;format=interactive"></iframe>
 
+<iframe width="789" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGXY2Pw4_G8QvRtvQdBawgg5C-APbz9k9jJ7CykRr2aYnWXNLW6S3KAr3c3vcCV2dVP4ZjINkn0TIp/pubchart?oid=1554641816&amp;format=interactive"></iframe>
+
 出所: 著者達の計算による。<br>
 注1：計算の詳細に関しては参考資料ページにある「（1月11日）第6波における重症化率・致死率モニタリング」をご覧下さい。基本シナリオ・楽観シナリオ・悲観シナリオの詳細に関しては参考資料ページにある「（1月11日）第6波における重症化率・致死率モニタリング」をご覧下さい。<br>
 注2：重症化・死亡するのは発症日からある程度時間が経過してからの場合が多いため、波のピーク前の推定値は最終的な重症化率・致死率から大きく乖離する可能性があることに留意してください。詳しくは、参考資料「（1月13日）過去の波での重症化率・致死率推定値の推移」をご覧ください。
@@ -57,7 +59,7 @@ summary:
 
 出所: 著者達の計算による。<br>
 注1：計算の詳細に関しては参考資料ページにある「（1月11日）第6波における重症化率・致死率モニタリング」をご覧下さい。基本シナリオ・楽観シナリオ・悲観シナリオの詳細に関しては参考資料ページにある「（1月11日）第6波における重症化率・致死率モニタリング」をご覧下さい。<br>
-注2：重症化・死亡するのは発症日からある程度時間が経過してからの場合が多いため、波の初期の試算は最終的な数字よりも低いことに留意してください。   
+注2：重症化・死亡するのは発症日からある程度時間が経過してからの場合が多いため、波のピーク前の推定値は最終的な重症化率・致死率から大きく乖離する可能性があることに留意してください。詳しくは、参考資料「（1月13日）過去の波での重症化率・致死率推定値の推移」をご覧ください。   
 
 ### 【参考】過去の波における推定値の推移
 
@@ -70,9 +72,9 @@ summary:
 
 ** 毎日夜9時更新
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGXY2Pw4_G8QvRtvQdBawgg5C-APbz9k9jJ7CykRr2aYnWXNLW6S3KAr3c3vcCV2dVP4ZjINkn0TIp/pubchart?oid=1945947384&amp;format=interactive"></iframe>
-
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGXY2Pw4_G8QvRtvQdBawgg5C-APbz9k9jJ7CykRr2aYnWXNLW6S3KAr3c3vcCV2dVP4ZjINkn0TIp/pubchart?oid=370568328&amp;format=interactive"></iframe>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGXY2Pw4_G8QvRtvQdBawgg5C-APbz9k9jJ7CykRr2aYnWXNLW6S3KAr3c3vcCV2dVP4ZjINkn0TIp/pubchart?oid=1945947384&amp;format=interactive"></iframe>
 
 出所: 著者達の計算による。<br>
 注1：計算の詳細に関しては参考資料ページにある「（1月11日）第6波における重症化率・致死率モニタリング」をご覧下さい。基本シナリオ・楽観シナリオ・悲観シナリオの詳細に関しては参考資料ページにある「（1月11日）第6波における重症化率・致死率モニタリング」をご覧下さい。<br>
