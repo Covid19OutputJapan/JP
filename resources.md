@@ -126,4 +126,5 @@ summary:
 -   （1月13日）過去の波における重症化率・致死率推定値の推移[[ここをクリック]](./files/NakataOkamoto_ICUDeathMonitoring_20220113.pdf){:target="_blank" rel="noopener"}
 -   （1月15日）第6波におけるコロナ政策の指針[[ここをクリック]](./files/Nakata_PolicyOptions_20210115.pdf){:target="_blank" rel="noopener"}
 -   （1月18日）コロナ感染と経済の見通し[[ここをクリック]](./files/KawawakiMaedaNakata_Outlook_20220118.pdf){:target="_blank" rel="noopener"}
+-   （1月18日）緊急事態宣言に伴う経済活動の停滞[[ここをクリック]](./files/NakataSunakawa_SOE_20210118.pdf){:target="_blank" rel="noopener"}
 
