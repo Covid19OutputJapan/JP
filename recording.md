@@ -49,4 +49,6 @@ summary:
 - （12月27日）「オミクロン株」、「2021年の感染シミュレーションの振り返り」[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/z1MmBBpICqQyjvSaWj76Jwoy9ycXFU00gR9fqeZ2wwh8c9oYLXOVC98DtTvk3uUt.VxD8HdCC9sp5JWbS?startTime=1640585891000){:target="_blank" rel="noopener"}
 - （1月11日）「第6波における重症化率・致死率」、「第6波における重症化率・致死率モニタリング」、「感染と経済の見通し」[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/nG62E9WYyugXsTNZYjF2CKMFOBmUZGykM8VF61hJk5HA355fo1wfbvgVHwFzPMcP.oqkj-26T-7jLH_in?startTime=1641873996000){:target="_blank" rel="noopener"}
 - （1月15日）第6波におけるコロナ政策の指針[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/yEdQrC7lSwzOPX9brTLnpu5r3gkzHnZ2K-sU8FKPAgBzEElOcv7a0IVMhm2wcWo0.JqH_lTThpAkhiU4A?startTime=1642229489000){:target="_blank" rel="noopener"}
+- （1月18日）「濃厚接触者隔離に関する分析」 by 千葉安佐子（東京財団）、畝身達夫（創価大）・「緊急事態宣言に伴う経済の停滞」、「今後の見通し」 by　仲田泰祐、平田晃正（名古屋工業大）[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/kvOAqJEA6IM381Fk3ChduJN5SRbwxHp8uSRvuuT27NhvM7lXxHVrBcPtPhIZD8w.YkX1f6t1BX-k-rKb?startTime=1642487959000){:target="_blank" rel="noopener"}
+- （1月22日）「第6波におけるコロナ政策の指針：理論的背景」、「行動制限政策の感染抑制効果：これまでの知見の整理」[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/RU7g-ujYODjKpnw6BU78KNlYNMxWPNZ7Bn9hSB4W3H9ZVBIQHa7hfcQag3lUz9OG.SqYcPu_QjFlaMmPS?startTime=1642841552000){:target="_blank" rel="noopener"}
 

@@ -127,4 +127,6 @@ summary:
 -   （1月15日）第6波におけるコロナ政策の指針[[ここをクリック]](./files/Nakata_PolicyOptions_20210115.pdf){:target="_blank" rel="noopener"}
 -   （1月18日）コロナ感染と経済の見通し[[ここをクリック]](./files/KawawakiMaedaNakata_Outlook_20220118.pdf){:target="_blank" rel="noopener"}
 -   （1月18日）緊急事態宣言に伴う経済活動の停滞[[ここをクリック]](./files/NakataSunakawa_SOE_20210118.pdf){:target="_blank" rel="noopener"}
+- （1月22日）「第6波におけるコロナ政策の指針：理論的背景」[[ここをクリック]](./files/Nakata_PolicyOptionsTheory_20210122.pdf){:target="_blank" rel="noopener"}
+- （1月22日）「行動制限政策の感染抑制効果：これまでの知見の整理」[[ここをクリック]](./files/Nakata_PolicyOptionsEmpirics_20210122.pdf){:target="_blank" rel="noopener"}
 
