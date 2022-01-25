@@ -36,7 +36,7 @@ summary:
 注：シナリオの詳細は「（1月25日）「コロナ感染と経済の見通し：入院基準厳格化の影響」」を参照
 
 
-### B. 1月末20,000人
+### B. 1月末10,000人
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Baseline\MainResults_楽観_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_楽観_JP.png)|
@@ -47,7 +47,7 @@ summary:
 
 注：シナリオの詳細は「（1月25日）「コロナ感染と経済の見通し：入院基準厳格化の影響」」を参照
 
-### C.  1月末10,000人
+### C.  1月末20,000人
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Baseline\MainResults_悲観_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_悲観_JP.png)|
