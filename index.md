@@ -14,7 +14,7 @@ summary:
 
 {% include link_to_code.html %}
 
-{% include note.html content="「コロナ感染と経済活動」最新分析のZoom解説と質疑応答。1月25日（火）午後4時から。ミーティングID: 857 0917 4188 。パスコード: 434588。一般の方々も歓迎です。"%}
+{% include note.html content="「コロナ感染と経済活動」最新分析のZoom解説と質疑応答。1月25日（火）午後3時から。ミーティングID: 857 0917 4188 。パスコード: 434588。一般の方々も歓迎です。"%}
 [[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/j/85709174188?pwd=cm5pTjJ0ZU9nelpWUkU3N2tyOGZLZz09){:target="_blank" rel="noopener"}
 
 {% include note.html content="人々の行動・政府の政策を含め、今後の見通しを左右する様々な要素には大きな不確実性が存在します。注に書いてあるモデルの仮定をきちんと理解しつつ分析結果を参考にしてください。"%}
