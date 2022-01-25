@@ -33,7 +33,7 @@ summary:
 
 ### 【参考】過去の波における推定値の推移
 
-![img][https://drive.google.com/uc?export=view&id=15DsN2yNawWWNMZ3QPbkHxh2UZsvZ1KTI]
+![img](https://drive.google.com/uc?export=view&id=15DsN2yNawWWNMZ3QPbkHxh2UZsvZ1KTI)
 
 出所: 著者達の計算による。<br>
 注1：過去の波においては重症化率推定値の収束に最低でも40日は必要でしたが、この傾向が第六波でも続くという保証はないことに注意してください。<br>
@@ -63,7 +63,7 @@ summary:
 
 ### 【参考】過去の波における推定値の推移
 
-![img][https://drive.google.com/uc?export=view&id=1pjW1b7IHWD72HueXHI0W1otFV9kd1xzV]
+![img](https://drive.google.com/uc?export=view&id=1pjW1b7IHWD72HueXHI0W1otFV9kd1xzV)
 
 出所: 著者達の計算による。<br>
 注1：過去の波においては致死率推定値の収束に最低でも70日は必要でしたが、この傾向が第六波でも続くという保証はないことに注意してください。
