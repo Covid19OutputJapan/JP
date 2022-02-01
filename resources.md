@@ -130,5 +130,6 @@ summary:
 - （1月22日）「第6波におけるコロナ政策の指針：理論的背景」[[ここをクリック]](./files/Nakata_PolicyOptionsTheory_20210122.pdf){:target="_blank" rel="noopener"}
 - （1月22日）「行動制限政策の感染抑制効果：これまでの知見の整理」[[ここをクリック]](./files/Nakata_PolicyOptionsEmpirics_20210122.pdf){:target="_blank" rel="noopener"}
 - （1月25日）「コロナ感染と経済の見通し：入院基準厳格化の影響」[[ここをクリック]](./files/KawawakiMaedaNakata_Outlook_20220125.pdf){:target="_blank" rel="noopener"}
+- （1月31日）第6波における重症化率・致死率：PCR検査数制約の影響[[ここをクリック]](./files/NakataOkamoto_ICUDeath_20220131.pdf){:target="_blank" rel="noopener"}
 
 
