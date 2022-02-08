@@ -7,10 +7,10 @@ permalink: tokyo_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20220125/Figures/" %}
+{% assign fig_loc = "./archives/20220208/Figures/" %}
 
-## 最終アップデート：2022年1月25日
-** 1月23日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2022年2月8日
+** 2月6日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -20,36 +20,39 @@ summary:
 
 
 
-### A．1月末15,000人
+### A．2月第3週から新規陽性者数減少開始
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_基本_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_基本_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_B_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_A_JP.png)|
 
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Baseline.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注：シナリオの詳細は「（1月25日）「コロナ感染と経済の見通し：入院基準厳格化の影響」」を参照
+注：シナリオの詳細は「（2月8日）「コロナ感染と経済の見通し：入院基準厳格化の影響」」を参照
 
-### B. 1月末10,000人
+
+### B. 3月第1週から新規陽性者数減少開始
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_楽観_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_楽観_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_B_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_B_JP.png)|
 
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Optimistic.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注：シナリオの詳細は「（1月25日）「コロナ感染と経済の見通し：入院基準厳格化の影響」」を参照
+注：シナリオの詳細は「（2月8日）「コロナ感染と経済の見通し：入院基準厳格化の影響」」を参照
 
-### C.  1月末20,000人
+### C.  3月第3週から新規陽性者数減少開始
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_悲観_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_悲観_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_C_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_C_JP.png)|
 
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Pessimistic.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注：シナリオの詳細は「（1月25日）「コロナ感染と経済の見通し：入院基準厳格化の影響」」を参照
+注：シナリオの詳細は「（2月8日）「コロナ感染と経済の見通し：入院基準厳格化の影響」」を参照
+
+
 
