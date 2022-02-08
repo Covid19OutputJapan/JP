@@ -23,7 +23,7 @@ summary:
 ### A．2月第3週から新規陽性者数減少開始
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_B_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_A_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_A_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_A_JP.png)|
 
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Baseline.xls)からダウンロードしてください。
 
