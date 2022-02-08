@@ -25,7 +25,7 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_A_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_A_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Baseline.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Reduction of New Cases from the 3rd Week of Feb onward.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
@@ -37,7 +37,7 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_B_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_B_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Optimistic.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Reduction of New Cases from the 1st Week of Mar onward.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
@@ -48,7 +48,7 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_C_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_C_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Pessimistic.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Reduction of New Cases from the 3rd Week of Mar onward.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
