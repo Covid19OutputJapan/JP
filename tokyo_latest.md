@@ -7,10 +7,10 @@ permalink: tokyo_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20220208/Figures/" %}
+{% assign fig_loc = "./archives/20220215/Figures/" %}
 
-## 最終アップデート：2022年2月8日
-** 2月6日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2022年2月15日
+** 2月13日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -20,39 +20,39 @@ summary:
 
 
 
-### A．2月第3週から新規陽性者数減少開始
+### A．基本再生産数 2.5
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_A_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_A_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Reduction of New Cases from the 3rd Week of Feb onward.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 2.5.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注：シナリオの詳細は「（2月8日）東京都における重症患者数（新基準）の見通し」を参照
+注：シナリオの詳細は「（2月15日）コロナ感染と経済の見通し」を参照
 
 
-### B. 3月第1週から新規陽性者数減少開始
+### B. 基本再生産数 2.0
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_B_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_B_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Reduction of New Cases from the 1st Week of Mar onward.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 2.0.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注：シナリオの詳細は「（2月8日）東京都における重症患者数（新基準）の見通し」を参照
+注：シナリオの詳細は「（2月15日）コロナ感染と経済の見通し」を参照
 
-### C.  3月第3週から新規陽性者数減少開始
+### C.  基本再生産数 1.5
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_C_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_C_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Reduction of New Cases from the 3rd Week of Mar onward.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 1.5.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注：シナリオの詳細は「（2月8日）東京都における重症患者数（新基準）の見通し」を参照
+注：シナリオの詳細は「（2月15日）コロナ感染と経済の見通し」を参照
 
 
 

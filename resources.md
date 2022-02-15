@@ -135,5 +135,8 @@ summary:
 - （2月8日）コロナ禍における婚姻[[ここをクリック]](./files/ChibaNakata_Marriage_20220208.pdf){:target="_blank" rel="noopener"}
 - （2月8日）コロナ禍における出生[[ここをクリック]](./files/ChibaNakata_Birth_20220208.pdf){:target="_blank" rel="noopener"}
 - （2月8日）東京都における重症患者数（新基準）の見通し[[ここをクリック]](./files/MaedaNakata_Outlook_20220208.pdf){:target="_blank" rel="noopener"}
+- （2月14日）Balancing NPIs and economic activities[[ここをクリック]](./files/Nakata_Main_20220214.pdf){:target="_blank" rel="noopener"}
+- （2月15日）コロナ感染と経済の見通し[[ここをクリック]](./files/MaedaNakata_Outlook_20220215.pdf){:target="_blank" rel="noopener"}
+- （2月15日）保育園の休園数の推計（千葉安佐子・岡本亘）[[ここをクリック]](./files/ChibaOkamoto_Nursery_20220215.pdf){:target="_blank" rel="noopener"}
 
 
