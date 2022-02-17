@@ -51,4 +51,7 @@ summary:
 - （1月15日）第6波におけるコロナ政策の指針[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/yEdQrC7lSwzOPX9brTLnpu5r3gkzHnZ2K-sU8FKPAgBzEElOcv7a0IVMhm2wcWo0.JqH_lTThpAkhiU4A?startTime=1642229489000){:target="_blank" rel="noopener"}
 - （1月18日）「濃厚接触者隔離に関する分析」 by 千葉安佐子（東京財団）、畝身達夫（創価大）・「緊急事態宣言に伴う経済の停滞」、「今後の見通し」 by　仲田泰祐、平田晃正（名古屋工業大）[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/kvOAqJEA6IM381Fk3ChduJN5SRbwxHp8uSRvuuT27NhvM7lXxHVrBcPtPhIZD8w.YkX1f6t1BX-k-rKb?startTime=1642487959000){:target="_blank" rel="noopener"}
 - （1月22日）「第6波におけるコロナ政策の指針：理論的背景」、「行動制限政策の感染抑制効果：これまでの知見の整理」[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/RU7g-ujYODjKpnw6BU78KNlYNMxWPNZ7Bn9hSB4W3H9ZVBIQHa7hfcQag3lUz9OG.SqYcPu_QjFlaMmPS?startTime=1642841552000){:target="_blank" rel="noopener"}
+- （1月25日）「第6波における重症化率：PCR検査数制約の影響」、「今後の見通し（名古屋工業大学・平田晃正）」[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/y5Hw4nO6rhaXZ-S6sI9kqnTBekiU0FO6aqQNxL4Wv0Ayk6bMAyO4IVtKgLJlPrYe.3GRfRvMUZlFKg-R7?startTime=1643696879000){:target="_blank" rel="noopener"}
+- （2月8日）「コロナ禍における子供の超過自殺」、「コロナ禍の婚姻」、「コロナ禍の出生」、「今後の見通し」[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/5PZN73WVLQ6ZFOXJEgxW8XpNW03BDFC6r3oxQNfg3omsisFs3FRikBtIfRebOZQp.IGWiMprsht4GvhUk?startTime=1644299817000){:target="_blank" rel="noopener"}
+- （2月15日）「保育園休園数の推定（東京財団・千葉安佐子）」、「今後の見通し」、「新聞メディアはCOVID-19 をどう報じたか？―全国紙における「接触8 割減」の内容分析―（関西大学・菅原慎悦）」[[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/rec/share/lLRPp21ETQ9t4f-GLjCCqLaka8AxlMTZPNymN2NWD7Flap6vvxghu3W2IbjqoOzq.d6e2BFoo6RBqwHoJ?startTime=1644905748000){:target="_blank" rel="noopener"}
 
