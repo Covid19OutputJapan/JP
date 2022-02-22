@@ -30,30 +30,30 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Baseline\MainResults_Scenario_A_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_A_JP.png)|
 
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 3.0.xls)からダウンロードしてください。
+
+出所: 著者達の計算による。<br>
+
+注：シナリオの詳細は「（2月22日）コロナ感染と経済の見通し」を参照
+
+
+### ケースB：基本再生産数 2.5
+
+{: align="center"}
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Baseline\MainResults_Scenario_B_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_B_JP.png)|
+
 この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 2.5.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
 注：シナリオの詳細は「（2月22日）コロナ感染と経済の見通し」を参照
 
-
-### ケースB：基本再生産数 2.0
-
-{: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Baseline\MainResults_Scenario_B_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_B_JP.png)|
-
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 2.0.xls)からダウンロードしてください。
-
-出所: 著者達の計算による。<br>
-
-注：シナリオの詳細は「（2月22日）コロナ感染と経済の見通し」を参照
-
-### ケースC：基本再生産数 1.5
+### ケースC：基本再生産数 2.0
 
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo\Baseline\MainResults_Scenario_C_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_C_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 1.5.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 2.0.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
