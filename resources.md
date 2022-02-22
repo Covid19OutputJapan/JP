@@ -139,5 +139,6 @@ summary:
 - （2月15日）コロナ感染と経済の見通し[[ここをクリック]](./files/MaedaNakata_Outlook_20220215.pdf){:target="_blank" rel="noopener"}
 - （2月15日）保育園の休園数の推計（千葉安佐子・岡本亘）[[ここをクリック]](./files/ChibaOkamoto_Nursery_20220215.pdf){:target="_blank" rel="noopener"}
 - （2月15日）新聞メディアはCOVID-19 をどう報じたか？―全国紙における「接触8 割減」の内容分析―（関西大学・菅原慎悦）[[ここをクリック]](./files/Sugawara_20220215.pdf){:target="_blank" rel="noopener"}
+- （2月22日）コロナ感染と経済の見通し[[ここをクリック]](./files/MaedaNakata_Outlook_20220222.pdf){:target="_blank" rel="noopener"}
 
 
