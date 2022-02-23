@@ -25,7 +25,7 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_A_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_A_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 3.0.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 3.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
@@ -48,7 +48,7 @@ summary:
 {: align="center"}
 |[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_C_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_C_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 2.0.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 2.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 

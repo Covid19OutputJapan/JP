@@ -1,11 +1,11 @@
 % This m-file executes simulation and generates figures for the  analysis of 
 % the spread of Covid-19 in Tokyo shown at https://covid19outputjapan.github.io
-clear variables; % close all
+clear variables;  close all
 tic;
 if ispc == 1
-    home        = '\Users\masam\Dropbox\fujii_nakata\Website\Codes\';
-    data_path   = '\Users\masam\Dropbox\fujii_nakata\Website\Codes\data\';
-    figure_path = '\Users\masam\Dropbox\fujii_nakata\Website\Codes\Figures\';
+    home        = 'C:\Users\mogura\Downloads\20220222\';
+    data_path   = 'C:\Users\mogura\Downloads\20220222\Data\';
+    figure_path = 'C:\Users\mogura\Downloads\20220222\Figures\';
     fn          = 'Yu Gothic'; % Font style for xaxis, yaxis, title
 elseif ismac == 1
     home        = '/Users/ymaeda/Dropbox/fujii_nakata/Website/Codes/'; %include \ or / at the end
@@ -18,7 +18,7 @@ cd(home);
 pref = 'Tokyo';
 prefGDP = 106; %Cho-yen; Trillion yen
 figure_save = 0; % 0 = figures won't be saved, 1 = they will be saved
-data_save = 0; % save back data
+data_save = 1; % save back data
 data_switch = 0; % Use I_data and gamma = mean(gamma_data(end-17+1:end))
 
 fs = 12; % common font size for many figures
@@ -142,7 +142,7 @@ VT(2,5) = V1_others(end-1);
 VT(3,5) = V1_others(end);
 
 thirdVtable = readtable([data_path 'tokyo_3rd_vaccination.csv']);
-e_share     = thirdVtable.elderly_3rd_dose_rate;
+e_share     = thirdVtable.elderly_rate_of_third_dose(end);
 V3_elderly  = V3_total * e_share;
 V3_medical  = V3_total * (1-e_share);
 V3_others  = zeros(Tdata,1);
@@ -278,6 +278,11 @@ past_omicron_share(find(dateEN == datetime(2022, 1, 27)):Tdata) = 1.00;
 %%%%%%%%%%%%%%%%%%%%%%% Simulaiton starts here %%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %=========== simulation setting =============%
+Sim_BA2_share = variant_share_two_target(ind_Apr2022(1), ind_Apr2022(end), 0.05, 0.8, 1, SimPeriod);
+BA2_relative_infectivity = 1.2;
+BA2_infectivity_path = (1-Sim_BA2_share)  * 1 + Sim_BA2_share * BA2_relative_infectivity;
+BA2_share       = [zeros(Tdata, 1); Sim_BA2_share];
+
 SoE_date            = SimPeriod+1;  %End of Feb., First wekk of Mar., Second week of Mar
 alpha_Aug           = mean(alpha((dateEN >= datetime(2021, 8, 05)) & (datetime(2021, 8, 26) >= dateEN)));
 alpha_Oct2021       = mean(alpha((dateEN >= datetime(2021, 10, 07)) & (datetime(2021, 10, 28) >= dateEN)));
@@ -315,31 +320,34 @@ omicron_realtive_hospitalized_rate  = omicron_realtive_severity;
 
 % Simulation parameters for loop
 %iX
-ori_beta_goal_vec = [1.46,1.17,0.88];
+%ori_beta_goal_vec = [1.46,1.17,0.88];
+ori_BRN_goal_vec = [3, 2.5, 2.0];
+ori_beta_goal_vec = ori_BRN_goal_vec .* (gamma + 5.1611e-04);
 omicron_relative_infectivity = 1.0;%1.2 
 
 betaT_temp_ini_vec = [0, 0, 0];   
 betaT_rho_vec      = [0.99, 0.99, 0.99];
 
 %iY
-delta_temp_ini_vec = [-0.4,-0.4,-0.4];
-delta_rho_vec = [0.95,0.95,0.84];
+delta_temp_ini_vec = [0,-0.1,-0.1];
+delta_rho_vec = [0.95,0.95,0.5];
 
 delta_ICU_nation_temp_ini_vec = [-0.25,-0.25,-0.25]; %[0.9,0.9,3.0];
-delta_ICU_pref_temp_ini_vec = [-0.4,-0.4,-0.4]; %[0,0,2.0];
+delta_ICU_pref_temp_ini_vec = [-0.3,-0.3,-0.3]; %[0,0,2.0];
 
 delta_newICU_pref_temp_ini_vec = [-0.5,-0.5,-0.5]; %[0,0,2.0];
 delta_Hospital_temp_ini_vec = [0,0,0]; %[2.5,2.5,8.0];
 
 severity_nation_standard_vector = [1, 0.6, 0.3];
-severity_new_pref_standard_vector = [1.25, 1.0, 0.75];
+target_relative_severity = [0.3, 0.25, 0.2] ;
+severity_new_pref_standard_vector = target_relative_severity / omicron_realtive_severity;
 hospitalization_standard_vector = ones(3,1);% [1, 0.4, 0.2];
 
 %iX
 omicron_E2_vector = 0.5;%[1, 0.6, 0.2]; %Relative
 
-xvec = betaT_temp_ini_vec;
-yvec = severity_new_pref_standard_vector;
+xvec = ori_BRN_goal_vec;
+yvec = target_relative_severity;
 zvec = omicron_E2_vector;
 nX = length(xvec);
 nY = length(yvec);
@@ -349,21 +357,29 @@ nZ = length(zvec);
 figfolder           = string(['Baseline']); % Directory for saved figures
 titlevec            = {'Scenario', 'シナリオ'};
 figname_xvar        = '_relative_severity_';
-Scenario            = ["基本再生産数2.5"; "基本再生産数2.0"; "基本再生産数1.5"];
-ScenarioEN          = [ "Basic Reproduction Number = 2.5"; ...
-                        "Basic Reproduction Number = 2.0"; ...
-                        "Basic Reproduction Number = 1.5"];
+
+Scenario = cell(nX,1);
+ScenarioEN = cell(nX,1);
+for iX = 1:nX
+    Scenario{iX}            = ['基本再生産数 = ',num2str(xvec(iX))];
+    ScenarioEN{iX}          = ['Basic Reproduction Number = ',num2str(xvec(iX))];
+end
+
 Scenario_vec        = [ScenarioEN,Scenario];
 fig_Scenario_vec    = ["Scenario_A", "Scenario_B", "Scenario_C"];
 linecolor           = {"r", "k", "b"};
 LineStyles          = {"-", "-", "-"};
 lineWidth           = [1.5, 1.5, 1.5];
 markertype          = {'o','o','o'};
-lineNameJP          = {"第5波の重症化率の25%", "第5波の重症化率の20%", "第5波の重症化率の15%"};
-lineNameEN          = {"Severity Rate 25% (Relatieve to the 5th Wave)", ...
-                       "Severity Rate 20% (Relatieve to the 5th Wave)", ...
-                       "Severity Rate 15% (Relatieve to the 5th Wave)"};
-xmax                = find(date == datetime(2022, 4, 28));
+
+lineNameJP = cell(nY,1);
+lineNameEN = cell(nY,1);
+for iY = 1:nY
+    lineNameJP{iY}          = ['第5波の重症化率の',num2str(yvec(iY)*100),'%'];
+    lineNameEN{iY}          = ['Severity Rate ',num2str(yvec(iY)*100),'% (Relatieve to the 5th Wave)'];
+end
+
+xmax                = ind_May2022(end) + Tdata;
 xmin                = find(date == datetime(2021, 7, 1));
 column_num_main     = nZ;
 
@@ -438,11 +454,13 @@ for iX = 1:nX %different figures
             V = [VE_prev(end-1);VE_prev(end);VE(1:end-2)];
             
             %Construct betapath
-            beta_goal   = ori_beta_goal;
-            beta_goal   = beta_goal * omicron_relative_infectivity;
-            betaT       = beta_goal .* transpose(seasonality(1:SimPeriod));
+            %Add Influence of BA.1, BA.2, and Seasonality 
+            beta_goal   = ori_beta_goal;        
+            betaT       = beta_goal* omicron_relative_infectivity...
+                                  .* BA2_infectivity_path...
+                                  .* transpose(seasonality(1:SimPeriod));
             
-            betaT               = beta_AR1(betaT_temp_ini, beta_rho, betaT, start_beta);  %2021/12/23 kawawaki
+            betaT       = beta_AR1(betaT_temp_ini, beta_rho, betaT, start_beta);  %2021/12/23 kawawaki
             betaBox     = [beta; betaT];
             
             %Construct alphapath
@@ -530,12 +548,12 @@ for ixx = 1:nX
     end
 end
 
-disp('Pessimistic')
-disp(round(squeeze(NPath(3,1,1,1)/7)'))
-disp('Baseline')
-disp(round(squeeze(NPath(3,2,1,1)/7)'))
-disp('Optimistic')
-disp(round(squeeze(NPath(3,3,1,1)/7)'))
+% disp('Pessimistic')
+% disp(round(squeeze(NPath(3,1,1,1)/7)'))
+% disp('Baseline')
+% disp(round(squeeze(NPath(3,2,1,1)/7)'))
+% disp('Optimistic')
+% disp(round(squeeze(NPath(3,3,1,1)/7)'))
 
 % %==================== Plot and Backdata ====================%
 
@@ -716,9 +734,9 @@ for l = 1:2 %1:2 when english version needed
         %         subplot(3, 3, 9)
         
         nexttile
-        title_vec = ["Transition of the Share of Omicron Variant, ", "オミクロン株割合の推移, "];
+        title_vec = ["Transition of the Share of Omicron Variant(BA.2 sub-lineage), ", "オミクロン株BA.2系統割合の推移, "];
         
-        plot(omicron_share)
+        plot(BA2_share)
         hold on
         xline(Tdata,'LineWidth',1.5,'HandleVisibility','off');
         xlim([xmin xmax])
@@ -828,34 +846,64 @@ for iX = 1:nX
 end
 %%
 if data_save == 1
+%     for iX = 1:nX
+%         titleN = strings(1, 1 + nZ * 9);
+%         titleN(1) = "週";
+%         for ti = 1:nZ
+%             titleN(1, 1 + ti) = append("新規感染者数（", Scenario(iX), "）");
+%             titleN(1, 1 + nZ + ti) = append("経済活動（", Scenario(iX), "）");
+%             titleN(1, 1 + nZ * 2 + ti) = append("実効再生産数（", Scenario(iX), "）");
+%             titleN(1, 1 + nZ * 3 + ti) = append("基本再生産数（", Scenario(iX), "）");
+%             titleN(1, 1 + nZ * 4 + ti) = append("入院患者数（", Scenario(iX), "）");
+%             titleN(1, 1 + nZ * 5 + ti) = append("重症者数_国基準（", Scenario(iX), "）");
+%             titleN(1, 1 + nZ * 6 + ti) = append("重症者数_旧都基準（", Scenario(iX), "）");
+%             titleN(1, 1 + nZ * 7 + ti) = append("重症者数_新都基準（", Scenario(iX), "）");
+%             titleN(1, 1 + nZ * 7 + ti) = append("重症者数_新都基準（", Scenario(iX), "）");
+%             titleN(1, 1 + nZ * 7 + ti) = append("重症者数_新都基準（", Scenario(iX), "）");
+%             titleN(1, 1 + nZ * 8 + ti) = append("新規死亡者数（", Scenario(iX), "）");
+%         end
+%         TN = table([
+%             titleN;
+%             YearMonthWeekJP(Tdata - 7:end - 1), ...
+%             squeeze(round(BackDataN(:, iX, iY, :) / 7)), ...
+%             squeeze(round(100 * (1 - BackDataAlpha(:, iX, iY, :)), 1)), ...
+%             squeeze(round(BackDataERN(:, iX, iY, :), 2)), ...
+%             squeeze(round(BackDataBRN(:, iX, iY, :), 2)), ...
+%             squeeze(round(BackDataHospital(:, iX, iY, :))), ...
+%             squeeze(round(BackDataICU_nation(:, iX, iY, :))), ...
+%             squeeze(round(BackDataICU_pref(:, iX, iY, :))), ...
+%             squeeze(round(BackDataNewICU_pref(:, iX, iY, :))), ...
+%             squeeze(round(BackDatadD(:, iX, iY, :) / 7))
+%             ]);
+%         writetable(TN, [figure_path char(pref) '\' char(figfolder) '\BackData_' char(figname_main) '_' char(ScenarioEN(iX)) '.xls'], 'Sheet', '新規感染者数（1日平均）', 'WriteVariableNames', false);
+%     end
     for iX = 1:nX
-        titleN = strings(1, 1 + nZ * 9);
+        titleN = strings(1, 11);
         titleN(1) = "週";
-        for ti = 1:nZ
-            titleN(1, 1 + ti) = append("新規感染者数（", Scenario(ti), "）");
-            titleN(1, 1 + nZ + ti) = append("経済活動（", Scenario(ti), "）");
-            titleN(1, 1 + nZ * 2 + ti) = append("実効再生産数（", Scenario(ti), "）");
-            titleN(1, 1 + nZ * 3 + ti) = append("基本再生産数（", Scenario(ti), "）");
-            titleN(1, 1 + nZ * 4 + ti) = append("入院患者数（", Scenario(ti), "）");
-            titleN(1, 1 + nZ * 5 + ti) = append("重症者数_国基準（", Scenario(ti), "）");
-            titleN(1, 1 + nZ * 6 + ti) = append("重症者数_旧都基準（", Scenario(ti), "）");
-            titleN(1, 1 + nZ * 7 + ti) = append("重症者数_新都基準（", Scenario(ti), "）");
-            titleN(1, 1 + nZ * 8 + ti) = append("新規死亡者数（", Scenario(ti), "）");
-        end
+        titleN(1, 2) = "新規感染者数";
+        titleN(1, 3) = "経済活動";
+        titleN(1, 4) = "実効再生産数";
+        titleN(1, 5) = "基本再生産数";
+        titleN(1, 6) = "入院患者数";
+        titleN(1, 7) = "重症者数_旧都基準";
+        titleN(1, 8) = append("重症者数_新都基準（", lineNameJP{1}, "）");
+        titleN(1, 9) = append("重症者数_新都基準（", lineNameJP{2}, "）");
+        titleN(1, 10)= append("重症者数_新都基準（", lineNameJP{3}, "）");
+        titleN(1, 11)= "新規死亡者数";
+        
         TN = table([
             titleN;
             YearMonthWeekJP(Tdata - 7:end - 1), ...
-            squeeze(round(BackDataN(:, iX, iY, :) / 7)), ...
-            squeeze(round(100 * (1 - BackDataAlpha(:, iX, iY, :)), 1)), ...
-            squeeze(round(BackDataERN(:, iX, iY, :), 2)), ...
-            squeeze(round(BackDataBRN(:, iX, iY, :), 2)), ...
-            squeeze(round(BackDataHospital(:, iX, iY, :))), ...
-            squeeze(round(BackDataICU_nation(:, iX, iY, :))), ...
-            squeeze(round(BackDataICU_pref(:, iX, iY, :))), ...
-            squeeze(round(BackDataNewICU_pref(:, iX, iY, :))), ...
-            squeeze(round(BackDatadD(:, iX, iY, :) / 7))
+            squeeze(round(BackDataN(:, iX, 2, 1) / 7)), ...
+            squeeze(round(100 * (1 - BackDataAlpha(:, iX, 2, 1)), 1)), ...
+            squeeze(round(BackDataERN(:, iX, 2, 1), 2)), ...
+            squeeze(round(BackDataBRN(:, iX, 2, 1), 2)), ...
+            squeeze(round(BackDataHospital(:, iX, 2, 1))), ...
+            squeeze(round(BackDataICU_pref(:, iX, 2, 1))), ...
+            squeeze(round(BackDataNewICU_pref(:, iX, :, 1))), ...
+            squeeze(round(BackDatadD(:, iX, 2, 1) / 7))
             ]);
-        writetable(TN, [figure_path char(pref) '/' char(figfolder) '/BackData_' char(figname_main) '_' char(ScenarioEN(iX)) '.xls'], 'Sheet', '新規感染者数（1日平均）', 'WriteVariableNames', false);
+        writetable(TN, [home 'Figures/' char(pref) '/' char(figfolder) '/BackData_' char(figname_main) '_' char(ScenarioEN(iX)) '.xls'], 'Sheet', '新規感染者数（1日平均）', 'WriteVariableNames', false);
     end
 end
 

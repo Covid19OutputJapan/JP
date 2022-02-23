@@ -17,8 +17,8 @@ LineStyles_param = ...
 
 for iX = 1:nX
     for iY = 1:nY
-        lineName_param(iX,iY,2) = [num2str(Scenario(iX)), 'シナリオ, ', char(lineNameJP{iY})];
-        lineName_param(iX,iY,1) = [num2str(ScenarioEN(iX)), 'Scenario, ', char(lineNameEN{iY})];
+        lineName_param(iX,iY,2) = [Scenario{iX}, char(lineNameJP{iY})];
+        lineName_param(iX,iY,1) = [ScenarioEN{iX}, char(lineNameEN{iY})];
     end
 end
 

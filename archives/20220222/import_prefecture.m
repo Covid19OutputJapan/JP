@@ -133,7 +133,7 @@ Hospital_limit_vec(find(dateEN == datetime(2022,2,3)):find(dateEN == datetime(20
 Hospital_limit_vec(find(dateEN == datetime(2022,2,10)):Tdata) = 6529;
 
 newICU_limit_pref_vec = zeros(Tdata,1);
-newICU_limit_pref_vec(1: find(dateEN == datetime(2022,2,10)) ) = 750;
+newICU_limit_pref_vec(1: Tdata) = 750;
 
 % Data Source: https://www.bousai.metro.tokyo.lg.jp/taisaku/saigai/1013388/index.html 
 % 02　感染状況・医療提供体制の分析
