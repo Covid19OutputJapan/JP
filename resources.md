@@ -141,5 +141,8 @@ summary:
 - （2月15日）新聞メディアはCOVID-19 をどう報じたか？―全国紙における「接触8 割減」の内容分析―（関西大学・菅原慎悦）[[ここをクリック]](./files/Sugawara_20220215.pdf){:target="_blank" rel="noopener"}
 - （2月22日）コロナ感染と経済の見通し[[ここをクリック]](./files/MaedaNakata_Outlook_20220222.pdf){:target="_blank" rel="noopener"}
 - （2月22日）学校閉鎖・休校数の分析（千葉安佐子・岡本亘）[[ここをクリック]](./files/ChibaOkamoto_SchoolClosure_20220222.pdf){:target="_blank" rel="noopener"}
+- （3月1日）子供の感染と親の就労（東京財団・千葉安佐子）[[ここをクリック]](./files/children_Chiba_20220301.pdf){:target="_blank" rel="noopener"}
+- （3月1日）コロナ禍における婚姻・出生[[ここをクリック]](./files/ChibaNakata_MarriageBirth_20220301.pdf){:target="_blank" rel="noopener"}
+- （3月1日）コロナ感染と経済の見通し[[ここをクリック]](./files/MaedaNakata_Outlook_20220301.pdf){:target="_blank" rel="noopener"}
 
 
