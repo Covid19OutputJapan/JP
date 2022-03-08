@@ -144,5 +144,8 @@ summary:
 - （3月1日）子供の感染と親の就労（東京財団・千葉安佐子）[[ここをクリック]](./files/children_Chiba_20220301.pdf){:target="_blank" rel="noopener"}
 - （3月1日）コロナ禍における婚姻・出生[[ここをクリック]](./files/ChibaNakata_MarriageBirth_20220301.pdf){:target="_blank" rel="noopener"}
 - （3月1日）コロナ感染と経済の見通し[[ここをクリック]](./files/MaedaNakata_Outlook_20220301.pdf){:target="_blank" rel="noopener"}
+- （3月7日）政策と専門知ーアメリカの金融政策と日本のコロナ対策の現場ー[[ここをクリック]](./files/Nakata_20220307.pdf){:target="_blank" rel="noopener"}
+- （3月8日）コロナ感染と経済の見通し[[ここをクリック]](./files/MaedaNakata_Outlook_20220308.pdf){:target="_blank" rel="noopener"}
+- （3月8日）コロナ禍における子供の超過自殺[[ここをクリック]](./files/BatistaFujiiNakata_Suicides_20220308.pdf){:target="_blank" rel="noopener"}
 
 
