@@ -7,10 +7,10 @@ permalink: tokyo_latest.html
 summary:
 ---
 
-{% assign fig_loc = "./archives/20220308/Figures/" %}
+{% assign fig_loc = "./archives/20220315/Figures/" %}
 
-## 最終アップデート：2022年3月8日
-** 3月6日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2022年3月15日
+** 3月13日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -23,36 +23,36 @@ summary:
 ### ケースA：基本再生産数 3.0
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_A_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_A_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Not_Extended/MainResults_Scenario_A_JP.png)]({{ fig_loc }}Tokyo/Not_Extended/MainResults_Scenario_A_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 3.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Not_Extended/BackData_MainResults_Basic Reproduction Number = 3.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注：シナリオの詳細は「（3月8日）コロナ感染と経済の見通し」を参照
+注：シナリオの詳細は「（3月15日）コロナ感染と経済の見通し」を参照
 
 
 ### ケースB：基本再生産数 2.5
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_B_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_B_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Not_Extended/MainResults_Scenario_B_JP.png)]({{ fig_loc }}Tokyo/Not_Extended/MainResults_Scenario_B_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 2.5.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Not_Extended/BackData_MainResults_Basic Reproduction Number = 2.5.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注：シナリオの詳細は「（3月8日）コロナ感染と経済の見通し」を参照
+注：シナリオの詳細は「（3月15日）コロナ感染と経済の見通し」を参照
 
 ### ケースC：基本再生産数 2.0
 
 {: align="center"}
-|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_C_JP.png)]({{ fig_loc }}Tokyo/Baseline/MainResults_Scenario_C_JP.png)|
+|[![Tokyo_gradual_Y]({{ fig_loc }}Tokyo/Not_Extended/MainResults_Scenario_C_JP.png)]({{ fig_loc }}Tokyo/Not_Extended/MainResults_Scenario_C_JP.png)|
 
-この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 2.xls)からダウンロードしてください。
+この図表のバックデータは[ここ]({{ fig_loc }}Tokyo/Not_Extended/BackData_MainResults_Basic Reproduction Number = 2.xls)からダウンロードしてください。
 
 出所: 著者達の計算による。<br>
 
-注：シナリオの詳細は「（3月8日）コロナ感染と経済の見通し」を参照
+注：シナリオの詳細は「（3月15日）コロナ感染と経済の見通し」を参照
 
 
 

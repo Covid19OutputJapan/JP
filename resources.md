@@ -147,5 +147,7 @@ summary:
 - （3月7日）政策と専門知ーアメリカの金融政策と日本のコロナ対策の現場ー[[ここをクリック]](./files/Nakata_20220307.pdf){:target="_blank" rel="noopener"}
 - （3月8日）コロナ感染と経済の見通し[[ここをクリック]](./files/MaedaNakata_Outlook_20220308.pdf){:target="_blank" rel="noopener"}
 - （3月8日）コロナ禍における子供の超過自殺[[ここをクリック]](./files/BatistaFujiiNakata_Suicides_20220308.pdf){:target="_blank" rel="noopener"}
+- （3月15日）コロナ感染と経済の見通し[[ここをクリック]](./files/MaedaNakata_Outlook_20220315.pdf){:target="_blank" rel="noopener"}
+- （3月15日）コロナ禍における社会経済活動（with 千葉安佐子・大竹文雄、砂川武貴）(./files/ChibaFujiiNakataSunakawa_20220315.pdf){:target="_blank" rel="noopener"}
 
 
