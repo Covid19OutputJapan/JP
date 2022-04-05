@@ -23,7 +23,7 @@ summary:
 [[ここをクリック]](https://covid19outputjapan.github.io/JP/resources.html){:target="_blank" rel="noopener"}
 
 
-## [[「（4月5日）コロナ感染と経済の見通し」]](./files/MaedaNakata_Outlook_20220405.pdf){:target="_blank" rel="noopener"}
+## [「（4月5日）コロナ感染と経済の見通し」](./files/MaedaNakata_Outlook_20220405.pdf){:target="_blank" rel="noopener"}
 
 ### ケースA：基本再生産数 4.5(バックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 4.5.xls)からダウンロード)
 
