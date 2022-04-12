@@ -153,5 +153,6 @@ summary:
 - （4月5日）「迅速抗体検査による予防接種効果検証」（中⼭雅敬）[[ここをクリック]](./files/Nakayama_20220405.pdf){:target="_blank" rel="noopener"}
 - （4月5日）「東京五輪におけるコロナ対策」（中村英正）[[ここをクリック]](./files/Nakamura_20220405.pdf){:target="_blank" rel="noopener"}
 - （4月5日）コロナ感染と経済の見通し[[ここをクリック]](./files/MaedaNakata_Outlook_20220405.pdf){:target="_blank" rel="noopener"}
+- （4月12日）コロナ禍における超過自殺[[ここをクリック]](./files/BatistaFujiiNakata_Suicides_20220412.pdf){:target="_blank" rel="noopener"}
 
 
