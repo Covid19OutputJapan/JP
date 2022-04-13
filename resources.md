@@ -154,5 +154,8 @@ summary:
 - （4月5日）「東京五輪におけるコロナ対策」（中村英正）[[ここをクリック]](./files/Nakamura_20220405.pdf){:target="_blank" rel="noopener"}
 - （4月5日）コロナ感染と経済の見通し[[ここをクリック]](./files/MaedaNakata_Outlook_20220405.pdf){:target="_blank" rel="noopener"}
 - （4月12日）コロナ禍における超過自殺[[ここをクリック]](./files/BatistaFujiiNakata_Suicides_20220412.pdf){:target="_blank" rel="noopener"}
+- （4月12日）コロナ禍における社会経済活動（with 千葉安佐子・大竹文雄、砂川武貴）[[ここをクリック]](./files/ChibaFujiiNakataOhtakeSunakawa_20220412.pdf){:target="_blank" rel="noopener"}
+- （4月13日）47都道府県における病床見通し[[ここをクリック]](./files/NakataOkamoto_Outlook_20220413.pdf){:target="_blank" rel="noopener"}
+- （4月13日）47都道府県における病床見通し：レポートとツールの解説[[ここをクリック]](./files/NakataOkamoto_Briefing_20220413.pdf){:target="_blank" rel="noopener"}
 
 
