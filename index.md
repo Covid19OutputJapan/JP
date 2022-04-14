@@ -24,9 +24,9 @@ summary:
 
 ## （4月13日）47都道府県における病床見通し[「ここをクリック」](./files/NakataOkamoto_Outlook_20220413.pdf){:target="_blank" rel="noopener"}
 
-## [「（4月5日）コロナ感染と経済の見通し」](./files/MaedaNakata_Outlook_20220405.pdf){:target="_blank" rel="noopener"}
+(バックデータは[ここ]({{ fig_loc }}./files/47Outlook_backdata_0413.xls)からダウンロード)
 
-(バックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/47Outlook_backdata_0413.xls)からダウンロード)
+## [「（4月5日）コロナ感染と経済の見通し」](./files/MaedaNakata_Outlook_20220405.pdf){:target="_blank" rel="noopener"}
 
 ### ケースA：基本再生産数 4.5 (バックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 4.5.xls)からダウンロード)
 
