@@ -24,7 +24,7 @@ summary:
 
 ## （4月13日）47都道府県における病床見通し[「ここをクリック」](./files/NakataOkamoto_Outlook_20220413.pdf){:target="_blank" rel="noopener"}
 
-(バックデータは[ここ](./files/47Outlook_backdata_0413.xls)からダウンロード)
+(バックデータは[ここ](./files/47Outlook_backdata_0413.xlsx)からダウンロード)
 
 ## [「（4月5日）コロナ感染と経済の見通し」](./files/MaedaNakata_Outlook_20220405.pdf){:target="_blank" rel="noopener"}
 
