@@ -9,8 +9,8 @@ summary:
 
 {% assign fig_loc = "./archives/20220405/Figures/" %}
 
-## 最終アップデート：2022年4月5日
-** 4月3日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2022年4月14日
+** 4月10日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 {% include link_to_code.html %}
 
@@ -22,8 +22,11 @@ summary:
 {% include note.html content="参考資料のページに感染症対策と経済活動の両立を模索する上でお役に立てるかもしれない様々な資料を掲載しています。"%}
 [[ここをクリック]](https://covid19outputjapan.github.io/JP/resources.html){:target="_blank" rel="noopener"}
 
+## （4月13日）47都道府県における病床見通し[「ここをクリック」](./files/NakataOkamoto_Outlook_20220413.pdf){:target="_blank" rel="noopener"}
 
 ## [「（4月5日）コロナ感染と経済の見通し」](./files/MaedaNakata_Outlook_20220405.pdf){:target="_blank" rel="noopener"}
+
+(バックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/47Outlook_backdata_0413.xls)からダウンロード)
 
 ### ケースA：基本再生産数 4.5 (バックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 4.5.xls)からダウンロード)
 
