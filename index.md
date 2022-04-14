@@ -26,16 +26,6 @@ summary:
 
 (バックデータは[ここ](./files/47Outlook_backdata_0413.xlsx)からダウンロード)
 
-## [「（4月5日）コロナ感染と経済の見通し」](./files/MaedaNakata_Outlook_20220405.pdf){:target="_blank" rel="noopener"}
-
-### ケースA：基本再生産数 4.5 (バックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 4.5.xls)からダウンロード)
-
-
-### ケースB：基本再生産数 3.5 (バックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 3.5.xls)からダウンロード)
-
-
-
-### ケースC：基本再生産数 2.5 (バックデータは[ここ]({{ fig_loc }}Tokyo/Baseline/BackData_MainResults_Basic Reproduction Number = 2.5.xls)からダウンロード)
 
 
 
