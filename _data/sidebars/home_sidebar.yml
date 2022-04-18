@@ -268,3 +268,10 @@ entries:
       url: /icudeathmonitoring.html
       output: web, pdf
       type: homepage
+  - title: 入院患者数・重症患者数見通しツール
+    output: web, pdf
+    folderitems:
+    - title: 入院患者数・重症患者数見通しツール
+      url: /icudeathoutlook.html
+      output: web, pdf
+      type: homepage
