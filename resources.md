@@ -158,5 +158,9 @@ summary:
 - （4月13日）47都道府県における病床見通し[[ここをクリック]](./files/NakataOkamoto_Outlook_20220413.pdf){:target="_blank" rel="noopener"}
 - （4月13日）47都道府県における病床見通し：レポートとツールの解説[[ここをクリック]](./files/NakataOkamoto_Briefing_20220413.pdf){:target="_blank" rel="noopener"}
 - （4月19日）47都道府県における病床見通し[ここをクリック](./files/NakataOkamoto_Outlook_20220419.pdf){:target="_blank" rel="noopener"}
+- （4月19日）マクロモデルを使った政策分析（財務省新人研修）[ここをクリック](./files/nakata_mof_slides_20210419.pdf){:target="_blank" rel="noopener"}  
+- （4月22日）マクロモデルを使った政策分析（駒場現代経済理論講義）[ここをクリック](./files/Nakata_Komaba_Slides_20210422.pdf){:target="_blank" rel="noopener"}
+- （4月21日）「移動、接触、旅行の新型コロナ感染リスク―ワクチン接種の効果」（経済産業研究所・中田大悟）[ここをクリック](./files/DaigoNakata_20220415.pdf){:target="_blank" rel="noopener"}
+- （4月26日）47都道府県における病床見通し[ここをクリック](./files/NakataOkamoto_Outlook_20220426.pdf){:target="_blank" rel="noopener"}
 
 
