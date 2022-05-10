@@ -275,3 +275,10 @@ entries:
       url: /icudeathoutlook.html
       output: web, pdf
       type: homepage
+  - title: 都道府県別コロナ関連データセット
+    output: web, pdf
+    folderitems:
+    - title: 都道府県別コロナ関連データセット
+      url: /dataset.html
+      output: web, pdf
+      type: homepage
