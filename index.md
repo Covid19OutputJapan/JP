@@ -12,6 +12,7 @@ summary:
 ## 最終アップデート：2022年5月11日
 ** 5月9日までのデータに基づく分析です。画像はクリックすると拡大します。
 
+{% include link_to_code.html %}
 
 {% include note.html content="「コロナ感染と経済活動」最新分析のZoom解説と質疑応答。ミーティングID: 857 0917 4188 。パスコード: 434588。一般の方々も歓迎です。"%}
 [[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/j/85709174188?pwd=cm5pTjJ0ZU9nelpWUkU3N2tyOGZLZz09){:target="_blank" rel="noopener"}
