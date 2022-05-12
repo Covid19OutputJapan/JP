@@ -163,5 +163,6 @@ summary:
 - （4月21日）「移動、接触、旅行の新型コロナ感染リスク―ワクチン接種の効果」（経済産業研究所・中田大悟）[ここをクリック](./files/DaigoNakata_20220415.pdf){:target="_blank" rel="noopener"}
 - （4月26日）47都道府県における病床見通し[ここをクリック](./files/NakataOkamoto_Outlook_20220426.pdf){:target="_blank" rel="noopener"}
 - （5月10日）都道府県別コロナ関連データセット[ここをクリック](./files/FujiiNakata_Standard_Dataset.pdf){:target="_blank" rel="noopener"}
+- （5月11日）47都道府県における病床見通し[「ここをクリック」](./files/NakataOkamoto_Outlook_20220511.pdf){:target="_blank" rel="noopener"}
 
 

@@ -9,10 +9,9 @@ summary:
 
 {% assign fig_loc = "./archives/20220405/Figures/" %}
 
-## 最終アップデート：2022年4月26日
-** 4月24日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2022年5月11日
+** 5月9日までのデータに基づく分析です。画像はクリックすると拡大します。
 
-{% include link_to_code.html %}
 
 {% include note.html content="「コロナ感染と経済活動」最新分析のZoom解説と質疑応答。ミーティングID: 857 0917 4188 。パスコード: 434588。一般の方々も歓迎です。"%}
 [[ここをクリック]](https://u-tokyo-ac-jp.zoom.us/j/85709174188?pwd=cm5pTjJ0ZU9nelpWUkU3N2tyOGZLZz09){:target="_blank" rel="noopener"}
@@ -22,9 +21,9 @@ summary:
 {% include note.html content="参考資料のページに感染症対策と経済活動の両立を模索する上でお役に立てるかもしれない様々な資料を掲載しています。"%}
 [[ここをクリック]](https://covid19outputjapan.github.io/JP/resources.html){:target="_blank" rel="noopener"}
 
-## （4月26日）47都道府県における病床見通し[「ここをクリック」](./files/NakataOkamoto_Outlook_20220426.pdf){:target="_blank" rel="noopener"}
+## （5月11日）47都道府県における病床見通し[「ここをクリック」](./files/NakataOkamoto_Outlook_20220511.pdf){:target="_blank" rel="noopener"}
 
-(バックデータは[ここ](./files/47Outlook_backdata_0425.xlsx)からダウンロード)
+(バックデータは[ここ](./files/47Outlook_backdata_0510.xlsx)からダウンロード)
 
 
 
