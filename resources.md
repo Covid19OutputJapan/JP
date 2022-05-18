@@ -157,14 +157,14 @@ summary:
 - （4月12日）コロナ禍における社会経済活動（with 千葉安佐子・大竹文雄、砂川武貴）[[ここをクリック]](./files/ChibaFujiiNakataOhtakeSunakawa_20220412.pdf){:target="_blank" rel="noopener"}
 - （4月13日）47都道府県における病床見通し[[ここをクリック]](./files/NakataOkamoto_Outlook_20220413.pdf){:target="_blank" rel="noopener"}
 - （4月13日）47都道府県における病床見通し：レポートとツールの解説[[ここをクリック]](./files/NakataOkamoto_Briefing_20220413.pdf){:target="_blank" rel="noopener"}
-- （4月19日）47都道府県における病床見通し[ここをクリック](./files/NakataOkamoto_Outlook_20220419.pdf){:target="_blank" rel="noopener"}
-- （4月19日）マクロモデルを使った政策分析（財務省新人研修）[ここをクリック](./files/nakata_mof_slides_20210419.pdf){:target="_blank" rel="noopener"}  
-    - 「研修生の感想」[ここをクリック](./files/Nakata_MOF_Feedback_20220419.pdf){:target="_blank" rel="noopener"}  
-- （4月22日）マクロモデルを使った政策分析（駒場現代経済理論講義）[ここをクリック](./files/Nakata_Komaba_Slides_20210422.pdf){:target="_blank" rel="noopener"}
-- （4月21日）「移動、接触、旅行の新型コロナ感染リスク―ワクチン接種の効果」（経済産業研究所・中田大悟）[ここをクリック](./files/DaigoNakata_20220415.pdf){:target="_blank" rel="noopener"}
-- （4月26日）47都道府県における病床見通し[ここをクリック](./files/NakataOkamoto_Outlook_20220426.pdf){:target="_blank" rel="noopener"}
-- （5月10日）都道府県別コロナ関連データセット[ここをクリック](./files/FujiiNakata_Standard_Dataset.pdf){:target="_blank" rel="noopener"}
-- （5月11日）47都道府県における病床見通し[ここをクリック](./files/NakataOkamoto_Outlook_20220511.pdf){:target="_blank" rel="noopener"}
+- （4月19日）47都道府県における病床見通し[[ここをクリック]](./files/NakataOkamoto_Outlook_20220419.pdf){:target="_blank" rel="noopener"}
+- （4月19日）マクロモデルを使った政策分析（財務省新人研修）[[ここをクリック]](./files/nakata_mof_slides_20210419.pdf){:target="_blank" rel="noopener"}  
+    - 「研修生の感想」[[ここをクリック]](./files/Nakata_MOF_Feedback_20220419.pdf){:target="_blank" rel="noopener"}  
+- （4月22日）マクロモデルを使った政策分析（駒場現代経済理論講義）[[ここをクリック]](./files/Nakata_Komaba_Slides_20210422.pdf){:target="_blank" rel="noopener"}
+- （4月21日）「移動、接触、旅行の新型コロナ感染リスク―ワクチン接種の効果」（経済産業研究所・中田大悟）[[ここをクリック]](./files/DaigoNakata_20220415.pdf){:target="_blank" rel="noopener"}
+- （4月26日）47都道府県における病床見通し[[ここをクリック]](./files/NakataOkamoto_Outlook_20220426.pdf){:target="_blank" rel="noopener"}
+- （5月10日）都道府県別コロナ関連データセット[[ここをクリック]](./files/FujiiNakata_Standard_Dataset.pdf){:target="_blank" rel="noopener"}
+- （5月11日）47都道府県における病床見通し[[ここをクリック]](./files/NakataOkamoto_Outlook_20220511.pdf){:target="_blank" rel="noopener"}
 - （5月13日）コロナ禍における超過自殺[[ここをクリック]](./files/BatistaFujiiNakata_Suicides_20220513.pdf){:target="_blank" rel="noopener"}
 - （5月17日）コロナ禍における経済損失：国際比較[[ここをクリック]](./files/Nakata_20220517.pdf){:target="_blank" rel="noopener"}
 
