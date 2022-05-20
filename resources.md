@@ -167,5 +167,7 @@ summary:
 - （5月11日）47都道府県における病床見通し[[ここをクリック]](./files/NakataOkamoto_Outlook_20220511.pdf){:target="_blank" rel="noopener"}
 - （5月13日）コロナ禍における超過自殺[[ここをクリック]](./files/BatistaFujiiNakata_Suicides_20220513.pdf){:target="_blank" rel="noopener"}
 - （5月17日）コロナ禍における経済損失：国際比較[[ここをクリック]](./files/Nakata_20220517.pdf){:target="_blank" rel="noopener"}
+- （5月20日）47都道府県における感染・経済・人流の関係−レポートとダッシュボードの解説−[[ここをクリック]](./files/47MobilityReport_Briefing_20220520.pdf){:target="_blank" rel="noopener"}
+- （5月20日）47都道府県における感染・経済・人流の関係[[ここをクリック]](./files/47MobilityReport_Report_20220520.pdf){:target="_blank" rel="noopener"}
 
 
