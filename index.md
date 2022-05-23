@@ -9,8 +9,8 @@ summary:
 
 {% assign fig_loc = "./archives/20220405/Figures/" %}
 
-## 最終アップデート：2022年5月11日
-** 5月9日までのデータに基づく分析です。画像はクリックすると拡大します。
+## 最終アップデート：2022年5月22日
+** 5月20日までのデータに基づく分析です。画像はクリックすると拡大します。
 
 <!--{% include link_to_code.html %}-->
 
@@ -22,9 +22,9 @@ summary:
 {% include note.html content="参考資料のページに感染症対策と経済活動の両立を模索する上でお役に立てるかもしれない様々な資料を掲載しています。"%}
 [[ここをクリック]](https://covid19outputjapan.github.io/JP/resources.html){:target="_blank" rel="noopener"}
 
-## （5月11日）47都道府県における病床見通し[「ここをクリック」](./files/NakataOkamoto_Outlook_20220511.pdf){:target="_blank" rel="noopener"}
+## （5月22日）47都道府県における病床見通し[「ここをクリック」](./files/NakataOkamoto_Outlook_20220522.pdf){:target="_blank" rel="noopener"}
 
-(バックデータは[ここ](./files/47Outlook_backdata_0510.xlsx)からダウンロード)
+(バックデータは[ここ](./files/47Outlook_backdata_0522.xlsx)からダウンロード)
 
 
 
