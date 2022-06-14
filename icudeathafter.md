@@ -17,7 +17,7 @@ summary:
 
 ### 1．重症化率（全体）
 
-### ** 毎日夜8時更新
+#### ** 毎日夜8時更新
 
 ### ![](https://lh5.googleusercontent.com/YQbFAMPdt0N2jBMS1Dz1GdGsviQ_bcIKGwUnZAqAZJAzu34CvOb7IEsmo6WpAKZac-rbre62B-NbTrpZ7IRuF7bfqNz8tlU6hioOW4X0HZD1dghL3BFf7vVZ6ct-jGuKre-IF4osJTfyoPGHhg "第六波後の重症化率（東京都）: 速報値")
 
@@ -26,7 +26,7 @@ summary:
 
 ### 2．致死率（全体）
 
-### ** 毎日夜8時更新
+#### ** 毎日夜8時更新
 
 ![](https://lh6.googleusercontent.com/5DP5ZmGA7h1WYHTimRe5M65QTbd0mB2nyNXKUWiwOXQrP0-oYqa3tqlyvwP6XlUYi4YOw0MbxsDnfqRjkL2oFFk5r-K9q7IJrkVtvp3jMM4U2uy23u4MrfTPNLkp7liy9MxTzfMURUqR7bzViA "第六波後の致死率（東京都）")
 
