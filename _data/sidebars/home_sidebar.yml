@@ -268,6 +268,15 @@ entries:
       url: /icudeathmonitoring.html
       output: web, pdf
       type: homepage
+
+  - title: 第六波後の重症化率・致死率
+    output: web, pdf
+    folderitems:
+    - title: 第六波後の重症化率・致死率
+      url: /icudeathafter.html
+      output: web, pdf
+      type: homepage
+
   - title: 入院患者数・重症患者数見通しツール
     output: web, pdf
     folderitems:
