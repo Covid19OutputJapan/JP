@@ -19,8 +19,7 @@ summary:
 
 #### ** 毎日夜8時更新
 
-### ![](https://lh5.googleusercontent.com/YQbFAMPdt0N2jBMS1Dz1GdGsviQ_bcIKGwUnZAqAZJAzu34CvOb7IEsmo6WpAKZac-rbre62B-NbTrpZ7IRuF7bfqNz8tlU6hioOW4X0HZD1dghL3BFf7vVZ6ct-jGuKre-IF4osJTfyoPGHhg "第六波後の重症化率（東京都）: 速報値")
-
+<iframe width="789" height="371" seamless frameborder="0" scrolling="no" src="[https://docs.google.com/spreadsheets/d/e/2PACX-1vR4a-grWuSjO9_1Z4JjSHY4Dq0QYeM4i-XgJqIz1r5CSOsFtFSiUNNORsir7barbekJKLJOjp3QH3yP/pubchart?oid=777397908&amp;format=interactive](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vR4a-grWuSjO9_1Z4JjSHY4Dq0QYeM4i-XgJqIz1r5CSOsFtFSiUNNORsir7barbekJKLJOjp3QH3yP/pubchart?oid%3D777397908%26amp;format%3Dinteractive&sa=D&source=docs&ust=1655296341245757&usg=AOvVaw0e3ApipVpF7abOQ_EI-A-I)"></iframe>
 出所: 著者達の計算による。  
 注1：計算の詳細に関しては参考資料ページにある「（1月11日）第6波における重症化率・致死率モニタリング」をご覧下さい。簡易的な計算に基づく推計値である点に注意してください。
 
@@ -28,7 +27,7 @@ summary:
 
 #### ** 毎日夜8時更新
 
-![](https://lh6.googleusercontent.com/5DP5ZmGA7h1WYHTimRe5M65QTbd0mB2nyNXKUWiwOXQrP0-oYqa3tqlyvwP6XlUYi4YOw0MbxsDnfqRjkL2oFFk5r-K9q7IJrkVtvp3jMM4U2uy23u4MrfTPNLkp7liy9MxTzfMURUqR7bzViA "第六波後の致死率（東京都）")
+<iframe width="669" height="371" seamless frameborder="0" scrolling="no" src="[https://docs.google.com/spreadsheets/d/e/2PACX-1vR4a-grWuSjO9_1Z4JjSHY4Dq0QYeM4i-XgJqIz1r5CSOsFtFSiUNNORsir7barbekJKLJOjp3QH3yP/pubchart?oid=96975663&amp;format=interactive](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vR4a-grWuSjO9_1Z4JjSHY4Dq0QYeM4i-XgJqIz1r5CSOsFtFSiUNNORsir7barbekJKLJOjp3QH3yP/pubchart?oid%3D96975663%26amp;format%3Dinteractive&sa=D&source=docs&ust=1655296341247599&usg=AOvVaw2TZXWWrESOU_0HKccRSttq)"></iframe>
 
 出所: 著者達の計算による。  
 注1：計算の詳細に関しては参考資料ページにある「（1月11日）第6波における重症化率・致死率モニタリング」をご覧下さい。簡易的な計算に基づく推計値である点に注意してください。
